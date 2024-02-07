@@ -1,0 +1,567 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"bd82acb66e","applicationID":"550092623","transactionName":"Z1wAMEpUVxUEVkxeX14WLzJ7GnwUF1pKdF9eTRALVFlcFEp7V0N2X0wMAA==","queueTime":0,"applicationTime":6,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"bd82acb66e",applicationID:"550092623"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){d("pageHide",[p.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1209.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <title>MEED | </title>
+    <link rel="icon" href="/assets/images/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <link rel="shortcut icon" href="/Content/images/favicon.ico" />
+
+    <link href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet" />
+    <!-- Rubic font -->
+    <!-- CSS for Icons font -->
+    <link href="https://icassets.globaldata.com/gdic/assets/css/globaldata-font.css" rel="stylesheet" />
+    <link href="https://icassets.globaldata.com/gdic/assets/external/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" />
+    <!-- CSS for Icons font -->
+    <!-- CSS files -->
+    <link onerror="loadCSS('https://icassets.globaldata.com/gdic/assets/css/foundation-clean.min.css')" href="https://pdm.blob.core.windows.net/gdic/assets/css/foundation-clean.min.css" rel="stylesheet" />
+    <link onerror="loadCSS('https://icassets.globaldata.com/gdic/assets/external/datatables/responsive/2.2.3/css/responsive.dataTables.min.css')" href="https://pdm.blob.core.windows.net/gdic/assets/external/datatables/responsive/2.2.3/css/responsive.dataTables.min.css" rel="stylesheet" />
+    <link onerror="loadCSS('https://icassets.globaldata.com/gdic/assets/external/datatables/responsive/2.2.3/css/responsive.foundation.min.css')" href="https://pdm.blob.core.windows.net/gdic/assets/external/datatables/responsive/2.2.3/css/responsive.foundation.min.css" rel="stylesheet" />
+    <link onerror="loadCSS('https://icassets.globaldata.com/gdic/assets/external/fancytree/2.27/skin-win8/ui.fancytree.min.css')" href="https://pdm.blob.core.windows.net/gdic/assets/external/fancytree/2.27/skin-win8/ui.fancytree.min.css" rel="stylesheet" />
+    <link onerror="loadCSS('https://icassets.globaldata.com/gdic/assets/css/datepicker/foundation-datepicker.css')" href="https://pdm.blob.core.windows.net/gdic/assets/css/datepicker/foundation-datepicker.css" rel="stylesheet" />
+    <link href="https://icassets.globaldata.com/gdic/assets/css/item-specific/result-page.min.css" rel="stylesheet" />
+    
+    <link href="https://icassets.globaldata.com/gdic/assets/css/transition/transition.css" rel="stylesheet" />
+    <!-- CSS files -->
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/jquery.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/jquery.js">\x3C/script>')</script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/foundation-conflict.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/foundation-conflict.js">\x3C/script>')</script>
+
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/foundation.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/foundation.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/gd/toggler.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/gd/toggler.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/polyfill/promise-linker.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/polyfill/promise-linker.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/gd/menu.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/gd/menu.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/gd/collective-func.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/gd/collective-func.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/datepicker/foundation-datepicker.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/foundation-datepicker.js">\x3C/script>')</script>
+    
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/gd/toggler.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/gd/toggler.js">\x3C/script>')</script>
+    <script src="https://pdm.blob.core.windows.net/gdic/assets/js/gd/orbit.js"></script>
+    <script>window.jQuery || document.write('<script src="https://icassets.globaldata.com/gdic/assets/js/gd/orbit.js">\x3C/script>')</script>
+    <script src="https://unpkg.com/simplebar@latest/dist/simplebar.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(document).foundation();
+
+            $('.menu-icon').on('click', function () {
+                $(this).addClass('hide').removeClass('show');
+                $('.menu-icon-close').addClass('show').removeClass('hide');
+            });
+
+            $('.menu-icon-close').on('click', function () {
+                $(this).addClass('hide').removeClass('show');
+                $('.menu-icon').addClass('show').removeClass('hide');
+            });
+
+            toggleIconInit();
+            $("#anchorsitesearch").hide();
+        });
+        window.onload = function () {
+        }
+        $(document).ready(function () {
+            var fullpath = window.location.pathname;
+            $('a[href$="../..${fullpath}"]').addClass('is-active');
+        });
+
+    </script>
+    <script src="/Scripts/common/common-functionality.js"></script>
+    
+    
+
+    <script src="/js/animate.js"></script>
+    
+    <script src="/js/custom.js"></script>
+    <link href="/css/animate.css" rel="stylesheet" />
+    <link href="/css/globaldata.min.css" rel="stylesheet" />
+    <link href="/css/meed.css?v=3" rel="stylesheet" />
+    <link href="https://pushcrew.com/http-v4/css/httpFront-v4.css" rel="stylesheet" />
+    <script src="https://cdn.pushcrew.com/js/93f946b12986e44a2cd685de69d03eb5.js"></script>
+    <script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TWX4DX');</script>
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+    <script type='text/javascript'>
+    googletag.cmd.push(function () {
+        var lbMap = googletag.sizeMapping()
+        .addSize([900, 0], [728, 90])
+        .addSize([0, 0], [])
+        .build();
+        googletag.defineSlot('/21665245196/MPU', [300, 250], 'div-meed-mpu').addService(googletag.pubads());
+        googletag.defineSlot('/21665245196/Leaderboard', [728, 90], 'div-meed-lb')
+          .defineSizeMapping(lbMap)
+          .addService(googletag.pubads());
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().setTargeting("", "");
+        googletag.enableServices();
+    });
+    </script>
+    
+
+
+
+
+    <script async src="https://cdn.permutive.com/e82dc6a7-79a5-49b7-b1ed-a89a37f2fe8b-web.js"></script>
+
+        <script>
+
+            !function (n, e, o, r, i) { if (!e) { e = e || {}, window.permutive = e, e.q = [], e.config = i || {}, e.config.projectId = o, e.config.apiKey = r, e.config.environment = e.config.environment || "production"; for (var t = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], c = 0; c < t.length; c++) { var f = t[c]; e[f] = function (n) { return function () { var o = Array.prototype.slice.call(arguments, 0); e.q.push({ functionName: n, arguments: o }) } }(f) } } }(document, window.permutive, "e82dc6a7-79a5-49b7-b1ed-a89a37f2fe8b", "62905692-4299-42af-951f-aa610546b2b1", {});
+            window.googletag = window.googletag || {}, window.googletag.cmd = window.googletag.cmd || [], window.googletag.cmd.push(function () { if (0 === window.googletag.pubads().getTargeting("permutive").length) { var g = window.localStorage.getItem("_pdfps"); window.googletag.pubads().setTargeting("permutive", g ? JSON.parse(g) : []) } });
+            permutive.addon('web', {});
+        </script>
+
+	<script type="text/javascript">
+		_linkedin_partner_id = "821179"; 
+		window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; 
+		window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+	</script>
+	<script type="text/javascript"> 
+		(function(){
+			var s = document.getElementsByTagName("script")[0]; 
+			var b = document.createElement("script");
+			b.type = "text/javascript";
+			b.async = true; 
+			b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; 
+			s.parentNode.insertBefore(b, s);
+			})();
+	</script> 
+	<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=821179&fmt=gif" /> </noscript>
+</head>
+<body style="overflow: auto;">
+    <div class="grid-container pt-3 pb-3 show-for-large" data-hide-for="small">
+        <div class="top-leaderboard m-auto">
+            <div id='div-meed-lb'>
+    <script>
+		googletag.cmd.push(function() { googletag.display('div-meed-lb'); });
+    </script>
+</div>
+        </div>
+    </div>
+    <main>
+        <!--top leaderboard  -->
+
+          <!--header starts-->
+<!--top nav bar -->
+
+
+<header id="header" class="sticky-top">
+
+
+    <div class="title-bar show-for-small" data-responsive-toggle="main-navigation" data-sticky-on="medium down" data-hide-for="large" style="display:none;">
+        <div class="cell grid-x align-middle">
+            <div class="cell small-4 logo">
+                <a href="/" class="meed-logo-link">
+                    <img class="meed-logo-img" src="/assets/images/logo.svg" alt="MEED Logo">
+                </a>
+            </div>
+
+            <div class="cell small-8 right-content grid-x align-right">
+                
+                <!--//-->
+                <div class="cell shrink user-icon">
+                    <ul class="vertical menu" data-accordion-menu style="position:relative;z-index:3">
+                        <li>
+
+                                <a href="#" class="gd-usermenu" data-open="modalLogin" aria-controls="modalLogin" aria-haspopup="true" tabindex="0">
+                                    <span class="gd-usermenu--user-badge">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                    </span>
+
+                                </a>
+                        </li>
+                    </ul>
+                </div>
+                <!--//-->
+                <a data-toggle-icon>
+                    <i class="gd-hamburger" data-toggle="main-navigation" data-toggler="gd-hamburger gd-close"></i>
+                </a>
+
+            </div>
+        </div>
+    </div>
+    <div class="branding">
+        <div class="grid-container full">
+            <div class="grid-x grid-padding-x">
+                <div class="cell large-shrink logo show-for-large" data-hide-for="small" data-appear-top-offset="-200" data-animated="fadeIn" data-animation-speed="0">
+                    <a href="/" class="meed-logo-link">
+                        <img class="meed-logo-img" src="/assets/images/logo.svg" alt="MEED Logo">
+                    </a>
+                </div>
+                <div class="grid-x align-right show-for-large cell auto">
+                    <div class="header-story large-6" data-appear-right-offset="-200" data-animated="fadeInRight">
+                        <div class="media grid-x">
+                                    <img class="align-self-start cell" alt="Image" src="/assets/images/JohnBambridge.png" style="width:100px;">
+                                <div class="media-body cell auto">
+                                    <p class="top-author">John Bambridge</p>
+                                    <p class="top-title">
+                                        <a href="/damascus-strengthens-grip-on-power">
+                                            Damascus strengthens grip on power
+                                        </a>
+                                    </p>
+                                </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="grid-container main-navigation-wrapper">
+        <div class="grid-container full">
+            <div class="grid-x grid-padding-x align-middle" id="main-navigation">
+                <div class="cell large-9 xlarge-9">
+                    <ul class="dropdown vertical menu  large-horizontal animated fadeIn" data-responsive-menu="drilldown large-dropdown" data-parent-link="boolean" data-close-on-click="boolean" style="position:relative;z-index:3">
+                        <li><a href="/"><i class="meed-home-icon" aria-hidden="true"></i></a></li>
+                        <li>
+                            <a href="/latest" role="button" aria-haspopup="true" aria-expanded="false">Latest<span></span></a>
+                            <ul style="display:none;" class="menu" aria-labelledby="navbarDropdown">
+                                
+                                <li><a href="/latest/Hot-Topic-2">Coronavirus crisis</a></li>
+                                <li><a href="/latest/news">News</a></li>
+                                <li><a href="/latest/analysis">Analysis</a></li>
+                                <li><a href="/latest/commentaries">Commentaries</a></li>
+                                <li><a href="/latest/tenders">Tenders</a></li>
+                                <li><a href="/latest/interviews">Interviews</a></li>
+                                <li><a href="/latest/infographics">Infographics</a></li>
+                                <li><a href="/latest/Hot-Topic-3">Outlook for Growth</a></li>
+                                <li><a href="/latest/road-to-2020">Road to Expo</a></li>
+                                <li><a href="https://www.youtube.com/user/meeddubai/videos" target="_blank">MeedTV</a></li>
+                                <li><a href="/latest/meed-business-review">Meed Business Review</a></li>
+                                <li><a href="/latest/mashreq-partnership">Mashreq Partnership</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="/in-depth" role="button"
+                               aria-haspopup="true" aria-expanded="false">In depth<span></span></a>
+                            <ul style="display:none;" class="menu" aria-labelledby="navbarDropdown">
+                                <li><a href="/in-depth/industry-reports">Industry Reports</a></li>
+                                <li><a href="/in-depth/market-reports">Market Reports</a></li>
+                                <li><a href="/in-depth/legal">Legal</a></li>
+                                <li><a href="/in-depth/leadership">Leadership</a></li>
+                                <li><a href="/in-depth/industry-voice">Industry Voice</a></li>
+                                <li><a href="/in-depth/gulf-index">Gulf Projects Index</a></li>
+                                <li><a href="/in-depth/monthly-contract-awards">Monthly contract awards</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/industries" role="button"
+                               aria-haspopup="true" aria-expanded="false">Industries<span></span></a>
+                            <ul style="display:none;" class="menu" aria-labelledby="navbarDropdown">
+                                <li><a href="/industries/finance?industry=77508">Finance</a></li>
+                                <li><a href="/industries/construction?industry=77507">Construction</a></li>
+                                <li><a href="/industries/tourism?industry=77509">Tourism</a></li>
+                                <li><a href="/industries/manufacturing-and-mining?industry=77501">Manufacturing & mining</a></li>
+                                <li><a href="/industries/oil-and-gas?industry=77504">Oil & Gas</a></li>
+                                <li><a href="/industries/petrochemicals?industry=77506">Petrochemicals</a></li>
+                                <li><a href="/industries/power?industry=77502">Power</a></li>
+                                <li><a href="/industries/water?industry=77503">Water</a></li>
+                                <li><a href="/industries/technology-and-it?industry=77510">Technology & IT</a></li>
+                                <li><a href="/industries/transport?industry=77505">Transport</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/countries/" role="button" aria-expanded="false">Countries<span></span></a>
+                            <ul style="display:none;" class="menu" aria-labelledby="navbarDropdown">
+                                <li><a href="/countries/algeria?location=4901">Algeria</a></li>
+                                <li><a href="/countries/bahrain?location=4902">Bahrain</a></li>
+                                <li><a href="/countries/egypt?location=4903">Egypt</a></li>
+                                <li><a href="/countries/iran?location=4904">Iran</a></li>
+                                <li><a href="/countries/iraq?location=4905">Iraq</a></li>
+                                <li><a href="/countries/jordan?location=4906">Jordan</a></li>
+                                <li><a href="/countries/kuwait?location=4907">Kuwait</a></li>
+                                <li><a href="/countries/lebanon?location=4908">Lebanon</a></li>
+                                <li><a href="/countries/libya?location=4909">Libya</a></li>
+                                <li><a href="/countries/morocco?location=4910">Morocco</a></li>
+                                <li><a href="/countries/oman?location=4911">Oman</a></li>
+                                <li><a href="/countries/qatar?location=4912">Qatar</a></li>
+                                <li><a href="/countries/saudi-arabia?location=4913">Saudi Arabia</a></li>
+                                <li><a href="/countries/syria?location=4914">Syria</a></li>
+                                <li><a href="/countries/tunisia?location=4915">Tunisia</a></li>
+                                <li><a href="/countries/uae?location=4916">UAE</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="https://buy.meed.com/product-category/buy-premium-reports/" target="_blank">Reports<span></span></a></li>
+
+                        <li>
+                            <a href="#" role="button" aria-haspopup="true" aria-expanded="false">Services<span></span></a>
+                            <ul style="display:none;" class="menu" aria-labelledby="navbarDropdown">
+                                <li>
+                                    <a href="/Services/Awards" target="_blank">Awards</a>
+                                    <ul class="menu" aria-labelledby="navbarDropdown">
+                                        <li><a href="https://projects-awards.meed.com/" target="_blank">MEED Projects Awards</a></li>
+                                        
+                                        <li><a href="https://www.meedawards.meed.com/" target="_blank">MEED Awards</a></li>
+                                        <li><a href="https://corporatehealthandwellness.meed.com/" target="_blank">Corporate Health & wellness awards</a></li>
+                                        <li><a href="https://smeawards.meed.com/" target="_blank">Gulf Capital SME Awards</a></li>
+                                        <li><a href="https://www.rbiasiatrailblazer.verdict.co.uk/" target="_blank">Retail Banker International Asia Trailblazer Summit and Awards  </a></li>
+                                        <li><a href="https://pbigws.verdict.co.uk/" target="_blank">Private Banker International Summit and Awards</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Conferences</a>
+                                    <ul class="menu" aria-labelledby="navbarDropdown">
+                                        <li><a href="https://www.ahic.com/" target="_blank">Arabian Hotel Investment Conference (AHIC)</a></li>
+                                        
+                                        
+
+                                        <li><a href="/mena-future-energy-decarbonisation-summit">MENA Future Energy & Decarbonisation Summit</a></li>
+                                        <li><a href="/mena-future-oil-gas-technology-summit">MENA Future Oil & Gas Technology Summit</a></li>
+                                        <li><a href="/mena-ppp-virtual-think-tank">MENA PPP Virtual Think Tank</a></li>
+                                        <li><a href="/mena-smart-construction-summit">MENA Smart Construction Summit</a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li><a href="https://www.meedprojects.com/" target="_blank">MEED Projects</a></li>
+                                
+                                <li><a href="/Services/marketing" target="_blank">Marketing solutions</a></li>
+                                <li><a href="/advertising" target="_blank">Advertising</a></li>
+                                <li><a href="https://www.globaldata.com/consulting/" target="_blank">Consulting</a></li>
+                            </ul>
+                        </li>
+                                                    <li class="sibscribe">
+                                
+                                <a href="https://www.reports.meed.com/meed-digital-subscription/?utm_medium=meedwebsite" target="_blank">Subscribe</a>
+                            </li>
+                    </ul>
+                </div>
+
+                <div class="cell auto pre-login">
+                    <div class="grid-x align-right">
+                        <div class="cell large-8 xlarge-8">
+                        </div>
+                        <div class="cell shrink">
+                            <ul class="vertical menu align-right" data-accordion-menu style="position:relative;z-index:3">
+<input id="RedirectTo" name="RedirectTo" type="hidden" value="/HomePage/Index" />                                    <li>
+                                        <!-- Before login show -->
+                                        <a class="gd-usermenu show-for-large" data-open="modalLogin" aria-controls="modalLogin" aria-haspopup="true" tabindex="0">
+                                            <span class="gd-usermenu--name"><strong>SIGN IN</strong></span>
+                                            <span class="gd-usermenu--user-badge">
+                                                <i class="fa fa-user" aria-hidden="true"></i>
+                                            </span>
+                                        </a>
+
+                                        <div id="loginPreocessing" style="display:none;  left: 9em; position: absolute;"></div>
+                                        <div class="reveal prompt" id="modalLogin" data-reveal>
+                                            <header>
+                                                <img class="meed-logo-img" src="/assets/images/logo.svg" alt="MEED Logo">
+                                            </header>
+                                            <section>
+                                                <div id="InvalidLoginDetails" style="display:none" class="field-validation-error_new hidenField">
+                                                    Your username or password is invalid. Please try again .
+                                                </div>
+                                                <div id="LoginDetailsRequired" style="display:none" class="field-validation-error_new hidenField">
+                                                    username and/or password required.
+                                                </div>
+                                                <div id="Subscriptionerror" style="display:none" class="field-validation-error_new hidenField">
+                                                    Your subscription has expired.
+                                                </div>
+                                                <div id="InternalServererror" style="display:none" class="field-validation-error_new hidenField">
+                                                    The page you requested has generated an unexpected error.
+                                                </div>
+                                                <div id="loginPreocessing" style="display:none;  left: 9em; position: absolute;"></div>
+                                                <div class="grid-x grid-margin-y gutter-small meed-login-box">
+                                                    <div class="cell">
+                                                        <div class="input-group">
+                                                            <input id="modalLogin" type="text" PLACEHOLDER="Username or Email Address">
+                                                        </div>
+                                                    </div>
+                                                    <div class="cell">
+                                                        <div class="input-group">
+                                                            <input id="modalPassword" type="password" PLACEHOLDER="Password">
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="cell">
+                                                        <div class="grid-x align-left"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label></div>
+                                                        <a href="/forgot-password" class="note">Lost your password?</a>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                            <section>
+                                                <div id="LoginAsync" class="button-group small-up-2 expand">
+                                                    <a class="button small" data-open="modalLogin" onclick="AsynckLoginCheck('/Account/validateLogin/');"><span>Login</span></a>
+                                                </div>
+                                            </section>
+                                            <button class="close-button" data-close aria-label="Close modal" type="button">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+
+                                    </li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!--Main nav bar -->
+</header>
+<script src="/Scripts/SiteAutoComplete.js"></script>
+<script src="/Scripts/pmg.PartialViews.js"></script>
+<script>
+    function submit_search() {
+        debugger;
+        var $pageHeaderForm = $('form#search_button');
+        if ($("#search_txtfield").val().length > 0)
+            $pageHeaderForm.submit();
+        else
+            $("#search_txtfield").jAlert("Please enter some text in the search box", "info", 'infoboxid', 300, 4);
+    }
+    $('#modalLogin, #modalPassword').keypress(function (e) {
+        var key = e.which;
+        if (key == 13)  // the enter key code
+        {
+            AsynckLoginCheck('/Account/validateLogin/');
+            return false;
+        }
+    });
+</script>
+
+<div class="print-header"><img class="meed-logo-img" src="/assets/images/header_bg.jpg" alt="MEED Logo"></div>
+
+        <!--Page content -->
+        <!-- main content -->
+        
+<main>
+
+    <div class="grid-container full">
+        <div class="cell s-large-9 large-10">
+            <div class="main-content">
+                <div class="grid-container">
+                    <div class="grid-x grid-margin-x grid-margin-y">
+                        <div class="cell">
+                            <a class="button back" onclick="window.history.go(-1)">Back</a>
+                            <div class="grid-x align-bottom">
+                                <div class="cell medium-auto">
+                                    <h1 class="regular">This might be because:</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="grid-container">
+                    <div class="grid-x grid-margin-x">
+                        <div class="cell">
+                            <div class="table-container">
+                                <ul>
+                                    <li>You have typed the web address incorrectly, or</li>
+                                    <li>the page you were looking for may have been moved updated or deleted.</li>
+                                </ul>
+                                <b>Please try the following options instead:</b>
+                                <ul>
+                                    <li>Use the search above to see if it's available else where</li>
+                                    <li>
+                                        Navigate to it from our <a href="/">
+                                            <strong>home page</strong>
+                                        </a>.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+        <div class="pushcrew-side-button pushcrew-chicklet-position-tr" style="background-color: rgb(77, 157, 224) !important; color: rgb(255, 255, 255) !important; right: -4px;"><div>Get Notifications</div></div>
+
+        <!-- main content End-->
+        <!--Page content -->
+    </main>
+    
+    
+
+<footer class="mt-2">
+    <div class="grid-container full">
+        <div class="grid-x grid-margin-x">
+            <div class="cell medium-6 large-3 border-right-dotted">
+                <img src="/assets/images/meed-footer-logo.png" class="footer-logo" alt="MEED">
+                <div class="medium-12 row">
+                    <span class="rounded-social-buttons">
+                        <a class="social-button facebook" href="https://www.facebook.com/MEEDdubai" target="_blank"></a>
+                        <a class="social-button twitter" href="https://twitter.com/meeddubai" target="_blank"></a>
+                        <a class="social-button linkedin" href="https://www.linkedin.com/company/meed" target="_blank"></a>
+                        <a class="social-button youtube" href="https://www.youtube.com/user/meeddubai/" target="_blank"></a>
+                        
+                    </span>			
+                </div>
+
+
+            </div>
+
+            <div class="cell medium-6 large-3 border-right-dotted">
+                <ul>
+                    
+                    <li><a target="_blank" href="https://www.reports.meed.com/meed-digital-subscription/?utm_medium=meedwebsite">Subscribe</a></li>
+                    <li><a  href="/about-us">About Us</a></li>
+                    <li><a href="/rss-feeds">RSS</a></li>
+                </ul>
+            </div>
+
+            <div class="cell medium-6 large-3 border-right-dotted">
+                <ul>
+                    <li><a href="/renew-meed-com-subscription">Renew</a></li>
+                    <li><a href="/faqs">FAQ</a></li>
+                    <li><a href="/meed-terms-conditions-use">T&amp;C </a></li>
+                </ul>
+            </div>
+
+            <div class="cell medium-6 large-3 border-right-dotted">
+                <ul>
+                    <li><a target="_blank" href="/advertising">Advertise</a></li>
+                    <li><a href="/contacts">Contact Us</a></li>
+                    <li><a href="/privacy-and-cookies">Privacy and Cookies</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <div class="copy-writes">
+        <div class="grid-container full cell grid-x align-justify align-middle copyright-legal-wrapper"><p>© MEED MEDIA FZ LLC Company number 18693 (Dubai Creative Clusters Authority) Registered address: Al Thuraya 1, 20th Floor, Dubai Media City, PO Box 2590, Dubai, UAE</p></div>
+    </div>
+</footer>
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7RSVJNF1N2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7RSVJNF1N2');
+</script>
+</body>
+
+</html>

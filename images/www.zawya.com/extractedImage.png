@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title id="metatitle">Page Not Found | ZAWYA MENA Edition</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="Page Not Found | ZAWYA MENA Edition">
+<meta name="google-site-verification" content="ED3MkR_x9ykXZ_zC3EQPYeTblO6jOkK25171DxrwvsQ"/>
+<meta name="google-site-verification" content="q31zJM_8rYUUeze5J9Y4DR74oNwAI63fTvt2HNS5xSc"/>
+<meta name="google-site-verification" content="s5nZs3BKQKmTP0G92IkiEa3I-7AnvIJQMVcbj-lt0dI" />
+<meta property="fb:app_id" content="692441860934654"/>
+
+<meta property="og:title" content="Page Not Found | ZAWYA MENA Edition"/>
+<meta property="og:description" content="Page Not Found | ZAWYA MENA Edition">
+<meta property="og:image" content="https://www.zawya.com/resources/img/zawya-logo-en-social.png"/>
+    <meta property="og:image:secure_url" content="https://www.zawya.com/resources/img/zawya-logo-en-social.png"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="878"/>
+    <meta property="og:image:type" content="image/jpeg"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta property="fb:pages" content="112684488765578"/>
+
+<link rel="stylesheet" href="/resources/styles/super-en.css?r2362021"/>
+    <!--- ZCOM-3060 --->
+<script data-ad-client="ca-pub-9000706886751171" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript" async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  googletag.cmd.push(function() {
+    //Set Targeting
+
+    googletag.pubads().setTargeting("Environment","prod");
+	
+	
+	
+  });
+    // GPT slots
+    var gptAdSlots = [];
+</script><script type="text/javascript">
+    var imgErrorHandler = function(img) {
+        var imgPath = '/resources/images/Zawyacom-ImagenotAvailable.gif?v=2';
+        
+        if(img.hasAttribute("data-size")) {
+            imgPath = "//images.zawya.com/images/cia/" + img.getAttribute("data-size") + "/160414103030IZXI.jpg";
+        }
+		if(img.hasAttribute("data-noDefaultImage") && img.getAttribute("data-noDefaultImage").length > 0) {
+			imgPath = "";
+		}
+        img.onerror=null;
+        img.src=imgPath;
+        return false;
+    }
+    var activePage = window.location.href.toString();
+    if(activePage.indexOf("story") == -1){
+        (function() {
+            /** CONFIGURATION START **/
+            var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+            _sf_async_config.uid = 60908;
+            _sf_async_config.domain = 'zawya.com'; //CHANGE THIS TO THE ROOT DOMAIN
+            _sf_async_config.flickerControl = false;
+            _sf_async_config.useCanonical = true;
+            _sf_async_config.useCanonicalDomain = true;
+            _sf_async_config.sections = ''
+            _sf_async_config.authors =  ''
+            /** CONFIGURATION END **/
+            function loadChartbeat() {
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '//static.chartbeat.com/js/chartbeat.js';
+                n.parentNode.insertBefore(e, n);
+            }
+            loadChartbeat();
+            loadAsyncChartbeat();
+            function loadAsyncChartbeat(){
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '//static.chartbeat.com/js/chartbeat_mab.js';;
+                n.parentNode.insertBefore(e, n);
+            }
+        })();
+
+
+    }
+</script>
+
+
+<script src="/resources/scripts/modernizr-2.8.3.min.js"></script>
+	
+
+
+
+
+
+
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NFSL2G');</script>
+
+    <!-- Google Tag Manager >> id for prod is GTM-NFSL2G todo move -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFSL2G"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id="gpt-passback-CF">
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/21710144538/GAM-AD-zawya.com-Direct-RS-CF-1X1-NEW', [1, 1], 'gpt-passback-CF').addService(googletag.pubads()).setClickUrl('%%CLICK_URL_UNESC%%');
+            googletag.pubads().set("page_url","zawya.com");
+            googletag.enableServices();
+            googletag.display('gpt-passback-CF');
+        });
+    </script>
+</div><div class="website">
+		<header class="website-header nav-down" style="position: fixed !important;">
+
+    <div class="login-bar" style="display: none">
+        <div class="container">
+            <div class="social-buttons social-small">
+                <a href="https://www.facebook.com/Zawya/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/Zawya" target="_blank"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/company/zawya?trk=biz-brand-tree-co-name" target="_blank"><i class="fa fa-linkedin"></i></a>
+        </div>
+
+            <div class="top-dropdown btn-group pull-right products-dropdown">
+                <button type="button" class="btn btn-xs btn-default dropdown-toggle" data-toggle="dropdown">
+                    Discover Refinitiv <span class="caret"></span>
+                </button>
+                <div class="dropdown-menu">
+                    <div class="dropdown-submenu">
+                        <div class="column">
+                            <h3 class="section-title">Financial</h3>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/eikon-trading-software?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Eikon_Zawya&elqCampaignId=14924">Eikon</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/eikon-trading-software/eikon-messenger-secure-messaging?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Eikon_Messenger_Zawya&elqCampaignId=14924">Eikon Messenger</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/financial-data/company-data/middle-east-company-data?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=MENA_Company_Data_Zawya&elqCampaignId=14924">MENA Company Data</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/islamic-finance?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Islamic_Finance_Zawya&elqCampaignId=14924">Islamic Finance</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/eikon-trading-software/mena-project-tracker?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=MENA_Projects_App_Zawya&elqCampaignId=14924">MENA Projects App</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/knowledge-direct-api-integration?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=TRKD_Zawya&elqCampaignId=14924">Knowledge Direct</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/lipper-fund-research?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Lipper_Zawya&elqCampaignId=14924">Lipper</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/fx-trading?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=FXT_Zawya&elqCampaignId=14924">FXT</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/datastream-macroeconomic-analysis?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Datastream_Zawya&elqCampaignId=14924">Datastream</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/elektron-enterprise-data-management?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Elektron_Zawya&elqCampaignId=14924">Elektron</a>
+                        </div>
+                        <div class="column">
+                            <h3 class="section-title">Risk</h3>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/enhanced-due-diligence?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=EDD_Zawya&elqCampaignId=14924">Enhanced Due Diligence</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/world-check-kyc-screening?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=WorldCheck_Zawya&elqCampaignId=14924">World-Check</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/autoaudit-internal-auditor-software?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=AutoAudit_Zawya&elqCampaignId=14924">AutoAudit</a>
+                            <a target="_blank" href="https://www.refinitiv.com/en/products/connected-risk-management?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=ConnectedRisk_Zawya&elqCampaignId=14924">Connected Risk</a>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            <!-- <a class="login-link" href="/mena/en/auth/login/">LOGIN</a>
+            <a class="login-link" href="/mena/en/user/register/">REGISTER</a> -->
+
+
+            <div class="edition-label pull-left">You are on:</div>
+
+            <div class="top-dropdown btn-group editions pull-left">
+                <button type="button" class="btn btn-xs btn-default dropdown-toggle" data-toggle="dropdown">
+                    <i class="fa fa-globe"></i>&nbsp;MENA - ENGLISH&nbsp;<span
+                        class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a href="/mena/en/">MENA - ENGLISH</a></li>
+                        <li><a href="/uae/en/">UAE - ENGLISH</a>
+                        </li>
+                        <li><a href="/saudi-arabia/en/">KSA - ENGLISH</a></li>
+                        <li><a href="/mena/ar/">الشرْقُ الأوسَط</a></li>
+                        <li><a href="/saudi-arabia/ar/">السعودية</a></li>
+                        <li><a href="/uae/ar/">الإمارات</a></li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="menu-bar" style="height: 85px ;">
+        <div class="container">
+            <a class="logo" href="/mena/en/" style="margin-top: 10px">
+                    <img src="/resources/img/zawya-en-logo-blue.svg?rft" alt="ZAWYA" title="ZAWYA" style="width:170px"/>
+                    </a>
+            <nav id="websiteMenu" class="website-menu wsdownmenu" style="margin-top: 17px">
+                    <div class="navbar" style="float: right">
+                        <div class="dropdown col-2-content nav-news">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/the-vault/topnews/"'>
+                                News
+                            </button>
+                            <div class="dropdown-content">
+                                <div class="row row-multiple">
+                                    <div class="column">
+                                        <div class="row">
+                                            <h3 class="section-title">Economic News</h3>
+                                            <a href="/mena/en/economy/global/">Global Economy</a>
+                                            <a href="/mena/en/economy/gcc/">GCC Economy</a>
+                                            <a href="/mena/en/economy/levant/">Levant Economy</a>
+                                            <a href="/mena/en/economy/north-africa/">North African Economy</a>
+                                            <a href="/mena/en/economy/">More</a>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <h3 class="section-title">Regional News</h3>
+                                            <a href="/mena/en/the-vault/topic/expat-india/">Indian Sub-Continent</a>
+                                            <a href="/mena/en/the-vault/topic/expat-west/">Europe, UK & US</a>
+                                            <a href="/mena/en/the-vault/topic/expat-asia/">Asia Pacific</a>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <h3 class="section-title">Other News</h3>
+                                            <a href="/mena/en/press-releases/">Press Releases</a>
+                                            <a href="/mena/en/the-vault/topnews/">Top News</a>
+                                            <a href="/mena/en/the-vault/latest/">Latest News</a>
+                                            <a href="/mena/en/multimedia/">Multimedia</a>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="row">
+                                            <h3 class="section-title">Financial & Risk</h3>
+                                            <a href="/mena/en/business/financial-services/">Financial Services</a>
+                                            <a href="/mena/en/business/islamic-finance/">Islamic Finance</a>
+                                            <a href="/mena/en/the-vault/latest/equities/">Equities News</a>
+                                            <a href="/mena/en/the-vault/latest/currencies/">Currencies News</a>
+                                            <a href="/mena/en/the-vault/latest/commodities/">Commodities News</a>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <h3 class="section-title">Sectors</h3>
+                                            <a href="/mena/en/business/real-estate/">Real Estate</a>
+                                            <a href="/mena/en/business/construction/">Construction</a>
+                                            <a href="/mena/en/business/energy/">Energy</a>
+                                            <a href="/mena/en/business/technology/">Technology</a>
+                                            <a href="/mena/en/business/">More</a>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <h3 class="section-title">Legal</h3>
+                                            <a href="/mena/en/legal/policy/">Government Policy</a>
+                                            <a href="/mena/en/legal/commercial/">Corporate Law</a>
+                                            <a href="/mena/en/legal/personal-law/">Personal Law</a>
+                                            <a href="/mena/en/legal/">More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="dropdown col-1-content nav-insights">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/opinions/list-opinions/"'>Insights & Opinion</button>
+                            <div class="dropdown-content">
+                                <div class="row">
+                                    <div class="column">
+                                        <a href="/mena/en/opinions/list-opinions/">Opinions Home</a>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="row">
+                                    <div class="column">
+                                        <h3 class="section-title">Insights</h3>
+                                        <a href="/mena/en/news/insights/economy/">Economic Insights</a>
+                                        <a href="/mena/en/news/insights/markets/">Markets Insights</a>
+                                        <a href="/mena/en/news/insights/business/">Business Insights</a>
+                                        <a href="/mena/en/news/insights/legal/">Legal Insights</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="dropdown">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/wealth/"'>Wealth</button>
+                            <div class="dropdown-content">
+                                <div class="row">
+                                    <div class="column">
+                                        <a href="/mena/en/wealth/">Wealth Home</a>
+                                        <a href="/mena/en/wealth/investment-guides/">Investment Guides</a>
+                                        <a href="/mena/en/wealth/wealth-management/">Wealth Management</a>
+                                        <a href="/mena/en/wealth/funds/">Funds</a>
+                                        <a href="/mena/en/wealth/alternative-investments/">Alternative Investments</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="dropdown col-2-content nav-markets">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/markets/"'>Markets
+                            </button>
+                            <div class="dropdown-content">
+                                <div class="row">
+                                    <div class="column">
+                                        <a href="/mena/en/markets/">Markets Home</a>
+                                        <a href="/mena/en/markets/market-analysis/global-markets/">Market Analysis</a>
+                                        <a href="/mena/en/the-vault/topic/morning briefing/">Morning Briefings</a>
+                                        <a href="/mena/en/markets/equities/">Equities</a>
+                                        <a href="/mena/en/markets/currencies/">Currencies</a>
+                                        <a href="/mena/en/markets/commodities/">Commodities</a>
+                                        <a href="/mena/en/stocks/list/">Stock Screener</a>
+                                        <a href="/mena/en/funds/">Funds</a>
+                                        <a href="/mena/en/funds/list/">Funds Screener</a>
+                                    </div>
+                                    <div class="column market-second for-cta" id="maket">
+                                        <a class="note-link" target="_blank" href="https://www.refinitiv.com/en/products/eikon-trading-software?utm_source=Zawya.com&amp;utm_medium=cta_link&amp;utm_campaign=Eikon_Zawya&amp;elqCampaignId=14924">
+                                            <h3 class="section-title" style="margin-bottom:4px;color:#000064;font-size:16px"> Eikon</h3>
+                                            <p style="font-size: 14px;color: #000064">Quickly uncover hidden opportunities with comprehensive data and content.</p></a>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="dropdown col-2-content nav-companies">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/companies/"'>Companies
+                            </button>
+                            <div class="dropdown-content for-companies">
+                                <div class="row">
+                                    <div class="column for-cta">
+                                        <a class="note-link"
+                                           href="https://www.refinitiv.com/en/financial-data/company-data/middle-east-company-data?utm_source=Zawya.com&utm_medium=cta_link&utm_campaign=Companies_Zawya&elqCampaignId=14924">
+                                            <h3 class="section-title">MENA Company Data</h3>
+                                            <p>Access the most comprehensive database of companies and officers in the Middle East and North Africa, covering all major sectors and industries, from Refinitiv.</p>
+                                        </a>
+                                    </div>
+                                    <div class="column">
+                                        <a href="/mena/en/companies/">Companies Home</a>
+                                        <a href="/mena/en/microsite/190701095221/big-ideas-for-small-businesses/">Big Ideas for Small Businesses</a>
+                                        <a href="/mena/en/companies/new/">New Companies</a>
+                                        <a href="/mena/en/companies/updated/">Updated Companies</a>
+                                        <a href="/mena/en/companies/list/cso/">Find Companies</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="dropdown col-2-content nav-projects">
+                            <button class="dropbtn" onclick='window.location.href="/mena/en/projects/"'>Projects
+                            </button>
+                            <div class="dropdown-content for-projects">
+                                <div class="row">
+                                    <div class="column for-cta">
+                                        <a class="note-link" href="https://www.refinitiv.com/en/infrastructure-investing?utm_campaign=502711_ZawyaInfra360Promo&elqCampaignId=15511&utm_source=Zawya&utm_medium=Referral&utm_content=&utm_term=&referredBy=MENAProjects">
+                                            <h3 class="section-title">MENA Projects App</h3>
+                                            <p>Screen, analyze and compare projects in the Middle East and North Africa across Infrastructure, Real Estate, Industrial and Energy sectors with Refinitiv’s Eikon.</p>
+                                        </a>
+                                    </div>
+                                    <div class="column">
+                                        <a href="/mena/en/projects/">Projects Home</a>
+                                        <a href="/mena/en/microsite/190502041310/china-s-belt-and-road-initiative/">Belt & Road Initiative Coverage</a>
+                                        <a href="/mena/en/projects/new/">New Projects</a>
+                                        <a href="/mena/en/projects/updated/">Updated Projects</a>
+                                        <a href="/mena/en/projects/list/">Find Projects</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="dropdown">
+                            <button type="button" class="buttonsearch" id="buttonsearch">
+                                <i class="fa fa-search openclosesearch"></i>
+                                <i class="fa fa-times openclosesearch" style="display:none"></i>
+                            </button>
+                            <div class="searchbardiv" id="formsearch">
+                                <form role="search" action="/mena/en/search" method="get" id="searchform">
+                                    <div class="input-group">
+                                        <input type="text" id="searchbox" placeholder="Search for..."
+                                               class="form-control" name="query">
+                                        <input type="hidden" name="filter" value="news"/>
+                                            <input type="hidden" id="searchbox-visibility" value="0">
+                                        <div class="input-group-btn">
+                                            <button class="btn btn-default" id="searchsubmit" type="submit">
+                                                <strong>Search</strong>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+
+                        <!--zawya rebranding !-->
+                        <div class="dropdown col-2-content nav-language-change" style="padding-top: 15px;">
+                            <div class="edition-label pull-left" style="background:none;color:#0c0c0c;font-weight: normal;display: inline;padding-top: 5px;" >You are on:</div>
+
+                            <div class="top-dropdown btn-group editions ">
+                                <button type="button" class="btn btn-xs btn-default dropdown-toggle" data-toggle="dropdown"
+                                       style="border: none;color: #000064 !important;font-weight: bold;background: #F6F6F6;height: 24px;margin-bottom: 2px;">
+                                        <i class="fa fa-globe"></i>&nbsp;MENA - ENGLISH&nbsp;<span
+                                        class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/mena/en/">MENA - ENGLISH</a></li>
+                                        <li><a href="/uae/en/">UAE - ENGLISH</a>
+                                        </li>
+                                        <li><a href="/saudi-arabia/en/">KSA - ENGLISH</a></li>
+                                        <li><a href="/mena/ar/">الشرْقُ الأوسَط</a></li>
+                                        <li><a href="/saudi-arabia/ar/">السعودية</a></li>
+                                        <li><a href="/uae/ar/">الإمارات</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                        <!--zavya rebranding !-->
+
+                        <div class="header-widget" style="display: none">
+                            <script type="text/javascript">
+          googletag.cmd.push(function() {
+            try {
+                var width = document.documentElement.clientWidth;
+                var size;
+                var adunit = '/21857811890/';
+                var type;
+                
+                        if (width >= 320 && width < 728) {
+                            size = [[300, 50],[320, 50]]; /* smartphones */
+                            type = ['mobile_srch_sponsor_logo_new'];
+                        }
+                        else {
+                            size = [120, 50]; /* desktops and tablets  */
+                            type = ['srch_sponsor_logo_new'];
+                        }
+                    
+
+                var bannerName = 'srch_sponsor_logo_new';
+                var adSlotsrch_sponsor_logo_new = googletag.defineSlot('/21857811890/', size, 'div-gpt-ad-srch_sponsor_logo_new').setTargeting('type',type).addService(googletag.pubads());
+                gptAdSlots.push(adSlotsrch_sponsor_logo_new);
+                if(bannerName!='MR_Story'){
+                    googletag.pubads().collapseEmptyDivs(true, true);
+                }
+                /* enables Single Request Architecture (SRA). Include this line if you want to call all ad slots on the page in one call */
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+
+                if((bannerName=='PSB_Left')|| (bannerName=='mobile_psb_left') || (bannerName=='PSB_Top')|| (bannerName=='mobile_psb_top') ||(bannerName=='PSB_Bottom')||(bannerName=='mobile_psb_bottom')||(bannerName=='PSB_Middle')||(bannerName=='mobile_psb_middle')||(bannerName=='leaderboard_home')||(bannerName=='leaderboard_bottom_home')
+                        ||(bannerName=='mobile_leaderboard_home')||(bannerName=='mobile_leaderboard_bottom_home')){
+                  /* Set timer to refresh slot every 120 seconds         */
+                  setInterval(function(){
+                    googletag.pubads().refresh([adSlotsrch_sponsor_logo_new]);
+                  }, 240000);
+
+                }
+              
+
+            } catch (e) {
+                console.log("Error loading Ad banner "+bannerName);
+            }
+          });
+        </script>
+        <div id="div-gpt-ad-srch_sponsor_logo_new" class="" style="text-align: center">
+            <script type="text/javascript">
+                try {
+                  googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-srch_sponsor_logo_new");
+                  });
+                } catch (e) {
+                    console.log("Error displaying Ad banner "+bannerName);
+                }
+            </script>
+        </div>
+    </div>
+
+
+                    </div>
+                </nav>
+            </div>
+    </div>
+
+    <style type="text/css">
+        .market-second {
+            background-color: #f6f6f6 !important;
+            width: 239px !important;
+            height: 328px !important;
+        }
+        .wsdownmenu .dropdown-content .full-width:hover,.wsdownmenu .for-cta:hover,.wsdownmenu.column:hover {
+            background-color: #e1e1e1 !important;
+        }
+        .wsdownmenu .dropdown .dropbtn {
+            color: #000064 !important;
+        }
+        .edition-label, .edition-label+.top-dropdown {
+            background: #fff !important;
+        }
+    </style>
+
+</header><script type="text/javascript">
+          googletag.cmd.push(function() {
+            try {
+                var width = document.documentElement.clientWidth;
+                var size;
+                var adunit = '/21857811890/';
+                var type;
+                
+                        if (width >= 320 && width < 728) {
+                            size = [[300, 50],[320, 50],[340, 120]]; /* smartphones */
+                            type = ['mobile_leaderboard'];
+                        }else if(width >= 729 && width < 990) {
+                            size = [728, 90]; /* tablets portrait  */
+                            type = ['leaderboard','leaderboard'];
+                        } else {
+                            size = [[1200, 314],[728, 90],[970, 250],[970,90]]; /* desktops */
+                            type = ['leaderboard'];
+                        }
+                    
+
+                var bannerName = 'leaderboard';
+                var adSlotleaderboard = googletag.defineSlot('/21857811890/', size, 'div-gpt-ad-leaderboard').setTargeting('type',type).addService(googletag.pubads());
+                gptAdSlots.push(adSlotleaderboard);
+                if(bannerName!='MR_Story'){
+                    googletag.pubads().collapseEmptyDivs(true, true);
+                }
+                /* enables Single Request Architecture (SRA). Include this line if you want to call all ad slots on the page in one call */
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+
+                if((bannerName=='PSB_Left')|| (bannerName=='mobile_psb_left') || (bannerName=='PSB_Top')|| (bannerName=='mobile_psb_top') ||(bannerName=='PSB_Bottom')||(bannerName=='mobile_psb_bottom')||(bannerName=='PSB_Middle')||(bannerName=='mobile_psb_middle')||(bannerName=='leaderboard_home')||(bannerName=='leaderboard_bottom_home')
+                        ||(bannerName=='mobile_leaderboard_home')||(bannerName=='mobile_leaderboard_bottom_home')){
+                  /* Set timer to refresh slot every 120 seconds         */
+                  setInterval(function(){
+                    googletag.pubads().refresh([adSlotleaderboard]);
+                  }, 240000);
+
+                }
+              
+
+            } catch (e) {
+                console.log("Error loading Ad banner "+bannerName);
+            }
+          });
+        </script>
+        <div id="div-gpt-ad-leaderboard" class="ad-wrapper" style="text-align: center">
+            <script type="text/javascript">
+                try {
+                  googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-leaderboard");
+                  });
+                } catch (e) {
+                    console.log("Error displaying Ad banner "+bannerName);
+                }
+            </script>
+        </div>
+    <div class="website-content">
+			<div class="container">
+				<div class="row error-container">
+					<div class="col-md-12">
+							<div class="row">
+										<div class="col-md-6">
+											<div class="error-page-block text-danger">
+												<h1 class="page-title"><i aria-hidden="true" class="fa fa-meh-o"></i> Page not found</h1>
+												<p class="lead">Sorry, we can't find the page you are looking for.</p>
+												<hr>
+												<p>It looks like this was the result of either:</p>
+												<ul class="bulleted-list">
+													<li>A mistyped address</li>
+													<li>An out-of-date bookmark in your web browser</li>
+													<li>A broken link on our site</li>
+													<li>A broken link on a search engine results page</li>
+													<li>A broken link on someone else's page</li>
+												</ul>
+												<p>Some things to try:</p>
+												<ul class="bulleted-list">
+													<li>Start again from the Zawya&nbsp;<a href="https://www.zawya.com">homepage</a></li>
+													<li>Use the navigation menu at the top</li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-6">
+											
+
+
+
+
+
+
+
+
+
+
+
+<section class="content-section card module-popular" style="background: #e2e9ff;padding-left: 15px !important;padding-right: 15px !important;padding-top: 15px;
+    margin-top: 15px;">
+
+    <h2 style="border-bottom: none !important;
+    font-size: 14px !important;
+    color: #000064 !important;"> Most Read
+            
+    </h2>
+
+
+
+    <div style="padding-top: 20px; border-top: 1px solid #000064;margin-top: 20px;background: #e2e9ff;" class="header-news" id="most-read-articles" data-url="/mena/en/analytics/articles/50/?path=all&section=all">
+        <div class="ajax-moduule-container" style="min-height: 200px; background: #fff none repeat scroll 0% 0%; font-size: 50px; text-align: center; padding: 30px 0px 20px;">
+            <div class="loader">
+                <i class="fa fa-spinner fa-spin"></i>
+            </div>
+        </div>
+    </div>
+</section>
+<style type="text/css">
+
+    .header-news article {
+        margin-bottom: 15px;
+        padding-bottom: 12px;
+        position: relative;
+        border-bottom: 1px solid #000064 !important;
+        border-spacing: 0;
+    }
+</style></div>
+									</div>
+								</div>
+					</div>
+			</div>
+			<!--End of Container content!-->
+		</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="website-footer ">
+    
+
+    <div class="perma-notice" style="padding: 20px 0 10px;background: #222;">
+        <div class="container">
+            <p><strong>Have news to share?</strong> <br>
+        Email us at <a href="mailto:editorial.zawya@refinitiv.com" style="color:#e2e9ff;"><strong>editorial.zawya@refinitiv.com</strong></a>, or send us your company press releases to <a href="mailto:pressrelease.zawya@refinitiv.com" style="color: #e2e9ff;"><strong>pressrelease.zawya@refinitiv.com</strong></a>
+            </p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="links-bar links-bar-bg ">
+ 
+        <div class="container">
+            <a class="footer-logo" href="/mena/en/">
+                
+                    <img src="/resources/img/zawya-en-logo-white.svg?rft" alt="ZAWYA" title="ZAWYA" style="width: 170px" />
+                 
+                
+            </a>
+            <div class="social-buttons social-footer">
+                <a href="https://www.facebook.com/Zawya/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/Zawya" target="_blank"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/company/zawya?trk=biz-brand-tree-co-name" target="_blank"><i class="fa fa-linkedin"></i></a>
+        
+            </div>
+            <div class="footer-links">
+                <a href="/mena/en/aboutus/">About zawya</a>
+
+                <a href="/mena/en/contactus/">Contact us</a>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-bar">
+        <div class="container">
+            <a class="reuters-logo" href="https://www.refinitiv.com"><img src="/resources/images/v2_temp/tr-logo-footer.png?rft" alt="Refinitiv" title="Refinitiv"></a>
+            <p>Copyright © 2021 Zawya. All Rights Reserved.
+            <a href="https://www.refinitiv.com/en/policies/privacy-statement/" rel="noopener" target="_blank">Privacy Statement</a> ,
+            <a href="https://www.refinitiv.com/en/policies/terms-of-use" target="_blank" rel="noopener">Terms & Conditions</a> ,
+            <span><a href="https://privacyportalde-cdn.onetrust.com/dsarwebform/5f7a2da0-bed0-45e8-ac2c-c1f297e2efdc/1234b4c9-a981-4092-b398-cb80005998cf.html" target="_blank">Do not sell my info</a>.</span></p>
+        </div>
+    </div>
+</footer>
+
+
+    
+
+<div class="cookie-policy alert" id="cookie-policy-container">
+    <div class="container">
+        <!-- <a href="javascript:void(0)" class="close" id="dismissGetAppMobile" data-dismiss="alert" aria-label="close">Ã</a> -->
+        <div class="cookie-policy-content">
+            <div class="cookie-policy-notice">
+                <span class="cookie-policy-title">Our Privacy Statement & Cookie Policy</span>
+                <p>This website uses cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.</p>
+                <a href="https://www.refinitiv.com/en/policies/privacy-statement/">Privacy Statement</a>
+                <a href="https://www.refinitiv.com/en/policies/privacy-statement/#cookies">Cookie Policy</a>
+            </div>
+            <div class="cookie-policy-buttons">
+                <button class="btn" type="button" id="prompt-cookie-note">Continue</button>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+<style type="text/css">
+    .links-bar-bg {
+        background-image: url("/resources/img/footer_pattern_background.png");
+        background-repeat: round;
+    }
+    .copyright-bar{background: #000064 !important;}
+    .website-footer .links-bar {
+        height: 145px;
+         border-bottom: none !important;
+    }
+    .website-footer .footer-logo {
+              /*padding-left: 97px;*/
+    }
+</style></div>
+
+	
+
+
+
+
+
+
+<script src="//code.jquery.com/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-3.0.1.min.js"></script>
+
+<script src="/resources/scripts/jquery/plugins.min.js?V2"></script>
+
+
+
+<script language="javascript">
+    var globalMVCMap = {
+            lang: 'EN',
+    		urlprefix: '/mena/en',
+            readMore: 'Read More'
+    };
+
+    var messagesi18n = {
+        searchTip: 'To get the right results, start typing a name and select from the suggestions'
+    };
+
+    $(document).ready(function() {
+        var pageTitle = $(".page-title");
+        if (pageTitle.length > 0 && $("title").text().trim().length == 0) {
+            $("title").text(pageTitle.text());
+        }
+        // mobile App banner dismiss
+        $("#dismissGetAppMobile").on("click", function(){
+            $(".website > .ad-wrapper").removeClass("margin-top-zero");
+            $(".website > .ad-wrapper").css("cssText", "margin-top: 62px !important, margin-bottom: 30px;");
+        });
+    });
+</script>
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+        <!-- Market Data charts  -->
+        <script src="/resources/scripts/charting/highstock.js?v222" type="text/javascript"></script>
+        <script src="/resources/scripts/charting/more/stock-charts-simple.js?v222" type="text/javascript"></script>
+    
+
+
+
+<script language="javascript">
+
+    $(document).ready(function() {
+        
+        $(".play-media").on("click", function(e){
+            e.preventDefault();
+            $("video, audio").each(function() {
+                this.pause();
+            });
+            $(this).closest(".news-content-inner").find(".media-in-parent").show();
+            $(this).closest(".news-content-inner").find(".the-media")[0].play();
+        });
+        $(".media-close").on("click", function(){
+            $(this).closest(".news-content-inner").find(".media-in-parent").hide();
+            $(this).closest(".news-content-inner").find(".the-media")[0].pause();
+        });
+
+        $(".search-form .form-group").on("mouseout", function(){
+            $("#query").blur();
+        });
+
+        $('video').on("playing",function(){
+            $('video').not($(this)).each(function(){
+                $(this)[0].pause();
+            });
+        });
+        $('.col--p .col--c, .col--c').theiaStickySidebar({
+            // Settings
+            additionalMarginTop: 100
+        });
+        
+        
+        
+        $("#prompt-cookie-note").click(function (e) {
+            $.ajax({
+                type: "POST",
+                url: '/mena/en/cookie/set-cookie-policy',
+                success: function (data) {
+                    $("#cookie-policy-container").hide();
+                    
+                    
+                    
+                }
+            });
+            e.preventDefault();
+        });
+        
+    });
+</script>
+
+
+    <!-- For Scrolled Header -->
+    <script>
+        // Hide Header on on scroll down
+        var didScroll;
+        var lastScrollTop = 0;
+        var delta = 5;
+        var navbarHeight = $('header').outerHeight();
+
+        $(window).scroll(function(event){
+            didScroll = true;
+        });
+
+        setInterval(function() {
+            if (didScroll) {
+                hasScrolled();
+                didScroll = false;
+            }
+        }, 250);
+
+        function hasScrolled() {
+            var st = $(this).scrollTop();
+
+            // Make sure they scroll more than delta
+            if(Math.abs(lastScrollTop - st) <= delta)
+                return;
+
+            // If they scrolled down and are past the navbar, add class .nav-up.
+            // This is necessary so you never see what is "behind" the navbar.
+            if (st > lastScrollTop && st > navbarHeight){
+                // Scroll Down
+                $('header').removeClass('nav-down').addClass('nav-up');
+            } else {
+                // Scroll Up
+                if(st + $(window).height() < $(document).height()) {
+                    $('header').removeClass('nav-up').addClass('nav-down');
+                }
+            }
+
+            lastScrollTop = st;
+        }
+    </script>
+
+
+    <!-- For Web Expanding Searchbar -->
+    <script>
+        $('#buttonsearch').click(function(){
+            $('#formsearch').slideToggle( "fast",function(){
+                $( 'header' ).toggleClass( "sticky-header" );
+            } );
+            $('#searchbox').focus()
+            $('.openclosesearch').toggle();
+        });
+
+        $(document).keydown(function(e) {
+            if (e.keyCode == 27 && $('#formsearch').is(":hidden") == false) { // escape key maps to keycode `27`
+                //also check here some another stuff like menu already opend or not
+                $('#formsearch').slideUp("fast");
+                $('.openclosesearch').toggle();
+            }
+        });
+        $('#buttonsearchMob').click(function(){
+            $('#formsearchMob').slideToggle( "fast",function(){
+                $( 'header' ).toggleClass( "sticky-header" );
+            } );
+            $('#searchboxMob').focus()
+            $('.openclosesearch').toggle();
+        });
+    </script>
+
+
+<script>
+    $(function(){
+        $(".headline-wrapper").owlCarousel({
+            navigation : true,
+            slideSpeed : 500,
+            singleItem:true,
+            pagination: false,
+            stopOnHover: true,
+            autoPlay: true,
+            mouseDrag: false,
+            transitionStyle: "goDown",
+            navigationText: ["&#139;","&#155;"]
+        });
+        });
+    function populateDataLayerForListing(title,category,brand,pageSrc) {
+        title = title.replace("_","");
+        dataLayer.push({
+            'event': 'storyClick',
+            'ecommerce': {
+                'currencyCode': 'AED',
+                'click': {
+                    'actionField': {'list': ''+pageSrc+''}, // This needs to match the list used where story list impressions were seen, example is the list on homepage or most popular & insight, etc
+                    'products': [{
+                        'name': ''+title+'', //This attribute will hold the name of the story
+                        'category': ''+category+'', //this attributes define type of news category For example Oil & Gas, Power & Utilities, etc
+                        'brand': ''+brand+'' //this attributes defines type of content provider, Zawya News, Reuters, etc
+                    }]
+                }
+            }
+        });
+    }
+</script>
+
+
+<script src="/resources/scripts/custom_v2.js?v122018"></script>
+<!-- New Mobile Menu - Black  -->
+<script>
+  function openNav() {
+    document.getElementById("myNav").style.width = "100%";
+    document.body.style.position = "fixed";
+  }
+  function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+    document.body.style.position = "initial";
+  }
+</script>
+
+
+
+	
+<script language="javascript">
+        function deleteAllCookies() {
+            var cookies = document.cookie.split(";");
+
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i];
+                var eqPos = cookie.indexOf("=");
+                var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+                document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+            }
+        }
+    </script>
+</body>
+</html>

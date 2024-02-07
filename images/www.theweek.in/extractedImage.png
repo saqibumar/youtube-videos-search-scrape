@@ -1,0 +1,3804 @@
+<!DOCTYPE html>
+
+ 
+ 
+ 	<html lang="en">
+ 	
+<head>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<title>The Latest news - Journalism with a human touch - The Week</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="robots" content="index,archive,follow">
+<meta http-equiv="content-language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=yes">
+<meta name="theme-color" content="#d30e15">
+<meta name="description" content="Latest news from India, World, Entertainment, Science, Health and Technology" itemprop="description">
+
+	<meta name="keywords" content="Latest news, india, Breaking news, Elections, Politics, World news, Science, Health, Entertainment, Technology" itemprop="keywords">
+	<meta property="og:tags" content="Latest news, india, Breaking news, Elections, Politics, World news, Science, Health, Entertainment, Technology">
+	<meta name="news_keywords" content="Latest news, india, Breaking news, Elections, Politics, World news, Science, Health, Entertainment, Technology">
+
+
+<!-- facebook -->
+
+
+
+     <meta property="og:title" content="THE WEEK"/>
+	 <meta name="twitter:title" content="THE WEEK"/>
+
+
+	<meta property="og:description" content="Latest news from India, World, Entertainment, Science, Health and Technology">
+	<meta name="twitter:description" content="Latest news from India, World, Entertainment, Science, Health and Technology"/>
+
+
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://www.theweek.in/etc/designs/week/img/logo-main.png"/>
+<meta property="og:site_name" content="The Week"/>
+<meta property="og:url" content="https://www.theweek.in/home.html"/>
+<meta property="fb:app_id" content="853383434707724"/>
+<meta property="fb:pages" content="108327375932236"/>
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@theweek"/>
+<meta name="twitter:image:src" content="https://www.theweek.in/etc/designs/week/img/logo-main.png"/>
+<meta name="twitter:url" content="https://www.theweek.in/home.html"/>
+
+<link itemprop="mainEntityOfPage" rel="canonical" href="https://www.theweek.in/home.html">
+
+<link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.eot?v=4.7.0');
+  src: url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('/etc/designs/theweek/clientlibs/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+</style>
+
+
+
+    
+<link rel="stylesheet" href="https://css.theweek.in/etc/designs/theweek/clientlibs.css" type="text/css">
+<script type="text/javascript" src="https://js.theweek.in/etc/designs/theweek/clientlibs.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="https://js.theweek.in/etc/clientlibs/granite/jquery/granite/csrf.js"></script>
+
+
+
+
+
+
+<link rel="shortcut icon" href="/etc/designs/theweek/clientlibs/images/favicon.ico">
+<!-- Google Tag Manager -->
+<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KT3DGJ9');
+	
+</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" async="async">var elem = document.createElement('script');elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);(function() {var gdprAppliesGlobally = false;function addFrame() {if (!window.frames['__cmpLocator']) {if (document.body) {var body = document.body,iframe = document.createElement('iframe');iframe.style = 'display:none';iframe.name = '__cmpLocator';body.appendChild(iframe);} else {setTimeout(addFrame, 5);}}}addFrame();function cmpMsgHandler(event) {var msgIsString = typeof event.data === "string";var json;if(msgIsString) {json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};} else {json = event.data;}if (json.__cmpCall) {var i = json.__cmpCall;window.__cmp(i.command, i.parameter, function(retValue, success) {var returnMsg = {"__cmpReturn": {"returnValue": retValue,"success": success,"callId": i.callId}};event.source.postMessage(msgIsString ?JSON.stringify(returnMsg) : returnMsg, '*');});}}window.__cmp = function (c) {var b = arguments;if (!b.length) {return __cmp.a;}else if (b[0] === 'ping') {b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,"cmpLoaded": false}, true);} else if (c == '__cmp')return false;else {if (typeof __cmp.a === 'undefined') {__cmp.a = [];}__cmp.a.push([].slice.apply(b));}}window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;window.__cmp.msgHandler = cmpMsgHandler;if (window.addEventListener) {window.addEventListener('message', cmpMsgHandler, false);}else {window.attachEvent('onmessage', cmpMsgHandler);}})();window.__cmp('init', {'Language': 'en', 'Initial Screen Body Text Option': 1, 'Publisher Name': 'Moneytizer', 'Default Value for Toggles': 'off', 'UI Layout': 'banner', 'No Option': false,});</script><style>.qc-cmp-button,.qc-cmp-button.qc-cmp-secondary-button:hover {background-color: #000000 !important;border-color: #000000 !important;}.qc-cmp-button:hover,.qc-cmp-button.qc-cmp-secondary-button {background-color: transparent !important;border-color: #000000 !important;}.qc-cmp-alt-action,.qc-cmp-link {color: #000000 !important;}.qc-cmp-button,.qc-cmp-button.qc-cmp-secondary-button:hover {color: #ffffff !important;}.qc-cmp-button:hover,.qc-cmp-button.qc-cmp-secondary-button {color: #000000 !important;}.qc-cmp-small-toggle,.qc-cmp-toggle {background-color: #000000 !important;border-color: #000000 !important;}.qc-cmp-main-messaging, .qc-cmp-messaging, .qc-cmp-sub-title, .qc-cmp-privacy-settings-title, .qc-cmp-purpose-list, .qc-cmp-tab, .qc-cmp-title, .qc-cmp-vendor-list, .qc-cmp-vendor-list-title, .qc-cmp-enabled-cell, .qc-cmp-toggle-status, .qc-cmp-table, .qc-cmp-table-header {color: #000000 !important; }.qc-cmp-ui{background-color: #ffffff !important; } .qc-cmp-table, .qc-cmp-table-row{border: 1px solid !important;border-color: #000000 !important;}#qcCmpButtons a {text-decoration: none !important;}.qc-cmp-qc-link-container{display:none;}</style>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"feCLu1WyR620WR", domain:"theweek.in",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=feCLu1WyR620WR" style="display:none" height="1" width="1" alt=""/></noscript>
+<!-- End Alexa Certify Javascript -->
+<script>
+function setContentCategory(){
+var windowPath = window.location.pathname ;
+var metaKeywords = document_keywords();
+windowPath =  windowPath  + ',' + metaKeywords ;
+var allNodes = windowPath.split("/").join(",").split(",");
+var finalPaths = [];
+    var str = '';
+for (var i = 0 ; i <  allNodes.length  ; i++ ){
+	if (allNodes[i] !="" ){
+		if( alphanumeric(allNodes[i].trim()) ){            
+            if(i <= 1){
+                if((allNodes[i].trim() == '') || (str == '') ){
+                     str = '\"'+ allNodes[i].trim()+  '\"';
+                }else{
+                    str = str+ ',\"' + allNodes[i].trim() + '\"';
+                }
+                
+            }else{
+               str = str+ ',\"' + allNodes[i].trim() + '\"';
+            }
+            finalPaths.push(allNodes[i].trim());
+		} 
+	}
+}
+ return finalPaths;   
+}
+function document_keywords(){
+    var keywords = '';
+    var metas = document.getElementsByTagName('meta');
+
+    for (var x=0,y=metas.length; x<y; x++) {
+        if (metas[x].name.toLowerCase() == "keywords") {
+            keywords += metas[x].content;
+        }
+    }
+    return keywords != '' ? keywords : false;
+}
+
+k = document_keywords();
+	
+function isANumber(str){
+  return !/\D/.test(str);
+}
+function alphanumeric(inputtxt)
+{ 
+  if( isANumber(inputtxt ) )
+   return false ;
+
+   var letters = /^[0-9a-zA-Z\-\.\ ]+$/;
+   return (inputtxt.match(letters)) ;
+
+}
+</script>
+<!--%  home tag  %-->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+
+	if(screen.width >= 970){
+	gptadslots.push(googletag.defineSlot('/123148010/THE_WEEK_HOME_SLB_970x90', [[1,1],[970,90]], 'div-gpt-ad-3333483-1')
+                             .addService(googletag.pubads()));	
+	} else if (screen.width < 970 && screen.width >= 728) {
+    	gptadslots.push(googletag.defineSlot('/123148010/the_week_home_slb_tab_728x90', [[1,1],[728,90]], 'div-gpt-ad-3333483-2')
+                             .addService(googletag.pubads()));
+	} else {
+    	gptadslots.push(googletag.defineSlot('/123148010/the_week_home_slb_mob_300x250', [[1,1],[300,250]], 'div-gpt-ad-3333483-3')
+                             .addService(googletag.pubads()));
+	}
+    	gptadslots.push(googletag.defineSlot('/123148010/THE_WEEK_HOME_SHOSHKELE_600x400', [[1,1]], 'div-gpt-ad-3333483-4')
+                             .addService(googletag.pubads()));
+    
+    	googletag.pubads().enableSingleRequest();
+    	googletag.pubads().collapseEmptyDivs();
+    	googletag.pubads().setTargeting("Content_Category", [setContentCategory()]);
+    	googletag.enableServices();
+  });
+</script>
+<script data-ad-client="ca-pub-6622305925836088" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript" src="//services.vlitag.com/adv1/?q=dd1dca9a1b05cf7359d31d7a0521cc63" defer="" async=""></script><script> var vitag = vitag || {};</script>
+
+</head>	
+	<body data-ng-app="weekapp">
+	<!-- <script async src="//get.optad360.io/sf/b05e4399-fb74-48fc-9a72-e91f5918f6a6/plugin.min.js"></script> -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KT3DGJ9" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div class="theweek-home">
+		
+
+<input type="hidden" value="https://img.theweek.in" id="websiteImageDomain" class="mobile-domain-article">
+<div class="topheader-wrapper">
+	<div class="advertising-area"><div class="advertisement section">
+
+
+<div id="advst">
+	
+	
+		
+		
+			
+				<!-- GPT AdSlot 1 for Ad unit 'THE_WEEK_HOME_SLB_970x90' ### Size: [[1,1],[970,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
+<div id='div-gpt-ad-3333483-1'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-3333483-1'); });
+  </script>
+</div>
+<!-- End AdSlot 1 -->
+
+<!-- GPT AdSlot 2 for Ad unit 'the_week_home_slb_tab_728x90' ### Size: [[1,1],[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<div id='div-gpt-ad-3333483-2'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-3333483-2'); });
+  </script>
+</div>
+<!-- End AdSlot 2 -->
+
+<!-- GPT AdSlot 3 for Ad unit 'the_week_home_slb_mob_300x250' ### Size: [[1,1],[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<div id='div-gpt-ad-3333483-3'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-3333483-3'); });
+  </script>
+</div>
+<!-- End AdSlot 3 -->
+			
+			
+		
+	
+</div>
+
+</div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          <style>
+.today-news-label{background:#9f0b10;padding:25px 10px;width: 120px !important;float:left;font-size:16px;font-weight:bold;color:#fff;text-transform:uppercase;text-align:center;}
+.news-scroll-top-news{width: calc(100% - 120px) !important;float:left;padding:5px 10px 0 10px;} 
+</style>
+		             
+		        </div>
+	   
+ </div>
+
+</div>
+</div>
+
+	<header class="week-header">
+<script>
+	loginUrl = "https://id.manoramaonline.com/authorize?scope=openid+email+profile+offline_access&response_type=code&client_id=mm-week-live&redirect_uri=https%3A%2F%2Fwww.theweek.in%2Fweek%2Fsso%2Fauthorize.json%3Fclient_id%3Dmm-week-live%26cmd%3Dlogin%26loginContext%3Dmusic%26successUrl%3Dhttps%3A%2F%2Fwww.theweek.in%2Fhome.html%26errorUrl%3Dhttps%3A%2F%2Fwww.theweek.in%2Fhome.html&state=114217&nonce=687760";
+</script>
+<div class="weekHeader" data-ng-controller="weekHeader as header">
+	<div class="top-navigation">
+		<div class="container">
+			<div class="row ">
+				<div class="col-lg-12 head-part">
+
+					<div id="navbar">
+						<div role="navigation" class="navbar navbar-default navbar-static-top">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+									<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+								</button>
+								
+									
+										<a class="navbar-brand" href="http://www.theweek.in/" target="_self" title="The Week"> 
+											<img src="/content/dam/week/logo/The-Week-Logo-Big.png" alt="The Week" class="img-responsive big-logo">
+										</a>
+									
+									
+								
+							</div>
+
+							<div class="collapse navbar-collapse" id="navbar-collapse-1">
+								<ul class="nav navbar-nav">
+									
+										
+										
+											
+												<li class="dropdown">
+													<a href="https://www.theweek.in/magazine.html" target="_self" title="MAGAZINE" class="dropdown-toggle" data-toggle="dropdown">
+														MAGAZINE
+														<b class="caret"></b>
+													</a>
+													<ul class="dropdown-menu">
+														<li>
+															<a href="https://www.theweek.in/theweek.html" target="_self" title="The Week">
+																The Week	
+															</a>
+														</li>
+													
+														<li>
+															<a href="https://www.theweek.in/health.html" target="_self" title="HEALTH">
+																HEALTH	
+															</a>
+														</li>
+													</ul>
+												</li>
+											
+										
+									
+								</ul>
+
+								<ul class="nav navbar-nav navbar-right right-menu">
+									<li class="login" data-ng-controller="weeksso as sso" data-ng-init="sso.init()">
+										<a id="login-box" target="_top" href="https://id.manoramaonline.com/authorize?scope=openid+email+profile+offline_access&response_type=code&client_id=mm-week-live&redirect_uri=https%3A%2F%2Fwww.theweek.in%2Fweek%2Fsso%2Fauthorize.json%3Fclient_id%3Dmm-week-live%26cmd%3Dlogin%26loginContext%3Dmusic%26successUrl%3Dhttps%3A%2F%2Fwww.theweek.in%2Fhome.html%26errorUrl%3Dhttps%3A%2F%2Fwww.theweek.in%2Fhome.html&state=114217&nonce=687760">
+											Login
+										</a>									
+                                        <span id="userLogin"></span><a id="logout-box" href="javascript:void(0)" data-ng-click="sso.ssoLogOut()">Logout</a>
+                                        
+									</li>
+									<li class="message-us">
+										<a href="https://m.me/TheWeekMag" target="true">
+											Message Us
+										</a>
+									</li>
+									
+										<li id="subscribe" class="subscribetion-btn">
+											<a href="https://subscribe.manoramaonline.com/content/subscription/subscriptionorderdetails.subscription.TW.html" target="true">
+												Subscribe
+											</a>
+										</li>
+									
+								
+									<li id="sb-search" class="sb-search">
+										<form>
+											<input class="sb-search-input" placeholder="Search" data-ng-keypress="header.search($event,'https://www.theweek.in/search.html')" data-ng-focus="header.placeHolderChange($event)" data-ng-click="$event.stopPropagation()" type="text" value="" name="search" id="search"> 
+											<!--  input class="sb-search-submit" type="submit" value="">--> 
+											<!--span class="voice-search fa fa-microphone" aria-hidden="true"></span>-->
+											<span class="sb-icon-search" id="week-search-toggle" data-ng-click="header.searchToggle($event)"></span>
+											<span class="sb-icon-search" id="week-search-click" style="display:none;" data-ng-click="header.searchClick($event,'https://www.theweek.in/search.html')"></span>
+										</form>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main-menu">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+
+					<div id="ust">
+						<div id="menuac">
+							<span id="SpanTag"></span>
+						</div>
+					</div>
+
+					<div id="SubMenu" class="mobmenu">
+						<ul class="menu">
+							
+								<li>
+									<a href="https://www.theweek.in/home.html" target="_self" title="HOME">
+										HOME
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/india.html" target="_self" title="INDIA">
+										INDIA
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/world.html" target="_self" title="WORLD">
+										WORLD
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/biz-tech.html" target="_self" title="BUSINESS">
+										BUSINESS
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/sports.html" target="_self" title="SPORTS">
+										SPORTS
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/sci-tech.html" target="_self" title="SCI/TECH">
+										SCI/TECH
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/leisure.html" target="_self" title="LEISURE">
+										LEISURE
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/entertainment.html" target="_self" title="ENTERTAINMENT">
+										ENTERTAINMENT
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/news/health.html" target="_self" title="HEALTH">
+										HEALTH
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/education.html" target="_self" title="EDUCATION">
+										EDUCATION
+									</a>
+								</li>
+							
+								<li>
+									<a href="https://www.theweek.in/videos.html" target="_self" title="VIDEOS">
+										VIDEOS
+									</a>
+								</li>
+							
+							
+							<li class="dropdown more-items">
+								
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">more 
+										<b class="caret"></b>
+									</a>
+								
+								<ul class="dropdown-menu">
+									
+										<li>
+											<a href="https://www.theweek.in/photo-gallery.html" target="_self" title="GALLERY">
+												GALLERY
+											</a>
+										</li>
+									
+										<li>
+											<a href="https://www.theweek.in/review.html" target="_self" title="REVIEWS">
+												REVIEWS
+											</a>
+										</li>
+									
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></header>
+
+
+		<div class="body-wrapper">
+			<div class="theweek-component">
+				<div><div class="topics section">
+
+<div class="latest-news-tag" data-ng-controller="tagListing as  topics" data-ng-init="topics.init('/content/week/home/_jcr_content/col_top/topics.results.json')">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<ul>
+					<li data-ng-if="topics.sectionTitle != ''" data-ng-cloak>
+						{{topics.sectionTitle}} 
+					</li>
+					<li data-ng-repeat="item in topics.topicList">
+						<a data-ng-href="{{item.tagUrl}}" title="{{item.tagTitle}}" data-ng-cloak>{{item.tagTitle}}</a>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	weekapp.controller('tagListing', ["$scope", "$location", "$element", "$window", "$document", "$http", "$httpParamSerializer", "$compile", function ($scope, $location, $element, $window, $document, $http, $httpParamSerializer, $compile) {
+		var $ = this;
+	    $.topicList = new Array();
+	    $.sectionTitle = '';
+		$.init = function (url) {
+			$http({
+				method: "GET",
+				url:url
+			}).then(function (resp) {
+				try {
+					if (resp) {
+						$.topicList = JSON.parse(resp.data.tagList);
+						$.sectionTitle = resp.data.sectionTitle;
+					}
+				} catch (err) {}
+			});
+		}
+	}]);
+</script></div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          <style>
+                .banner-issue{margin:auto; max-width:1200px;}
+                .banner-img{display:block;}
+                .banner-img img{width:100%;}
+                .box-img{display:none; max-width:300px; margin: auto;}
+                @media (max-width: 480px) {
+                     
+                        .box-img{display:block;}
+                        .banner-img{display:none;}
+                }
+        </style>
+        <div class="banner-issue">
+             
+                <div class="banner-img">
+                <a href="https://www.magzter.com/IN/Malayala_Manorama/THE_WEEK/Business/684417" target="_blank">
+<img src="https://www.theweek.in/content/dam/week/Ad/Highlight-ads/ufo-banner.jpg"/></a></div>
+     
+   <div class="box-img"><a href="https://www.magzter.com/IN/Malayala_Manorama/THE_WEEK/Business/684417" target="_blank">
+                        <img src="https://www.theweek.in/content/dam/week/Ad/Highlight-ads/ufo-box.jpg"/></a>
+                </div>
+             
+        </div>
+		             
+		        </div>
+	   
+ </div>
+<div class="newsupdate section">
+<!--News for the day starts-->  
+
+<section class="full-wrapper common-top-spacing">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-12">
+                   <div class="full-layout-news-today">
+                       <div class="today-news-label">
+                           <h5>HOT AND HAPPENING</h5>
+                       </div>
+   
+   <!--scroll-->
+     <div class="news-scroll-top-news">
+      <div class="full-width-carousel owl-carousel owl-theme">
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Four students from Ladakh arrested in Delhi&#39;s Israel embassy blast case">
+		                <p class="top-news-scroll-text">Four students from Ladakh arrested in Delhi&#39;s Israel embassy blast case</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Revenue from 5G services to be insignificant for late adopters: Moody&#39;s">
+		                <p class="top-news-scroll-text">Revenue from 5G services to be insignificant for late adopters: Moody&#39;s</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Yes Bank case: CBI books former Gautam Thapar, 5 others">
+		                <p class="top-news-scroll-text">Yes Bank case: CBI books former Gautam Thapar, 5 others</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Finland midfielder Kauko signs for ATKMB days after Euro exit">
+		                <p class="top-news-scroll-text">Finland midfielder Kauko signs for ATKMB days after Euro exit</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Google delays plan to phase out Chrome ad-tracking tech">
+		                <p class="top-news-scroll-text">Google delays plan to phase out Chrome ad-tracking tech</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Wrist injury forces world no. 5 Thiem to pull out of Wimbledon">
+		                <p class="top-news-scroll-text">Wrist injury forces world no. 5 Thiem to pull out of Wimbledon</p>
+		         </a>
+	         
+	         </div>
+	       
+	         <div class="item">
+	          
+		          
+		          <a target="_top" title="Many feared dead after building collapses in Miami">
+		                <p class="top-news-scroll-text">Many feared dead after building collapses in Miami</p>
+		         </a>
+	         
+	         </div>
+	       
+     </div>
+   </div>
+     <!--scroll-->         
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section> 
+ 
+    <!--News for the day ends-->
+    
+
+
+</div>
+<div class="topstoriesdisplay section"><!-- top-stories-start -->
+   
+
+<section class="full-wrapper common-top-spacing">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-12 section-heading">
+        
+        <a><h3>TOP STORIES</h3></a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+      
+			
+        <div class="left-area-one">
+          <div class="left-area-one-content">
+            <div class="left-area-one-image">
+              	<a href="https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" target="_top" title="Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce">
+                <img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/biz-tech/images/2021/6/24/reliance-digital-jio-phone-store-reuters.jpg.image.626.365.jpg" data-src-mobile="/content/dam/week/news/biz-tech/images/2021/6/24/reliance-digital-jio-phone-store-reuters.jpg.image.610.356.jpg" class="b-lazy img-responsive img-width-100" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" title="Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce">
+              </a>
+              <div class="sub-top-stories-head">
+              
+                <div class="post-share-area">
+                	<a href="javascript:void(0);" class="news-share-report"></a>
+                  <ul class="social-icons">
+                 	<li><a href="http://www.facebook.com/share.php?u=https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" class="fb" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                 	<li><a href="http://twitter.com/share?text=Reliance+AGM%3A+Ambani+bets+on+solar+energy%2C+ultra-cheap+smartphones+and+new+commerce&url=https%3A%2F%2Fwww.theweek.in%2Fnews%2Fbiz-tech%2F2021%2F06%2F24%2Freliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html&via=week" class="tw" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                 	
+                 	<li><a href="https://www.tumblr.com/share/link?url=https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" class="linkedin-icon" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                 </ul>
+                </div>
+              </div>
+            </div>
+            <div class="left-area-one-image-content">
+              <h1>
+					<a href="https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" target="_top" title="Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce">
+						Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce
+					</a>
+			  </h1>
+              <p>Retail, technology and solar energy will fuel RIL&#39;s next few decades</p>
+              <div class="uploading-info">
+                <span class="report-writer-name">
+					
+						<a href="https://www.theweek.in/authors.nachiket-kelkar.html" title="Nachiket Kelkar" target="_blank">By Nachiket Kelkar</a>
+					
+					
+				</span>
+                <span class="report-writer-date">June 24, 2021</span>
+              </div>
+            </div>                
+          </div>
+        </div>
+	
+ 
+		
+ 
+		
+ 
+		
+ 
+		
+ 
+		
+ 
+		
+ 
+		
+ 
+						
+        <div class="right-area-one">
+          <div class="right-area-one-post">
+            <div class="col-lg-6 col-md-12 full-size">
+              <ul>
+               
+              
+               
+              
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-post-image">
+                      <a href="https://www.theweek.in/news/india/2021/06/24/committed-to-restoring-statehood-to-jk-pm-modi-assures-gupkar-leaders.html" target="_top" title="Committed to restoring statehood to J&amp;K, PM Modi assures Gupkar leaders">
+                      	<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2021/6/24/gupkar-leaders (1).jpg.image.224.131.jpg" data-src-mobile="/content/dam/week/news/india/images/2021/6/24/gupkar-leaders (1).jpg.image.224.131.jpg" class="b-lazy img-responsive img-width-100" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" title="Committed to restoring statehood to J&K, PM Modi assures Gupkar leaders">
+                      </a>
+                    </div>
+                    <div class="right-post-content">
+                      
+                      
+		                   <p><a href="https://www.theweek.in/news/india/2021/06/24/committed-to-restoring-statehood-to-jk-pm-modi-assures-gupkar-leaders.html" target="_top" title="Committed to restoring statehood to J&amp;K, PM Modi assures Gupkar leaders">Committed to restoring statehood to J&amp;K, PM Modi assures Gupkar leaders</a></p>
+		              
+                      <span class="writer-name">
+							
+			                
+			                	By Namrata Biji Ahuja, Tariq Bhat
+			                
+					  </span>
+                    </div>
+                  </div>                      
+                </li>
+				
+               
+              
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-post-image">
+                      <a href="https://www.theweek.in/news/sports/2021/06/24/copa-america-neymar-and-his-mission-to-keep-samba-alive.html" target="_top" title="Copa America: Neymar and his mission to keep &#39;samba&#39; alive">
+                      	<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/sports/images/2021/6/24/neymar-copa-ap.jpg.image.224.131.jpg" data-src-mobile="/content/dam/week/news/sports/images/2021/6/24/neymar-copa-ap.jpg.image.224.131.jpg" class="b-lazy img-responsive img-width-100" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" title="Copa America: Neymar and his mission to keep 'samba' alive">
+                      </a>
+                    </div>
+                    <div class="right-post-content">
+                      
+                      
+		                   <p><a href="https://www.theweek.in/news/sports/2021/06/24/copa-america-neymar-and-his-mission-to-keep-samba-alive.html" target="_top" title="Copa America: Neymar and his mission to keep &#39;samba&#39; alive">Copa America: Neymar and his mission to keep &#39;samba&#39; alive</a></p>
+		              
+                      <span class="writer-name">
+							
+								<a href="https://www.theweek.in/authors.Reuben-joe-joseph.html" title="Reuben Joe Joseph" target="_blank">By Reuben Joe Joseph</a>
+							
+			                
+					  </span>
+                    </div>
+                  </div>                      
+                </li>
+				
+               
+              
+               
+              
+               
+              
+               
+              
+               
+              
+               
+              </ul>
+            </div>
+
+            <div class="col-lg-6 col-md-12 full-size">
+              <ul class="right-area-one-list">
+               
+              	
+                
+              	
+                
+              	
+                
+              	
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-one-post-content">
+                      
+					
+						<p><a href="https://www.theweek.in/news/india/2021/06/24/ghaziabad-case-karnataka-hc-reprieve-to-twitter-india-chief-gets-protection-from-coercive-action.html" target="_top" title="Ghaziabad case: Karnataka HC reprieve to Twitter India chief; gets protection from coercive action">Ghaziabad case: Karnataka HC reprieve to Twitter India chief; gets protection from coercive action</a></p>
+					
+                    </div>
+                  </div>
+                </li>
+                
+                
+              	
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-one-post-content">
+                      
+					
+						<p><a href="https://www.theweek.in/news/india/2021/06/24/Tale-of-2-congress-cms-how-amarinder-gehlot-are-facing-dissidents-high-command.html" target="_top" title="Tale of 2 Congress CMs: How Amarinder, Gehlot are facing dissidents, high command">Tale of 2 Congress CMs: How Amarinder, Gehlot are facing dissidents, high command</a></p>
+					
+                    </div>
+                  </div>
+                </li>
+                
+                
+              	
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-one-post-content">
+                      
+					
+						<p><a href="https://www.theweek.in/news/biz-tech/2021/06/24/murari-jalan-the-man-with-links-to-gupta-brothers-now-behind-jet-airways-revival.html" target="_top" title="Murari Jalan, the man with links to Gupta brothers, now behind Jet Airways revival">Murari Jalan, the man with links to Gupta brothers, now behind Jet Airways revival</a></p>
+					
+                    </div>
+                  </div>
+                </li>
+                
+                
+              	
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-one-post-content">
+                      
+					
+						<p><a href="https://www.theweek.in/news/biz-tech/2021/06/24/saudi-aramco-chairman-joins-ril-board-deal-expected-this-year-mukesh-ambani-at-agm.html" target="_top" title="Saudi Aramco chairman joins RIL board, deal expected this year: Mukesh Ambani at AGM">Saudi Aramco chairman joins RIL board, deal expected this year: Mukesh Ambani at AGM</a></p>
+					
+                    </div>
+                  </div>
+                </li>
+                
+                
+              	
+                <li>
+                  <div class="post-with-img">
+                    <div class="right-one-post-content">
+                      
+					
+						<p><a href="https://www.theweek.in/news/biz-tech/2021/06/24/jio-phone-next-may-help-5g-reach-each-nook-and-corner-of-India.html" target="_top" title="Jio Phone Next may help 5G reach each nook and corner of India">Jio Phone Next may help 5G reach each nook and corner of India</a></p>
+					
+                    </div>
+                  </div>
+                </li>
+                
+                
+              </ul>
+            </div>              
+          </div>
+        </div>
+     
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- top-stories-end -->
+</div>
+<div class="breakingnewsticker section">
+</div>
+<div class="advertisement section">
+
+
+
+
+</div>
+<div class="currentaffairs section">
+
+<section class="full-wrapper common-top-spacing">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-12 section-heading">
+				
+				
+					<h3>CURRENT AFFAIRS </h3>
+				
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="full-layout-content">
+
+					<ul class="full-layout-posts full-wrapper">
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/india/2021/06/24/kerala-govt-docs-to-boycott-duty-on-june-25-to-protest-delay-in-arrest-of-accused-in-assault-case.html" target="_top" title="Kerala govt docs to boycott duty on June 25 to protest delay in arrest of accused in assault case"> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2018/2/20/healthcare-stethoscope.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/india/images/2018/2/20/healthcare-stethoscope.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="Healthcare rep image" title="Healthcare rep image">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/india/2021/06/24/kerala-govt-docs-to-boycott-duty-on-june-25-to-protest-delay-in-arrest-of-accused-in-assault-case.html" target="_top" title="Kerala govt docs to boycott duty on June 25 to protest delay in arrest of accused in assault case"> 
+													Kerala govt docs to boycott duty on June 25 to protest delay in arrest of accused in assault case 
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/india/2021/06/24/suffer-kerala-womens-panel-chief-insensitive-remark-to-woman-sparks-row.html" target="_top" title="&#39;Suffer&#39;: Kerala women&#39;s panel chief &#39;insensitive&#39; remark to woman sparks row"> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2020/6/6/mc-josephine.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/india/images/2020/6/6/mc-josephine.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="mc josephine" title="mc josephine">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/india/2021/06/24/suffer-kerala-womens-panel-chief-insensitive-remark-to-woman-sparks-row.html" target="_top" title="&#39;Suffer&#39;: Kerala women&#39;s panel chief &#39;insensitive&#39; remark to woman sparks row"> 
+													'Suffer': Kerala women's panel chief 'insensitive' remark to woman sparks row 
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/india/2021/06/24/if-cong-decides-to-contest-polls-alone-ncp-and-sena-will-fight-elections-jointly-jayant-patil.html" target="_top" title="If Cong decides to contest polls alone, NCP and Sena will fight elections jointly: Jayant Patil"> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2020/3/5/jayant_patil.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/india/images/2020/3/5/jayant_patil.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/india/2021/06/24/if-cong-decides-to-contest-polls-alone-ncp-and-sena-will-fight-elections-jointly-jayant-patil.html" target="_top" title="If Cong decides to contest polls alone, NCP and Sena will fight elections jointly: Jayant Patil"> 
+													If Cong decides to contest polls alone, NCP and Sena will fight elections jointly: Jayant Patil 
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+						
+						
+					
+						
+						
+					
+						
+						
+					
+						
+						
+					
+						
+						
+					
+						
+						
+					</ul>
+
+					<ul class="full-layout-posts">
+						
+					
+						
+					
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/india/2021/06/24/maoists-confirm-two-senior-leader-died-of-covid-19.html" target="_top" title="Maoists confirm two senior leaders died of COVID-19"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2021/6/24/maoist-leaders-bastar-sourced.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/india/images/2021/6/24/maoist-leaders-bastar-sourced.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/india/2021/06/24/maoists-confirm-two-senior-leader-died-of-covid-19.html" target="_top" title="Maoists confirm two senior leaders died of COVID-19">
+											Maoists confirm two senior leaders died of COVID-19
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/sports/2021/06/24/uefa-abolishes-away-goals-rule-in-club-competitions.html" target="_top" title="UEFA abolishes away-goals rule in club competitions"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/sports/images/2018/9/11/uefa-logo-file-reuters.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/sports/images/2018/9/11/uefa-logo-file-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="UEFA set to introduce third club competition in 2021" title="UEFA set to introduce third club competition in 2021">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/sports/2021/06/24/uefa-abolishes-away-goals-rule-in-club-competitions.html" target="_top" title="UEFA abolishes away-goals rule in club competitions">
+											UEFA abolishes away-goals rule in club competitions
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/sports/2021/06/24/india-womens-hockey-coach-marijne-eyes-quarterfinal-berth-in-tokyo-olympics.html" target="_top" title="India women&#39;s hockey coach Marijne eyes quarterfinal berth in Tokyo Olympics"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/sports/images/2018/3/24/sjoerd-marijne-new-arvind-jain.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/sports/images/2018/3/24/sjoerd-marijne-new-arvind-jain.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="sjoerd-marijne-new-arvind-jain" title="sjoerd-marijne-new-arvind-jain">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/sports/2021/06/24/india-womens-hockey-coach-marijne-eyes-quarterfinal-berth-in-tokyo-olympics.html" target="_top" title="India women&#39;s hockey coach Marijne eyes quarterfinal berth in Tokyo Olympics">
+											India women's hockey coach Marijne eyes quarterfinal berth in Tokyo Olympics
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					</ul>
+
+					<ul class="full-layout-posts more-related-posts">
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/sports/2021/06/24/don-t-know-reasons-for-not-getting-first-class-games-ahead-of-en.html" target="_top" title="Don&#39;t know reasons for not getting first-class games ahead of England series: Kohli">
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/2020/images/2021/1/13/captain-Virat-Kohli-looks-on.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/2020/images/2021/1/13/captain-Virat-Kohli-looks-on.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="Britain WTC Cricket" title="Britain WTC Cricket">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/sports/2021/06/24/don-t-know-reasons-for-not-getting-first-class-games-ahead-of-en.html" target="_top" title="Don&#39;t know reasons for not getting first-class games ahead of England series: Kohli">
+											Don't know reasons for not getting first-class games ahead of England series: Kohli
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/world/2021/06/24/miami-building-collapse-many-feared-dead-after-12-story-beachfront-crumbles.html" target="_top" title="Miami building collapse: Many feared dead after 12-story beachfront crumbles">
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/world/images/2021/6/24/miami-building-collapse-reuters.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/world/images/2021/6/24/miami-building-collapse-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/world/2021/06/24/miami-building-collapse-many-feared-dead-after-12-story-beachfront-crumbles.html" target="_top" title="Miami building collapse: Many feared dead after 12-story beachfront crumbles">
+											Miami building collapse: Many feared dead after 12-story beachfront crumbles
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/world/2021/06/24/opinion-understanding-the-chinese-communist-party-at-100.html" target="_top" title="OPINION: Understanding the Chinese Communist Party at 100">
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/world/images/2021/6/24/xi-jinping-china-communist-party-file-reuters.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/world/images/2021/6/24/xi-jinping-china-communist-party-file-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/world/2021/06/24/opinion-understanding-the-chinese-communist-party-at-100.html" target="_top" title="OPINION: Understanding the Chinese Communist Party at 100">
+											OPINION: Understanding the Chinese Communist Party at 100
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					</ul>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section></div>
+<div class="currentaffairs section">
+
+<section class="full-wrapper common-top-spacing">
+	<div class="container">
+
+		
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="full-layout-content">
+
+					<ul class="full-layout-posts full-wrapper">
+						
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" target="_top" title="Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/biz-tech/images/2021/6/24/reliance-digital-jio-phone-store-reuters.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/biz-tech/images/2021/6/24/reliance-digital-jio-phone-store-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<h2>
+										<a href="https://www.theweek.in/news/biz-tech/2021/06/24/reliance-agm-ambani-bets-on-solar-energy-ultra-cheap-smartphones-and-new-commerce.html" target="_top" title="Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce">
+											Reliance AGM: Ambani bets on solar energy, ultra-cheap smartphones and new commerce
+										</a>
+									</h2>
+								</div>
+							</li>
+						
+					
+						
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/biz-tech/2021/06/24/hong-kongers-queue-up-to-buy-last-edition-of-apple-daily-newspaper.html" target="_top" title="Hong Kongers queue up to buy last edition of Apple Daily newspaper "> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/biz-tech/images/2021/6/24/apple-daily-hong-kong-reuters.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/biz-tech/images/2021/6/24/apple-daily-hong-kong-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<h2>
+										<a href="https://www.theweek.in/news/biz-tech/2021/06/24/hong-kongers-queue-up-to-buy-last-edition-of-apple-daily-newspaper.html" target="_top" title="Hong Kongers queue up to buy last edition of Apple Daily newspaper ">
+											Hong Kongers queue up to buy last edition of Apple Daily newspaper 
+										</a>
+									</h2>
+								</div>
+							</li>
+						
+					
+						
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/sci-tech/2021/06/24/microsoft-announces-windows-11-will-support-popular-android-apps.html" target="_top" title="Microsoft announces Windows 11, will support popular Android apps"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/sci-tech/images/2021/6/24/microsoft-windows-11.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/sci-tech/images/2021/6/24/microsoft-windows-11.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<h2>
+										<a href="https://www.theweek.in/news/sci-tech/2021/06/24/microsoft-announces-windows-11-will-support-popular-android-apps.html" target="_top" title="Microsoft announces Windows 11, will support popular Android apps">
+											Microsoft announces Windows 11, will support popular Android apps
+										</a>
+									</h2>
+								</div>
+							</li>
+						
+					
+						
+						
+					
+						
+						
+					
+						
+						
+					</ul>
+
+					<ul class="full-layout-posts">
+						
+					
+						
+					
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/sci-tech/2021/06/24/signs-of-brain-inflammation-found-in-people-who-died-of-covid-19.html" target="_top" title="Signs of brain inflammation found in people who died of COVID-19: Study"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/world/images/2021/1/15/covid-burial-israel.ap.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/world/images/2021/1/15/covid-burial-israel.ap.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="covid body israel ap" title="covid body israel ap">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/sci-tech/2021/06/24/signs-of-brain-inflammation-found-in-people-who-died-of-covid-19.html" target="_top" title="Signs of brain inflammation found in people who died of COVID-19: Study">
+											Signs of brain inflammation found in people who died of COVID-19: Study
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/health/2021/06/24/single-dose-of-pfizer--astrazeneca-vaccine-offers-60-pc-protecti.html" target="_top" title="Single dose of Pfizer, AstraZeneca vaccine offers 60 pc protection: Lancet"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/health/images/2021/1/3/Advanced-nurse-practitioner-Justine-Williams-prepares-a-dose-of-the-Oxford-University-AstraZeneca-COVID-19-vaccine-reu.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/health/images/2021/1/3/Advanced-nurse-practitioner-Justine-Williams-prepares-a-dose-of-the-Oxford-University-AstraZeneca-COVID-19-vaccine-reu.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="HEALTH-CORONAVIRUS/BRITAIN-SCOTLAND" title="HEALTH-CORONAVIRUS/BRITAIN-SCOTLAND">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/health/2021/06/24/single-dose-of-pfizer--astrazeneca-vaccine-offers-60-pc-protecti.html" target="_top" title="Single dose of Pfizer, AstraZeneca vaccine offers 60 pc protection: Lancet">
+											Single dose of Pfizer, AstraZeneca vaccine offers 60 pc protection: Lancet
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					
+						
+							<li class="full-layout-related-post col-lg-4 col-md-4 col-sm-4 col-xs-4 full-size">
+								<div class="full-layout-related-image">
+									<a href="https://www.theweek.in/news/health/2021/06/24/delta-variant-expected-to-become-dominant-lineage--who.html" target="_top" title="Delta variant expected to become dominant lineage: WHO"> 
+										<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/2020/images/2021/1/13/passenger-face-mask-covid-coronavirus-flight-airport-Atlanta-ap.jpg.image.147.86.jpg" data-src-mobile="/content/dam/week/news/2020/images/2021/1/13/passenger-face-mask-covid-coronavirus-flight-airport-Atlanta-ap.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="Airlines Unruly Passengers" title="Airlines Unruly Passengers">
+									</a>
+								</div>
+								<div class="full-layout-related-content">
+									
+									<p>
+										<a href="https://www.theweek.in/news/health/2021/06/24/delta-variant-expected-to-become-dominant-lineage--who.html" target="_top" title="Delta variant expected to become dominant lineage: WHO">
+											Delta variant expected to become dominant lineage: WHO
+										</a>
+									</p>
+								</div>
+							</li>
+						
+					</ul>
+
+					<ul class="full-layout-posts more-related-posts">
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					</ul>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section></div>
+<div class="currentaffairs section">
+
+<section class="full-wrapper common-top-spacing">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-12 section-heading">
+				 
+					<a href="https://www.theweek.in/news/explained.html" target="_blank" title="Deep Dive">
+						<h3>Deep Dive</h3>
+					</a>
+				
+				
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="full-layout-content">
+
+					<ul class="full-layout-posts full-wrapper">
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/biz-tech/2021/06/24/controversial-software-mogul-john-mcafee-found-dead-spanish-prison.html" target="_top" title="From software mogul to &#39;tax fugitive&#39; and crypto evangelist, the stormy life of John McAfee"> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/biz-tech/images/2021/6/24/john-mcafee-reuters.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/biz-tech/images/2021/6/24/john-mcafee-reuters.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/biz-tech/2021/06/24/controversial-software-mogul-john-mcafee-found-dead-spanish-prison.html" target="_top" title="From software mogul to &#39;tax fugitive&#39; and crypto evangelist, the stormy life of John McAfee"> 
+													From software mogul to 'tax fugitive' and crypto evangelist, the stormy life of John McAfee 
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/world/2021/06/20/emirates-to-resume-india-flights-what-are-vaccine-pcr-rules-for-entry.html" target="_top" title="Emirates to resume India flights. What are vaccine, PCR rules for entry?"> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/2020/images/2021/1/13/Emirates-Airlines-Boeing-777-300ER-airplane-Cyprus-reu.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/2020/images/2021/1/13/Emirates-Airlines-Boeing-777-300ER-airplane-Cyprus-reu.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="EMIRATES AIRLINE-RESULTS/" title="EMIRATES AIRLINE-RESULTS/">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/world/2021/06/20/emirates-to-resume-india-flights-what-are-vaccine-pcr-rules-for-entry.html" target="_top" title="Emirates to resume India flights. What are vaccine, PCR rules for entry?"> 
+													Emirates to resume India flights. What are vaccine, PCR rules for entry? 
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+						
+							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 big-post-area">
+								<div class="full-layout-post">
+									<div class="full-layout-post-image">
+										<a href="https://www.theweek.in/news/biz-tech/2021/06/18/indian-economy-and-the-rising-threat-of-stagflation-explained.html" target="_top" title="Indian economy and the rising threat of stagflation, explained "> 
+											<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/india/images/2020/5/31/Dharavi-streets-lockdown-Vishnu-V-Nair.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/india/images/2020/5/31/Dharavi-streets-lockdown-Vishnu-V-Nair.jpg.image.270.157.jpg" class="b-lazy img-responsive img-width-100" alt="Dharavi-streets-lockdown-Vishnu-V-Nair" title="Dharavi-streets-lockdown-Vishnu-V-Nair">
+										</a>
+									</div>
+									<div class="full-layout-post-titles">
+										
+										<h2>
+											 
+												<a href="https://www.theweek.in/news/biz-tech/2021/06/18/indian-economy-and-the-rising-threat-of-stagflation-explained.html" target="_top" title="Indian economy and the rising threat of stagflation, explained "> 
+													Indian economy and the rising threat of stagflation, explained  
+												</a> 
+											
+										</h2>
+									</div>
+								</div>
+							</li>
+						
+						
+					</ul>
+
+					<ul class="full-layout-posts">
+						
+					
+						
+					
+						
+					</ul>
+
+					<ul class="full-layout-posts more-related-posts">
+						
+					
+						
+					
+						
+					</ul>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section></div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          <div style="margin:auto; max-width:970px;">
+
+<a href="https://www.theweek.in/news/health/2020/12/24/tech-for-the-new-normal.html" target="_blank">
+<img src="https://www.theweek.in/content/dam/week/Ad/Highlight-ads/GW-THEWEEK-DisplayAd.jpg" style="width:100%;"/></a>
+</div>
+
+		             
+		        </div>
+	   
+ </div>
+<div class="homevideo section">
+
+
+
+<section class="full-wrapper common-top-spacing">
+	<div class="container">
+	
+		<div class="row">
+			<div class="col-md-12 section-heading">
+				
+			    	<a href="https://www.theweek.in/videos.html"><h3>Videos</h3></a>
+			    
+			    
+			</div> 
+		</div>
+	
+        <div class="row">
+			<div class="col-md-12">
+	            <div class="element19-content-area">
+	            	<div class="element19-left-area">
+		            	
+				            <div class="youtube-player" data-id="VIDEO_ID">
+				            	<div data-id="VIDEO_ID">
+	            		    	<iframe src="https://players.brightcove.net/5574321165001/H1xJ2de7HM_default/index.html?videoId=6259488448001" allowfullscreen webkitallowfullscreen="" mozallowfullscreen="" width="100%" height="100%" id="I1" name="I1"></iframe>
+	            		    	<div class="play"></div>
+	            		    </div>
+				            </div>
+				            <div class="element19-post-content">
+				            	<h3><a href="https://www.theweek.in/videos/video-featured.playlist.video.6259488448001.html" class="bright-title">Robot revolution | Centre vs states | World Test Championship | Antonio Banderas | The Week in 60s</a></h3>
+				            	<h6 class='bright-desc'>The need for robots was never felt more than during this pandemic—for companionship, domestic help or medical assistance. The race is on to create more socially intelligent robots, and Indian players are populating the field.</h6>
+				            </div>
+			            
+		            
+		            	
+		            
+		            	
+		            
+		            	
+		            </div>
+		            <div class="element19-right-area">
+						<ul class="elements-list-area">
+						
+						
+						
+						  <li>
+						    <div class="list-element-area">
+						      <a href="https://www.theweek.in/videos/video-featured.playlist.video.6257543902001.html">
+						        <img src="https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5574321165001/cdf6260d-d89b-489b-9267-bc0ee11b7eac/432cb716-952e-47c7-b0c5-551ec2c3cc1c/194x345/match/image.jpg" class="img-responsive" alt="video image">
+						      </a>
+						    </div>
+						    <div class="list-element-content">
+						      <p><a href="https://www.theweek.in/videos/video-featured.playlist.video.6257543902001.html" class="bright-title">Indian sleuths tracing COVID-19’s origin | A lab-made virus? | Lakshadweep in focus | The Week in 60s</a></p>
+						      <h6 class='bright-desc'>The quest of a scientist couple from Pune to trace the origin and course of Sars-Cov-2 and the two interesting discoveries they made. THE WEEK wades through the many theories, arguments and counter-arguments about the virus’s origin</h6>
+						    </div>
+						  </li>
+						 
+						
+						
+						  <li>
+						    <div class="list-element-area">
+						      <a href="https://www.theweek.in/videos/video-featured.playlist.video.6256544747001.html">
+						        <img src="https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5574321165001/9433cf43-05b7-46e0-8d8b-03c9bb460e1b/7f95bf11-89c1-4038-ad0d-45fab13cd59d/194x345/match/image.jpg" class="img-responsive" alt="video image">
+						      </a>
+						    </div>
+						    <div class="list-element-content">
+						      <p><a href="https://www.theweek.in/videos/video-featured.playlist.video.6256544747001.html" class="bright-title">Champions League final: Thomas Tuchel, Chelsea's man of the moment | THE WEEK | SportsRoom</a></p>
+						      <h6 class='bright-desc'>German manager Thomas Tuchel took over Chelsea in January, and has led them to the final of the UEFA Champions League. In this episode of SportsRoom, we discuss his impact at Chelsea and his legacy at his previous clubs</h6>
+						    </div>
+						  </li>
+						 
+						
+						
+						  <li>
+						    <div class="list-element-area">
+						      <a href="https://www.theweek.in/videos/video-featured.playlist.video.6255619921001.html">
+						        <img src="https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5574321165001/50918d0e-2bec-4620-b531-3a6489a166ab/14ddf808-6f3e-427e-87a3-ad4b8361e055/194x345/match/image.jpg" class="img-responsive" alt="video image">
+						      </a>
+						    </div>
+						    <div class="list-element-content">
+						      <p><a href="https://www.theweek.in/videos/video-featured.playlist.video.6255619921001.html" class="bright-title">Rajiv Gandhi's India _ His life, times and legacy _ Israel-Hamas conflict _ The Week in 60s</a></p>
+						      <h6 class='bright-desc'>
+As India marks the 30th year of Rajiv Gandhi’s assassination, THE WEEK looks at the legacy of his tenure as prime minister⁣.</h6>
+						    </div>
+						  </li>
+						 
+						</ul>
+				        <div class="read-more-cta">
+				        	<a href="https://www.theweek.in/videos.html" target="_top" class="read-more pull-right">More</a>
+				        </div>
+			        </div>
+	            </div>
+          </div>
+        </div>
+      </div>
+      
+      <script>
+      
+      (function () {
+    	    var description = document.getElementsByClassName('bright-desc');
+    	    var title = document.getElementsByClassName('bright-title'); 
+    	    for(var i=0;i<description.length;i++){    	    	
+    	    	if(description[i].innerHTML.length > 85){
+    	    		description[i].innerHTML = description[i].innerHTML.substr(0,85)+'...';    	    		
+    	    	}
+    	    }    	    
+    	    for(var i=0;i<title.length;i++){    	    	
+    	    	if(title[i].innerHTML.length > 60){
+    	    		title[i].innerHTML = title[i].innerHTML.substr(0,60)+'...';    	    		
+    	    	}
+    	    }    	    
+    	})();
+      
+      </script>
+    </section>
+         </div>
+
+</div>
+			</div>
+			<section class="full-wrapper common-top-spacing">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="left-area">
+								<div class="theweek-component">
+									<div><div class="entertainment section">
+<!-- <div class="left-area"> -->
+
+<div class="section-heading">
+  <a href="https://www.theweek.in/news/entertainment.html" target="_top"><h3>ENTERTAINMENT</h3></a>
+  
+</div>                               
+<div class="inner-content-section">
+<!-- <sly data-sly-test.firstItem=""> -->
+
+  <div class="inner-content-post">
+    <div class="inner-content-post-image">
+      <a href="https://www.theweek.in/news/entertainment/2021/06/24/when-south-indian-actor-anupama-parameshwaran-became-a-teacher-in-bihar-school.html" target="_top" title="When South Indian actor Anupama Parameshwaran became a teacher in Bihar school">
+      	<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/entertainment/images/2021/3/6/anupama-insta.jpg.image.340.198.jpg" data-src-mobile="/content/dam/week/news/entertainment/images/2021/3/6/anupama-insta.jpg.image.290.169.jpg" class="b-lazy img-responsive img-width-100" alt="When South Indian actor Anupama Parameshwaran became a teacher in Bihar school" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" title="When South Indian actor Anupama Parameshwaran became a teacher in Bihar school">
+      </a>
+    </div>
+    <div class="inner-post-content">
+      <div class="news-title">
+        <h3><a href="https://www.theweek.in/news/entertainment/2021/06/24/when-south-indian-actor-anupama-parameshwaran-became-a-teacher-in-bihar-school.html" target="_top" title="When South Indian actor Anupama Parameshwaran became a teacher in Bihar school">When South Indian actor Anupama Parameshwaran became a teacher in Bihar school</a></h3>
+      </div>
+      <p>The comedy of errors left Twitterati in splits</p>
+    </div>
+  </div>
+  
+  <div class="inner-content-relevant-post">
+    <ul>
+    
+    
+    
+      <li>
+        <div class="inner-relevant-content">
+          <h2><a href="https://www.theweek.in/news/entertainment/2021/06/24/i-have-more-liberty-music-videos-prataya-saha.html" target="_top" title="I've more liberty with music videos: Prataya Saha">I've more liberty with music videos: Prataya Saha</a></h2>
+        </div>
+      </li>
+    
+    
+    
+      <li>
+        <div class="inner-relevant-content">
+          <h2><a href="https://www.theweek.in/news/entertainment/2021/06/24/actor-shabana-azmi-accuses-alcohol-delivery-platform-of-cheating-her.html" target="_top" title="Actor Shabana Azmi accuses alcohol delivery platform of cheating her">Actor Shabana Azmi accuses alcohol delivery platform of cheating her</a></h2>
+        </div>
+      </li>
+    
+    
+    
+      <li>
+        <div class="inner-relevant-content">
+          <h2><a href="https://www.theweek.in/news/entertainment/2021/06/24/what-does-dangerous-life-john-mcafee-reveal.html" target="_top" title="‘Gringo: The Dangerous Life of John McAfee’: What does this McAfee documentary reveal">‘Gringo: The Dangerous Life of John McAfee’: What does this McAfee documentary reveal</a></h2>
+        </div>
+      </li>
+    
+    </ul>
+    
+  </div>
+</div>
+
+<!-- </div> --></div>
+
+</div>
+								</div>
+							</div>
+							<div class="right-area">
+								<div class="theweek-component">
+									<div><div class="toptwostories section">
+ 
+
+<!-- <div class="right-area"> -->
+<div class="section-heading">
+  <a href="https://www.theweek.in/leisure.html" target="_top"><h3>Leisure</h3></a>
+  
+</div> 
+<div class="right-inner-area">
+  
+    <div class="right-inner-image">  
+      <a href="https://www.theweek.in/leisure/society/2021/06/22/british-queer-activist-ruth-mccarthy-on-using-the-arts-to-question-gender-norms.html" target="_top" title="Irish queer activist Ruth McCarthy on using the arts to question gender norms">
+      	<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/2020/images/2021/1/13/queer-activist-story-sneha.jpg.image.339.198.jpg" data-src-mobile="/content/dam/week/news/2020/images/2021/1/13/queer-activist-story-sneha.jpg.image.285.166.jpg" class="img-responsive" alt="Irish queer activist Ruth McCarthy on using the arts to question gender norms" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" title="Irish queer activist Ruth McCarthy on using the arts to question gender norms">
+      </a>
+    </div>
+   
+    <div class="right-inner-post-titles">
+	   <!--<div class="news-title">
+      	<sly data-sly-test.first="">
+        	<h5 data-sly-test=""></h5>
+        	<div data-sly-test="" class="small-space border-style"></div>
+        </sly>
+      </div> -->
+      <ul>     
+        <li>
+        	<a href="https://www.theweek.in/leisure/society/2021/06/22/british-queer-activist-ruth-mccarthy-on-using-the-arts-to-question-gender-norms.html" target="_top" title="Irish queer activist Ruth McCarthy on using the arts to question gender norms"><h6>Irish queer activist Ruth McCarthy on using the arts to question gender norms</h6></a>
+        </li>   
+        
+           
+           
+        <li>
+        	<a href="https://www.theweek.in/leisure/travel/2021/03/27/Rival-of-Goa-Shivrajpur-beach-new-hitherto-unexplored-destination-for-tourists.html" target="_top" title="Rival of Goa: “Shivrajpur” beach, new hitherto unexplored destination for tourists"><h6>Rival of Goa: “Shivrajpur” beach, new hitherto unexplored destination for tourists</h6></a>
+        </li>
+      </ul>
+    </div>
+    
+    
+    
+    
+</div>
+<!-- </div> -->
+</div>
+
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<div class="theweek-component">
+				<div><div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          <iframe id="mm-embed-frame" src="https://www.theweek.in/podcast/embed.html?artpath=%2Fcontent%2Fweek%2Fpodcast%2Fcategories%2Fexplained%2F2021%2F03%2F25%2FCAA-and-NRC-unites-fans-of-rival-teams" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" width="100%" height="230"></iframe><script>w=document.getElementById("mm-embed-frame").clientWidth;if(w<800){document.getElementById("mm-embed-frame").style.height="375px"}else{document.getElementById("mm-embed-frame").style.height="230px"}</script>
+		             
+		        </div>
+	   
+ </div>
+<div class="topcolumnists section">
+
+<section class="full-wrapper common-top-spacing">
+	<div class="opinion-heading-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading">
+					<h3>
+						
+							<a class="color-white" href="https://www.theweek.in/columns.html" title="OPINION" target="_self">OPINION</a>
+						
+						
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="full-width-slider-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="full-width-slider-list">
+						<div class="full-width-carousel owl-carousel owl-theme">
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/barkha-dutt.html" target="_blank" title="Barkha Dutt">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Barkha Dutt" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Barkha-Dutt.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Barkha-Dutt.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/barkha-dutt/2021/06/24/india-needs-transparency-on-vaccination-data--writes-barkha-dutt.html" target="_self" title="India needs transparency on vaccination data, writes Barkha Dutt">India needs transparency on vaccination data, writes Barkha Dutt</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/barkha-dutt.html" target="_blank" title="Barkha Dutt">Barkha Dutt</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Sachidananda-Murthy.html" target="_blank" title="Sachidananda Murthy">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sachidananda Murthy" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/sachi.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/sachi.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Sachidananda-Murthy/2021/06/17/modi-wants-to-move-on-pending-reforms-to-make-up-for-lost-time-sachidananda-murthy.html" target="_self" title="Modi wants to move on pending reforms to make up for lost time: Sachidananda Murthy">Modi wants to move on pending reforms to make up for lost time: Sachidananda Murthy</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Sachidananda-Murthy.html" target="_blank" title="Sachidananda Murthy">Sachidananda Murthy</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/jyotiraditya-scindia.html" target="_blank" title="Jyotiraditya Scindia">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Jyotiraditya Scindia" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Jyotiraditya-Scindia.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Jyotiraditya-Scindia.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/jyotiraditya-scindia/2021/06/17/digital-companies-cannot-afford-to-defy-laws-of-the-land-says-jyotiraditya-scindia.html" target="_self" title="Digital companies cannot afford to defy laws of the land, says Jyotiraditya Scindia">Digital companies cannot afford to defy laws of the land, says Jyotiraditya Scindia</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/jyotiraditya-scindia.html" target="_blank" title="Jyotiraditya Scindia">Jyotiraditya Scindia</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Anita-Pratap.html" target="_blank" title="Anita Pratap">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Anita Pratap" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Anita-Pratap.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Anita-Pratap.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Anita-Pratap/2021/06/17/why-hungarians-are-opposing-upcoming-chinese-university-in-budapest-anita-pratap.html" target="_self" title="Why Hungarians are opposing upcoming Chinese university in Budapest: Anita Pratap">Why Hungarians are opposing upcoming Chinese university in Budapest: Anita Pratap</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Anita-Pratap.html" target="_blank" title="Anita Pratap">Anita Pratap</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/anuja-chauhan.html" target="_blank" title="Anuja Chauhan">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Anuja Chauhan" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Anuja.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Anuja.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/anuja-chauhan/2021/06/17/anuja-chauhan-writes-on-embittered-misogynistic-hate-filled-bunch-of-hincels.html" target="_self" title="Anuja Chauhan writes on embittered, misogynistic, hate-filled bunch of &#39;hincels&#39;">Anuja Chauhan writes on embittered, misogynistic, hate-filled bunch of &#39;hincels&#39;</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/anuja-chauhan.html" target="_blank" title="Anuja Chauhan">Anuja Chauhan</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Shobhaa-De.html" target="_blank" title="Shobhaa De">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Shobhaa De" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Shobha-De.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Shobha-De.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Shobhaa-De/2021/06/17/lets-stop-cashing-in-on-sushant-singh-rajputs-death-says-shobhaa-de.html" target="_self" title="Let&#39;s stop cashing in on Sushant Singh Rajput&#39;s death, says Shobhaa De">Let&#39;s stop cashing in on Sushant Singh Rajput&#39;s death, says Shobhaa De</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Shobhaa-De.html" target="_blank" title="Shobhaa De">Shobhaa De</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/shashi-tharoor.html" target="_blank" title="Shashi Tharoor">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Shashi Tharoor" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Dr-Shashi-Tharoor-Photo.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Dr-Shashi-Tharoor-Photo.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/shashi-tharoor/2021/06/17/indo-pacific-will-remain-hub-for-maritime-economic-cooperation-shashi-tharoor.html" target="_self" title="Indo-Pacific will remain hub for maritime, economic cooperation: Shashi Tharoor">Indo-Pacific will remain hub for maritime, economic cooperation: Shashi Tharoor</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/shashi-tharoor.html" target="_blank" title="Shashi Tharoor">Shashi Tharoor</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/swara-bhasker.html" target="_blank" title="Swara Bhasker">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Swara Bhasker" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/swara-bhasker-image.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/swara-bhasker-image.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/swara-bhasker/2021/06/10/notes-on-grief-from-a-bystander.html" target="_self" title="Notes on grief: from a bystander">Notes on grief: from a bystander</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/swara-bhasker.html" target="_blank" title="Swara Bhasker">Swara Bhasker</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/prasannan.html" target="_blank" title="R Prasannan">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="R Prasannan" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Prasannan.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Prasannan.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/prasannan/2021/06/10/praful-patel-missed-cultural-fine-print-in-maldivian-policy-says-r-prasannan.html" target="_self" title="Praful Patel missed cultural fine print in Maldivian policy, says R. Prasannan">Praful Patel missed cultural fine print in Maldivian policy, says R. Prasannan</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/prasannan.html" target="_blank" title="R Prasannan">R Prasannan</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Mani-Shankar-Aiyar.html" target="_blank" title="Mani Shankar Aiyar">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Mani Shankar Aiyar" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Manishankar-Iyer.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Manishankar-Iyer.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Mani-Shankar-Aiyar/2021/06/10/it-is-high-time-we-scrapped-the-sedition-law-says-mani-shankar-aiyar.html" target="_self" title="It is high time we scrapped the sedition law, says Mani Shankar Aiyar">It is high time we scrapped the sedition law, says Mani Shankar Aiyar</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Mani-Shankar-Aiyar.html" target="_blank" title="Mani Shankar Aiyar">Mani Shankar Aiyar</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/bibek-debroy.html" target="_blank" title="Bibek Debroy">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Bibek Debroy" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/bibek debroy_11.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/bibek debroy_11.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/bibek-debroy/2021/06/10/bibek-debroy-explains-the-gaps-in-medical-apps-during-pandemic.html" target="_self" title="Bibek Debroy explains the gaps in medical apps during pandemic">Bibek Debroy explains the gaps in medical apps during pandemic</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/bibek-debroy.html" target="_blank" title="Bibek Debroy">Bibek Debroy</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/navtej-sarna.html" target="_blank" title="Navtej Sarna">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Navtej Sarna" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/navtej-sarna.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/navtej-sarna.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/navtej-sarna/2021/06/03/time-lost-and-opportunities-missed-do-not-come-back-writes-navtej-sarna.html" target="_self" title="Time lost and opportunities missed do not come back, writes Navtej Sarna">Time lost and opportunities missed do not come back, writes Navtej Sarna</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/navtej-sarna.html" target="_blank" title="Navtej Sarna">Navtej Sarna</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Sanjaya-Baru.html" target="_blank" title="Sanjaya Baru">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sanjaya Baru" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Sanjay-baru.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Sanjay-baru.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Sanjaya-Baru/2021/05/27/tough-for-singapore-to-balance-its-relationship-with-china-india-sanjaya-baru.html" target="_self" title="Tough for Singapore to balance its relationship with China, India: Sanjaya Baru">Tough for Singapore to balance its relationship with China, India: Sanjaya Baru</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Sanjaya-Baru.html" target="_blank" title="Sanjaya Baru">Sanjaya Baru</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/lakshmy-ramanathan.html" target="_blank" title="Lakshmy Ramanathan">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Lakshmy Ramanathan" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Lakshmy-Ramanathan.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Lakshmy-Ramanathan.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/lakshmy-ramanathan/2021/05/26/bet-on-syndets.html" target="_self" title="Bet on syndets">Bet on syndets</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/lakshmy-ramanathan.html" target="_blank" title="Lakshmy Ramanathan">Lakshmy Ramanathan</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Meenakshi-Lekhi.html" target="_blank" title="Meenakshi Lekhi">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Meenakshi Lekhi" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Meenakshi-Lekhi.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Meenakshi-Lekhi.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Meenakshi-Lekhi/2021/05/06/onus-is-on-all-of-us-not-just-narendra-modi-meenakshi-lekhi.html" target="_self" title="Onus is on all of us, not just Narendra Modi: Meenakshi Lekhi">Onus is on all of us, not just Narendra Modi: Meenakshi Lekhi</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Meenakshi-Lekhi.html" target="_blank" title="Meenakshi Lekhi">Meenakshi Lekhi</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/sanjay-manjrekar.html" target="_blank" title="Sanjay Manjrekar">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sanjay Manjrekar" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/sanjay-manjrekar.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/sanjay-manjrekar.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/sanjay-manjrekar/2019/09/06/big-ben-and-plucky-perera.html" target="_self" title="Big Ben and plucky Perera">Big Ben and plucky Perera</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/sanjay-manjrekar.html" target="_blank" title="Sanjay Manjrekar">Sanjay Manjrekar</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/bose-krishnamachari.html" target="_blank" title="Bose Krishnamachari">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Bose Krishnamachari" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Bose-Krishnamachari.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Bose-Krishnamachari.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/bose-krishnamachari/2019/08/09/here-is-to-healthy-conversation.html" target="_self" title="Here is to healthy conversation">Here is to healthy conversation</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/bose-krishnamachari.html" target="_blank" title="Bose Krishnamachari">Bose Krishnamachari</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/mk-bhadrakumar.html" target="_blank" title="M.K. Bhadrakumar">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="M.K. Bhadrakumar" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/M-K-Bhadrakumar.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/M-K-Bhadrakumar.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/mk-bhadrakumar/2019/06/07/a-wonk-no-more.html" target="_self" title="A wonk no more">A wonk no more</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/mk-bhadrakumar.html" target="_blank" title="M.K. Bhadrakumar">M.K. Bhadrakumar</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/vinod-rai.html" target="_blank" title="Vinod Rai">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Vinod Rai" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Vinod-Rai.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Vinod-Rai.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/vinod-rai/2018/05/18/make-the-impeachment-process-apolitical.html" target="_self" title="Make the impeachment process apolitical">Make the impeachment process apolitical</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/vinod-rai.html" target="_blank" title="Vinod Rai">Vinod Rai</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/ashwini-nachappa.html" target="_blank" title="Ashwini Nachappa">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Ashwini Nachappa" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Ashwani-nachappa.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Ashwani-nachappa.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/ashwini-nachappa/2018/05/18/an-open-letter-to-the-sports-minister.html" target="_self" title="An open letter to the sports minister">An open letter to the sports minister</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/ashwini-nachappa.html" target="_blank" title="Ashwini Nachappa">Ashwini Nachappa</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/geeti-sen.html" target="_blank" title="Geeti Sen">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Geeti Sen" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/geeti.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/geeti.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/geeti-sen/the-spirit-of-jaipur-summit.html" target="_self" title="The Spirit of Jaipur Art Summit">The Spirit of Jaipur Art Summit</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/geeti-sen.html" target="_blank" title="Geeti Sen">Geeti Sen</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/vandana-kohli.html" target="_blank" title="Vandana Kohli">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Vandana Kohli" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/VK.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/VK.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/vandana-kohli/blanking-out-in-the-digital-age.html" target="_self" title="Blanking out in the digital age">Blanking out in the digital age</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/vandana-kohli.html" target="_blank" title="Vandana Kohli">Vandana Kohli</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/sadhguru.html" target="_blank" title="Sadhguru Jaggi Vasudev">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sadhguru Jaggi Vasudev" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Jaggi.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Jaggi.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/sadhguru/disability-should-not-take-away-inner-joy.html" target="_self" title="Disability should not take away inner joy, writes Sadhguru">Disability should not take away inner joy, writes Sadhguru</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/sadhguru.html" target="_blank" title="Sadhguru Jaggi Vasudev">Sadhguru Jaggi Vasudev</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Gen-bikram-singh.html" target="_blank" title="Gen Bikram Singh">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Gen Bikram Singh" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Gen-Bikram-Singh.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Gen-Bikram-Singh.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Gen-bikram-singh/a-national-security-strategy-is-overdue.html" target="_self" title="A national security strategy is overdue">A national security strategy is overdue</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Gen-bikram-singh.html" target="_blank" title="Gen Bikram Singh">Gen Bikram Singh</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Manu-Chandra.html" target="_blank" title="Manu Chandra">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Manu Chandra" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Manu-Chandra.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Manu-Chandra.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Manu-Chandra/creating-a-new-normal.html" target="_self" title="Creating a new normal">Creating a new normal</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Manu-Chandra.html" target="_blank" title="Manu Chandra">Manu Chandra</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/sanjna-kapoor.html" target="_blank" title="Sanjna Kapoor">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sanjna Kapoor" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Sajana-Kapoor.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Sajana-Kapoor.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/sanjna-kapoor/thanks-thanks-and-ever-thanks.html" target="_self" title="Thanks, thanks and ever thanks">Thanks, thanks and ever thanks</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/sanjna-kapoor.html" target="_blank" title="Sanjna Kapoor">Sanjna Kapoor</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Jerry-Pinto.html" target="_blank" title="Jerry Pinto">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Jerry Pinto" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Jerry-Pinto.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Jerry-Pinto.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Jerry-Pinto/whose-india-is-it.html" target="_self" title="Whose India is it?">Whose India is it?</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Jerry-Pinto.html" target="_blank" title="Jerry Pinto">Jerry Pinto</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/saina-nehwal.html" target="_blank" title="Saina Nehwal">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Saina Nehwal" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Saina-Nehwal.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Saina-Nehwal.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/saina-nehwal/parting-shot.html" target="_self" title="Parting shot">Parting shot</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/saina-nehwal.html" target="_blank" title="Saina Nehwal">Saina Nehwal</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/nandita-das.html" target="_blank" title="Nandita Das">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Nandita Das" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Nandita-Das.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Nandita-Das.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/nandita-das/the-power-of-the-written-word.html" target="_self" title="The power of the written word">The power of the written word</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/nandita-das.html" target="_blank" title="Nandita Das">Nandita Das</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Sania-Mirza.html" target="_blank" title="Sania Mirza">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sania Mirza" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Sania-Mirza.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Sania-Mirza.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Sania-Mirza/a-life-dedicated-to-tennis.html" target="_self" title="A life dedicated to tennis">A life dedicated to tennis</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Sania-Mirza.html" target="_blank" title="Sania Mirza">Sania Mirza</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Bala-Ambati.html" target="_blank" title="Dr Bala Ambati">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Dr Bala Ambati" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Ambati-dr.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Ambati-dr.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Bala-Ambati/an-eye-on-screen-time.html" target="_self" title="An eye on screen time">An eye on screen time</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Bala-Ambati.html" target="_blank" title="Dr Bala Ambati">Dr Bala Ambati</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Maroof-Raza.html" target="_blank" title="Maroof Raza">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Maroof Raza" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Maroof-Raza.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Maroof-Raza.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Maroof-Raza/expect-more-shocks-in-punjab.html" target="_self" title="Expect more shocks in Punjab">Expect more shocks in Punjab</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Maroof-Raza.html" target="_blank" title="Maroof Raza">Maroof Raza</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/ajish-p-joy.html" target="_blank" title="Ajish P Joy">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Ajish P Joy" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Ajish.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Ajish.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/ajish-p-joy/russia-against-islamic-state-in-syria.html" target="_self" title="Bear unchained">Bear unchained</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/ajish-p-joy.html" target="_blank" title="Ajish P Joy">Ajish P Joy</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Mallika-Sarabhai.html" target="_blank" title="Mallika Sarabhai">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Mallika Sarabhai" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Mallika-Sarabhai.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Mallika-Sarabhai.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Mallika-Sarabhai/march-of-the-greens.html" target="_self" title="March of the greens">March of the greens</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Mallika-Sarabhai.html" target="_blank" title="Mallika Sarabhai">Mallika Sarabhai</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Amjad-Ali-Khan.html" target="_blank" title="Amjad Ali Khan">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Amjad Ali Khan" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Amjad-Ali-Khan.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Amjad-Ali-Khan.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Amjad-Ali-Khan/dependence-our-greatest-strength.html" target="_self" title="Dependence, our greatest strength">Dependence, our greatest strength</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Amjad-Ali-Khan.html" target="_blank" title="Amjad Ali Khan">Amjad Ali Khan</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Hemant-Oberoi.html" target="_blank" title="Hemant Oberoi">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Hemant Oberoi" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Hemant-Oberoi.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Hemant-Oberoi.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Hemant-Oberoi/serve-with-a-smile.html" target="_self" title="Serve, with a smile">Serve, with a smile</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Hemant-Oberoi.html" target="_blank" title="Hemant Oberoi">Hemant Oberoi</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Binayak-Sen.html" target="_blank" title="Ilina &amp; Binayak Sen">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Ilina &amp; Binayak Sen" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Binayak-Sen.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Binayak-Sen.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Binayak-Sen/Farewell-fair-friend.html" target="_self" title="Farewell, fair friend">Farewell, fair friend</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Binayak-Sen.html" target="_blank" title="Ilina &amp; Binayak Sen">Ilina &amp; Binayak Sen</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Patrick-French.html" target="_blank" title="Patrick French">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Patrick French" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Patrik-French.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Patrik-French.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Patrick-French/bonding-with-the-best.html" target="_self" title="&#39;Bond&#39;ing with the best">&#39;Bond&#39;ing with the best</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Patrick-French.html" target="_blank" title="Patrick French">Patrick French</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/nupur-sharma.html" target="_blank" title="Nupur Sharma">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Nupur Sharma" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Nupur-Sharma.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Nupur-Sharma.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/nupur-sharma/to-even-the-odds.html" target="_self" title="To even the odds">To even the odds</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/nupur-sharma.html" target="_blank" title="Nupur Sharma">Nupur Sharma</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Derek-O-Brien.html" target="_blank" title="Derek O’Brien">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Derek O’Brien" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/Derek-O&#39;brien.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/Derek-O&#39;brien.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Derek-O-Brien/booming-bengal-beckons.html" target="_self" title="Booming Bengal beckons">Booming Bengal beckons</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Derek-O-Brien.html" target="_blank" title="Derek O’Brien">Derek O’Brien</a>
+                             		</span>
+								</div>
+							</div>
+						
+							<div class="item">
+								<div class="full-width-slid-item">
+									<a href="https://www.theweek.in/columns/Sourav-Ganguly.html" target="_blank" title="Sourav Ganguly">
+										<div class="opinion-people-image">
+										    <img class="img-responsive img-width-100" alt="Sourav Ganguly" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-original="/etc/designs/theweek/clientlibs/images/author-dummy-image.jpg" data-src-web="/content/dam/week/authorimages/sourav-ganguly.jpg.image.80.113.jpg" data-src-mobile="/content/dam/week/authorimages/sourav-ganguly.jpg.image.80.113.jpg">
+										</div>
+									</a>
+									<h4>
+										<a href="https://www.theweek.in/columns/Sourav-Ganguly/i-want-day-night-tests-in-india.html" target="_self" title="I want day-night Tests in India">I want day-night Tests in India</a>
+									</h4>
+                             		<div class="small-space border-style"></div>
+                             		<span class="full-width-item-name columnist-name">
+                             			<a href="https://www.theweek.in/columns/Sourav-Ganguly.html" target="_blank" title="Sourav Ganguly">Sourav Ganguly</a>
+                             		</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+</div>
+<div class="editorspick section">
+
+<script type="text/javascript" src="https://js.theweek.in/etc/designs/theweek/editorspick.js"></script>
+
+
+
+<section class="full-wrapper common-top-spacing" data-ng-controller="editorspick as editor" data-ng-init="editor.init('/content/week/home/_jcr_content/col_top1/editorspick.results.json')">
+	<div class="full-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading">
+					<h3>
+						
+						EDITOR&#39;S PICK
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="slid-content-area">
+		<div class="container">
+			<div class="row">
+	            <div class="col-md-12">
+	              <div id="slid-content-tab">
+	              	<ul class="nav nav-pills">
+	              		<li data-ng-click="editor.setActive('1');editor.callAjaxreq('1')" data-ng-class="{'active':editor.activateMenu('1')}" data-tabIndex="1">
+	              			<a href="javascript:void(0)" data-toggle="tab">The Week</a>
+	              		</li>
+	              	
+	              		<li data-ng-click="editor.setActive('2');editor.callAjaxreq('2')" data-ng-class="{'active':editor.activateMenu('2')}" data-tabIndex="2">
+	              			<a href="javascript:void(0)" data-toggle="tab">The Wallet</a>
+	              		</li>
+	              	
+	              		<li data-ng-click="editor.setActive('3');editor.callAjaxreq('3')" data-ng-class="{'active':editor.activateMenu('3')}" data-tabIndex="3">
+	              			<a href="javascript:void(0)" data-toggle="tab">Health</a>
+	              		</li>
+	              	</ul>
+	              	<div class="tab-content clearfix">
+	              		<div class="tab-pane fade in" style="display:block;">
+	              			<div class="the-week-swipe-item-slider">
+	              				<div class="owl-carousel owl-theme editor-carousel" id="editor-carousel">
+	              					<div class="item">
+	              						<div class="swipe-item-content">
+	              							<div class="slid-post-image">
+	              								<a href="https://www.theweek.in/theweek/cover/2021/06/17/how-the-pandemic-will-be-a-game-changer-for-robotics-in-india.html" title="How the pandemic will be a game-changer for robotics in India" target="_self">
+	              									<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/theweek/cover/images/2021/6/17/Opening.jpg.image.295.172.jpg" data-src-mobile="/content/dam/week/magazine/theweek/cover/images/2021/6/17/Opening.jpg.image.295.172.jpg" class="img-responsive img-width-100">
+	              								</a>
+	              							</div>
+	              							<div class="slid-image-content">
+	              								
+	              								<h2>
+	              									<a href="https://www.theweek.in/theweek/cover/2021/06/17/how-the-pandemic-will-be-a-game-changer-for-robotics-in-india.html" title="How the pandemic will be a game-changer for robotics in India" target="_self">How the pandemic will be a game-changer for robotics in India</a>
+	              								</h2>
+	              								<p>In a 2019 video,Kyra Kanojia—a child YouTuber who reviews...</p>
+	              								<span class="writer-name">
+													
+														<a href="https://www.theweek.in/authors.sneha-bhura.html" title="Sneha Bhura" target="_blank">By Sneha Bhura</a>
+													
+													
+	              								</span>
+	              							</div>
+	              						</div>
+	              					</div>
+	              				
+	              					<div class="item">
+	              						<div class="swipe-item-content">
+	              							<div class="slid-post-image">
+	              								<a href="https://www.theweek.in/theweek/cover/2021/06/17/ssis-mantra-could-bridge-the-disparity-in-access-to-robotic-surgeries.html" title="SSI&#39;s Mantra could bridge the disparity in access to robotic surgeries" target="_self">
+	              									<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/theweek/cover/images/2021/6/17/dr-shrivastava.jpg.image.295.172.jpg" data-src-mobile="/content/dam/week/magazine/theweek/cover/images/2021/6/17/dr-shrivastava.jpg.image.295.172.jpg" class="img-responsive img-width-100">
+	              								</a>
+	              							</div>
+	              							<div class="slid-image-content">
+	              								
+	              								<h2>
+	              									<a href="https://www.theweek.in/theweek/cover/2021/06/17/ssis-mantra-could-bridge-the-disparity-in-access-to-robotic-surgeries.html" title="SSI&#39;s Mantra could bridge the disparity in access to robotic surgeries" target="_self">SSI&#39;s Mantra could bridge the disparity in access to robotic surgeries</a>
+	              								</h2>
+	              								<p>Dr Sudhir Srivastava has one vision: “Only a patient should...</p>
+	              								<span class="writer-name">
+													
+														<a href="https://www.theweek.in/authors.sneha-bhura.html" title="Sneha Bhura" target="_blank">By Sneha Bhura</a>
+													
+													
+	              								</span>
+	              							</div>
+	              						</div>
+	              					</div>
+	              				
+	              					<div class="item">
+	              						<div class="swipe-item-content">
+	              							<div class="slid-post-image">
+	              								<a href="https://www.theweek.in/theweek/cover/2021/06/17/covid-induced-automation-in-industries-is-a-double-edged-sword.html" title="COVID-induced automation in industries is a double-edged sword" target="_self">
+	              									<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/theweek/cover/images/2021/6/17/pulkit.jpg.image.295.172.jpg" data-src-mobile="/content/dam/week/magazine/theweek/cover/images/2021/6/17/pulkit.jpg.image.295.172.jpg" class="img-responsive img-width-100">
+	              								</a>
+	              							</div>
+	              							<div class="slid-image-content">
+	              								
+	              								<h2>
+	              									<a href="https://www.theweek.in/theweek/cover/2021/06/17/covid-induced-automation-in-industries-is-a-double-edged-sword.html" title="COVID-induced automation in industries is a double-edged sword" target="_self">COVID-induced automation in industries is a double-edged sword</a>
+	              								</h2>
+	              								<p>Dirty, dangerous and dull. These three words have guided...</p>
+	              								<span class="writer-name">
+													
+														<a href="https://www.theweek.in/authors.sneha-bhura.html" title="Sneha Bhura" target="_blank">By Sneha Bhura</a>
+													
+													
+	              								</span>
+	              							</div>
+	              						</div>
+	              					</div>
+	              				
+	              					<div class="item">
+	              						<div class="swipe-item-content">
+	              							<div class="slid-post-image">
+	              								<a href="https://www.theweek.in/theweek/cover/2021/06/17/meet-the-entrepreneurs-redefining-our-culinary-future--bot-by-bo.html" title="Meet the entrepreneurs redefining our culinary future, bot by bot" target="_self">
+	              									<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/theweek/cover/images/2021/6/17/mukunda.jpg.image.295.172.jpg" data-src-mobile="/content/dam/week/magazine/theweek/cover/images/2021/6/17/mukunda.jpg.image.295.172.jpg" class="img-responsive img-width-100">
+	              								</a>
+	              							</div>
+	              							<div class="slid-image-content">
+	              								
+	              								<h2>
+	              									<a href="https://www.theweek.in/theweek/cover/2021/06/17/meet-the-entrepreneurs-redefining-our-culinary-future--bot-by-bo.html" title="Meet the entrepreneurs redefining our culinary future, bot by bot" target="_self">Meet the entrepreneurs redefining our culinary future, bot by bot</a>
+	              								</h2>
+	              								<p>Cohan Sujay Carlos knows that many home robotics companies...</p>
+	              								<span class="writer-name">
+													
+														<a href="https://www.theweek.in/authors.sneha-bhura.html" title="Sneha Bhura" target="_blank">By Sneha Bhura</a>
+													
+													
+	              								</span>
+	              							</div>
+	              						</div>
+	              					</div>
+	              				
+	              					<div class="item">
+	              						<div class="swipe-item-content">
+	              							<div class="slid-post-image">
+	              								<a href="https://www.theweek.in/theweek/cover/2021/06/17/the-practical-challenges-of-automating-border-security-and-warfa.html" title="The practical challenges of automating border security and warfare" target="_self">
+	              									<img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/theweek/cover/images/2021/6/17/tushar-chhabra.jpg.image.295.172.jpg" data-src-mobile="/content/dam/week/magazine/theweek/cover/images/2021/6/17/tushar-chhabra.jpg.image.295.172.jpg" class="img-responsive img-width-100">
+	              								</a>
+	              							</div>
+	              							<div class="slid-image-content">
+	              								
+	              								<h2>
+	              									<a href="https://www.theweek.in/theweek/cover/2021/06/17/the-practical-challenges-of-automating-border-security-and-warfa.html" title="The practical challenges of automating border security and warfare" target="_self">The practical challenges of automating border security and warfare</a>
+	              								</h2>
+	              								<p>Assam Rifles once gave Tushar Chhabra a trophy in 2018,...</p>
+	              								<span class="writer-name">
+													
+														<a href="https://www.theweek.in/authors.sneha-bhura.html" title="Sneha Bhura" target="_blank">By Sneha Bhura</a>
+													
+													
+	              								</span>
+	              							</div>
+	              						</div>
+	              					</div>
+	              				</div>
+	              			</div>
+	              		</div>
+	              	</div>
+	              </div>
+	            </div>
+	         </div>
+		</div>
+	</div>
+</section></div>
+<div class="review section">
+
+<script type="text/javascript" src="https://js.theweek.in/etc/designs/week/review.js"></script>
+<script type="text/javascript" src="https://js.theweek.in/etc/designs/theweek/review.js"></script>
+
+
+
+
+<section class="full-wrapper common-top-spacing" data-ng-controller="weekreview as review" data-ng-init="review.init('/content/week/home/_jcr_content/col_top1/review.results.json')">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 section-heading">
+				<h3>
+					
+						<a class="color-white" href="https://www.theweek.in/review.html" title="REVIEWS" target="_self">REVIEWS</a>
+					
+					
+				</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="full-width-tab-area">
+					<ul class="nav nav-pills">
+						<li data-ng-click="review.setActive('1'); review.callAjaxreq('1')" data-ng-class="{'active':review.activateMenu('1')}">
+							<a href="javascript:void(0);">FILMS</a>
+						</li>
+						
+					
+						
+						<li data-ng-click="review.setActive('2'); review.callAjaxreq('2')" data-ng-class="{'active':review.activateMenu('2')}">
+							<a href="javascript:void(0);">BOOKS</a>
+						</li>
+					
+						
+						<li data-ng-click="review.setActive('3'); review.callAjaxreq('3')" data-ng-class="{'active':review.activateMenu('3')}">
+							<a href="javascript:void(0);">GADGETS</a>
+						</li>
+					
+						
+						<li data-ng-click="review.setActive('4'); review.callAjaxreq('4')" data-ng-class="{'active':review.activateMenu('4')}">
+							<a href="javascript:void(0);">AUTOMOBILES</a>
+						</li>
+					</ul>
+					<div class="tab-content clearfix">
+						<div class="tab-pane active" id='reviewlist'>
+							<div class="left-area-tab-content">
+								<div class="left-area-tab-image">
+									<a href="https://www.theweek.in/review/movies/2021/06/18/jagame-thandhiram-review-this-dhanush-starrer-is-a-tedious-watch.html" title="Jagame Thandhiram review: This Dhanush-starrer is a tedious watch" target="_self">
+										<img class="b-lazy img-responsive img-width-100" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/review/movies/images/2021/6/18/jagame-thandhiram.jpg.image.414.241.jpg" data-src-mobile="/content/dam/week/review/movies/images/2021/6/18/jagame-thandhiram.jpg.image.285.166.jpg" alt="Jagame Thandhiram review: This Dhanush-starrer is a tedious watch">
+									</a>
+								</div>
+								<div class="left-aera-tab-content">
+									
+									<ul class="post-rating">
+										<li>
+											<a href="javascript:void(0);">
+												<i class="fa fa-star" aria-hidden="true"></i>
+												
+												
+											</a>
+										</li>
+									
+										<li>
+											<a href="javascript:void(0);">
+												<i class="fa fa-star" aria-hidden="true"></i>
+												
+												
+											</a>
+										</li>
+									
+										<li>
+											<a href="javascript:void(0);">
+												
+												
+												<i class="fa fa-star-o" aria-hidden="true"></i>
+											</a>
+										</li>
+									
+										<li>
+											<a href="javascript:void(0);">
+												
+												
+												<i class="fa fa-star-o" aria-hidden="true"></i>
+											</a>
+										</li>
+									
+										<li>
+											<a href="javascript:void(0);">
+												
+												
+												<i class="fa fa-star-o" aria-hidden="true"></i>
+											</a>
+										</li>
+									</ul>
+									<h3>
+										<a href="https://www.theweek.in/review/movies/2021/06/18/jagame-thandhiram-review-this-dhanush-starrer-is-a-tedious-watch.html" title="Jagame Thandhiram review: This Dhanush-starrer is a tedious watch" target="_self">Jagame Thandhiram review: This Dhanush-starrer is a tedious watch</a>
+									</h3>
+									<p>The long and loosely written screenplay lets down the film</p>
+									<div class="post-writer-info-area news-title">
+		           						<span class="writer-name">
+											
+												<a href="https://www.theweek.in/authors.Lakshmi.html" title="Lakshmi Subramanian" target="_blank">By Lakshmi Subramanian</a>
+											
+											
+		           						</span>
+									</div>
+								</div>
+							</div>
+							<div class="right-area-listing">
+								<ul>
+									
+								
+									<li>
+										<div class="right-area-tab-image">
+											<a href="https://www.theweek.in/review/movies/2021/06/18/sherni-review-vidya-balan-shines-film-human-wildlife-conflict.html" target="_self">
+												<img class="b-lazy img-responsive img-width-100" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/news/entertainment/images/2021/6/15/sherni.jpg.image.158.92.jpg" data-src-mobile="/content/dam/week/news/entertainment/images/2021/6/15/sherni.jpg.image.143.83.jpg">
+											</a>
+										</div>
+										<div class="tab-listing-content">
+											<h3>
+												<a href="https://www.theweek.in/review/movies/2021/06/18/sherni-review-vidya-balan-shines-film-human-wildlife-conflict.html" title="‘Sherni’ review: Vidya Balan shines in a well-made film on human-wildlife conflict" target="_self">‘Sherni’ review: Vidya Balan shines in a well-made film on human-wildlife conflict</a>
+											</h3>
+											<span class="writer-name">
+												
+													<a href="https://www.theweek.in/authors.pooja-biraia-jaiswal.html" title="Pooja Biraia Jaiswal" target="_blank">By Pooja Biraia Jaiswal</a>
+												
+												
+		           							</span>
+		           							<ul class="post-rating">
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														
+														
+														<i class="fa fa-star-o" aria-hidden="true"></i>
+													</a>
+												</li>
+		           							</ul>
+										</div>
+									</li>
+								
+									<li>
+										<div class="right-area-tab-image">
+											<a href="https://www.theweek.in/review/movies/2021/06/04/the-family-man-season-2-manoj-bajpayee-makes-a-compelling-return-in-this-thriller.html" target="_self">
+												<img class="b-lazy img-responsive img-width-100" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/review/movies/images/2021/6/4/familyf.jpg.image.158.92.jpg" data-src-mobile="/content/dam/week/review/movies/images/2021/6/4/familyf.jpg.image.143.83.jpg">
+											</a>
+										</div>
+										<div class="tab-listing-content">
+											<h3>
+												<a href="https://www.theweek.in/review/movies/2021/06/04/the-family-man-season-2-manoj-bajpayee-makes-a-compelling-return-in-this-thriller.html" title="The Family Man Season 2: Manoj Bajpayee makes a compelling return in this thriller" target="_self">The Family Man Season 2: Manoj Bajpayee makes a compelling return in this thriller</a>
+											</h3>
+											<span class="writer-name">
+												
+												
+													By Nivedita Jayaram Pawar
+												
+		           							</span>
+		           							<ul class="post-rating">
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														<i class="fa fa-star" aria-hidden="true"></i>
+														
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														
+														<i class="fa fa-star-half-o" aria-hidden="true"></i>
+														
+													</a>
+												</li>
+		           							
+												<li>
+													<a href="javascript:void(0);">
+														
+														
+														<i class="fa fa-star-o" aria-hidden="true"></i>
+													</a>
+												</li>
+		           							</ul>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+
+</div>
+			</div>
+			<section class="full-wrapper common-top-spacing">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="left-area">
+								<div class="theweek-component">
+									<div><div class="homegallery section">
+
+<script type="text/javascript" src="https://js.theweek.in/etc/designs/theweek/homegallery.js"></script>
+
+
+
+<div class="galleryWrapper" data-ng-controller="homegallery as  gallery" data-ng-init="gallery.init('/content/week/home/_jcr_content/col_leftparaside1/homegallery.results.json')">
+    <div class="row">
+        <div class="col-md-12 section-heading">
+            
+                <a href="https://www.theweek.in/photo-gallery.html" title="Gallery" target="_self">
+                    <h3>Gallery</h3>
+                </a>
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="full-width-tab-area">
+                <div class="heading-bg-element"></div>
+                <div class="tab-content clearfix">
+                    <div class="tab-pane active">
+                        <div class="show-all-items">
+                            <div class="tab-content">
+	                            <div role="tabpanel" class="tab-pane active" id="defult-showcase">
+	                                <div class="default-slider">
+	                                    <div class="owl-image-slider owl-carousel owl-theme">
+	                                        <div data-ng-repeat="item in gallery.albumList[0].imageList" data-ng-gallery>
+	                                            <h5>{{gallery.albumList[0].albumTitle}}</h5>
+	                                            <img data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="{{item.galleryPath}}.image.510.297.jpg" data-src-mobile="{{item.galleryPath}}.image.428.249.jpg" alt="{{item.galleryTitle}}" class="img-width-100">
+	                                            <p>{{item.galleryDescription}}</p>
+	                                        </div>
+	                                    </div>
+	                                </div>
+	                            </div>
+                            </div>
+
+                            <div class="other-slider">
+                                <ul class="nav nav-tabs" role="tablist">
+                                    <li role="presentation" data-ng-repeat="item in gallery.albumList" data-ng-click="gallery.changePos($index,$event)">
+                                        <a href="javascript:void(0)">
+                                            <img class="img-width-100" data-ng-image src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="{{item.imageList[0].galleryPath}}.image.203.118.jpg" data-src-mobile="{{item.imageList[0].galleryPath}}.image.129.75.jpg" alt="{{item.albumTitle}}"> 
+                                            <p>{{item.albumTitle}}</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+<div class="latest section">
+
+                  
+
+ <div class="left-side-slid-area common-top-spacing" data-ng-controller="latestarchieve as archieve" data-ng-init="archieve.init('/content/week/home/_jcr_content/col_leftparaside1/latest.results.json')">
+	<div class="section-heading">
+		
+		 <a><h3>MAGAZINE ARCHIVE</h3></a>
+	</div>
+
+
+
+	<div class="data-filter-form-area">
+		 <script type="text/javascript" src="https://js.theweek.in/etc/designs/theweek/clientlibs/js/latest.js"></script>
+<!-- 		<input type="hidden" name="weekPath" class="weekParentPath"
+			value="/content/dam/week/magazine/coverimages/theweek" /> <input type="hidden"
+			name="walletPath" class="walletParentPath"
+			value="/content/dam/week/magazine/coverimages/thewallet" /> <input type="hidden"
+			name="helthPath" class="healthParentPath"
+			value="/content/dam/week/magazine/coverimages/health" /> <input type="hidden"
+			name="landingPagePath" class="landingPagePath"
+			value="" /> <input
+			type="hidden" name="noImageAvailable" class="noImageAvailable"
+			value="/content/dam/week/magazine/coverimages/nocoverimage/No results.jpg" /> <input type="hidden"
+			name="windowTarget" class="windowTarget"
+			value="" /> <input type="hidden"
+			name="weekSearchPath" class="weekSearchPath"
+			value="/content/week/magazine/theweek" /> <input type="hidden"
+			name="healthSearchPath" class="healthSearchPath"
+			value="/content/week/magazine/health" /> <input type="hidden"
+			name="walletSearchPath" class="walletSearchPath"
+			value="/content/week/magazine/thewallet" /> -->
+		<form action="#">
+			<div class="month-select select-drop select-month">
+				<a class="btn btn-select btn-select-light"> <input type="hidden" class="btn-select-input sel-month-val" id="hidden-field" name="hidden-input" value="" data-ng-model="monthInput"/> <span class="btn-select-value">Month</span>
+					<span class='btn-select-arrow glyphicon glyphicon-chevron-down'></span>
+					<ul>
+
+					</ul>
+				</a>
+			</div>
+
+			<div class="month-select select-drop select-year">
+				<a class="btn btn-select btn-select-light"> <input type="hidden" class="btn-select-input sel-year-val" id="year-id" name="year-input" value="" data-ng-model="yearInput"/> <span class="btn-select-value">Year</span>
+					<span class='btn-select-arrow glyphicon glyphicon-chevron-down'></span>
+					<ul>
+						<li>2021</li>
+					
+						<li>2020</li>
+					
+						<li>2019</li>
+					
+						<li>2018</li>
+					
+						<li>2017</li>
+					
+						<li>2016</li>
+					
+						<li>2015</li>
+					
+						<li>2014</li>
+					
+						<li>2013</li>
+					
+						<li>2012</li>
+					
+						<li>2011</li>
+					</ul>
+				</a>
+			</div>
+
+			<button type="button" class="go-btn archives-go-btn" value="send" data-ng-click="archieve.getlatestArchieve()">Go</button>
+			<button type="button" class="reset-btn archives-reset-btn" value="reset">reset</button>
+		</form>
+		<label class="error_msg_disp"></label>
+	</div>
+
+	<div class="inner-content-section">
+		<div class="leftarea-poster-slider">
+		
+			<div id="archives-slid" class="owl-carousel owl-theme">
+				<div class="item">
+						<a href="/theweek.2021.06.20.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-20-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-20-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="June 20 ,  2021" title="June 20 ,  2021">
+						<div class="archive-magazine-date">June  20 ,  2021</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/theweek.2021.06.13.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-13-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-13-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="June 13 ,  2021" title="June 13 ,  2021">
+						<div class="archive-magazine-date">June  13 ,  2021</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/theweek.2021.06.06.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-06-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/theweek/2021/june/week-june-06-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="June 06 ,  2021" title="June 06 ,  2021">
+						<div class="archive-magazine-date">June  06 ,  2021</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/theweek.2021.05.30.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/theweek/2021/may/week-may-30-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/theweek/2021/may/week-may-30-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="May 30 ,  2021" title="May 30 ,  2021">
+						<div class="archive-magazine-date">May  30 ,  2021</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/thewallet.2019.06.16.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/thewallet/2019/june/wallet-june-16-2019.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/thewallet/2019/june/wallet-june-16-2019.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="June 16 ,  2019" title="June 16 ,  2019">
+						<div class="archive-magazine-date">June  16 ,  2019</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/thewallet.2019.04.14.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/thewallet/2019/april/wallet-april-14-2019.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/thewallet/2019/april/wallet-april-14-2019.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="April 14 ,  2019" title="April 14 ,  2019">
+						<div class="archive-magazine-date">April  14 ,  2019</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/health.2021.05.02.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/health/2021/may/Health-may-02-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/health/2021/may/Health-may-02-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="May 02 ,  2021" title="May 02 ,  2021">
+						<div class="archive-magazine-date">May  02 ,  2021</div>
+					</a>
+				</div>
+			
+				<div class="item">
+						<a href="/health.2021.04.04.html">
+						<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/magazine/coverimages/health/2021/april/health-april-04-2021.jpg.image.102.144.jpg" data-src-mobile="/content/dam/week/magazine/coverimages/health/2021/april/health-april-04-2021.jpg.image.102.144.jpg" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="April 04 ,  2021" title="April 04 ,  2021">
+						<div class="archive-magazine-date">April  04 ,  2021</div>
+					</a>
+				</div>
+			</div>
+		
+		
+		</div>
+	</div>
+</div>
+<script>
+    weekapp.controller('latestarchieve', ["$scope", "$location", "$element", "$window", "$document", "$http", "$httpParamSerializer", "$compile", function ($scope, $location, $element, $window, $document, $http, $httpParamSerializer, $compile) {
+		//var $ = this;
+        this.ajaxPath = '';
+
+        var replaceUrl = function (year, month, url) {
+            var url = url.replace("json", year + '.' + month + '.day.json');
+            return url;
+        }
+
+        this.init = function (ajaxPath) {
+            //$.landingPage = landingPagePathMagazineArchivels;
+            $.ajaxPath = ajaxPath;
+        }
+        
+	    this.getlatestArchieve = function () {           
+            var selectedYear = document.getElementById('year-id').value;
+            var selectedMonth = document.getElementById('hidden-field').value;
+            var monthVal = parseInt(monthNames.indexOf(selectedMonth));
+            var url = replaceUrl(selectedYear, monthVal, $.ajaxPath);
+            if((selectedMonth=="Select")||(selectedMonth=="")){
+				$('.error_msg_disp').css('display','block').text('Please select month');
+	        }else if((selectedYear=="Year")||(selectedYear=="")){
+					$('.error_msg_disp').css('display','block').text('Please select year');
+	        }else{
+	            $http({ 
+	                method: 'GET',
+	                url: url
+	            }).then(function (response) {
+	                try {
+	                    var content = '';
+	                    if (response.data.imageList) {
+	                    	var JSONImageList = JSON.parse(response.data.imageList);
+	                    	console.log(JSONImageList[0].imageAvailability);
+							if(JSONImageList[0].imageAvailability === '-1'){
+								content += '<div class="item"> <a><img src="' + JSONImageList[0].imageReference +'" class="img-responsive" alt="' + JSONImageList[0].imageTitle + '"> </a> </div>';
+								document.getElementById('archives-slid').innerHTML = content
+							}else{
+		                        $('#archives-slid').trigger('destroy.owl.carousel').removeClass('owl-loaded owl-drag');
+		                        $('#archives-slid').find('.owl-stage-outer').children().unwrap();
+		
+		                        angular.forEach(JSONImageList, function (item, index) {
+		                            content += '<div class="item">';
+		                            if (item.imageReference) {
+		                                content += '<a href="' + item.magazineType + '"><img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="' + item.imageReference + '.image.102.144.jpg" data-src-mobile= "' + item.imageReference +'.image.102.144.jpg" src="/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="' + item.imageTitle + '"><div class="archive-magazine-date">' + item.issueDate + '</div></a>';
+		                            }
+		                            content += '</div>';
+		                        });
+		                        if(document.getElementById('archives-slid').innerHTML = content){
+		                        	$compile(document.getElementById('archives-slid'))($scope);
+		                            var prop = {
+		                              loop:false,
+		                              margin:0,
+		                              lazyLoad:true,
+		                              nav:true,
+		                              responsive:{
+		                                0:{
+		                                  items:2,
+		                                  margin:0
+		                                },
+		                                660:{
+		                                  items:3,
+		                                  margin:0
+		                                },
+		                                830:{
+		                                  items:4
+		                                },
+		                                1100:{
+		                                  items:5
+		                                }
+		                              }
+		                            }
+		                            $('#archives-slid.owl-carousel').owlCarousel(prop);
+		                        }
+	                    	}
+	                    }
+	                } catch (err) {
+	                    console.log('archive listing  response not getting')
+	
+	                }
+	    
+	            });
+	        }
+	    }
+
+	}]);
+</script>
+</div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                            <style> .left-side-slid-area img {width:102px !important;} .owl-carousel .owl-item img {width:100%;} </style>
+
+		             
+		        </div>
+	   
+ </div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          —<script type="text/javascript">
+
+$(document).ready(function() {
+
+var step = 2;
+
+$('.cube').addClass('step1');
+
+$('.step1-img1').addClass('slideRight').css('display','block');
+
+$('.step1-img2').addClass('slideLeft').css('display','block');
+
+setInterval(function(){
+
+if (step == 5) {
+
+step = 1;
+
+$('.cube').removeClass('step4');
+
+}
+
+if (step == 1) {
+
+setTimeout(function() {
+
+$('.step1-img1').addClass('slideRight').css('display','block');
+
+$('.step1-img2').addClass('slideLeft').css('display','block');
+
+}, 1000);
+
+setTimeout(function() {
+
+$('.step2-img1').removeClass('slideDown').css('display','none');
+
+$('.step2-img2').removeClass('fadeIn').css('display','none');
+
+}, 2000);
+
+}
+
+if (step == 2) {
+
+setTimeout(function() {
+
+$('.step2-img2').addClass('fadeIn').css('display','block');
+
+}, 500);
+
+setTimeout(function() {
+
+$('.step2-img1').addClass('slideDown').css('display','block');
+
+}, 2000);
+
+$('.step3-img1').removeClass('fadeIn').css('display','none');
+
+$('.step3-img2').removeClass('slideUp').css('display','none');
+
+}
+
+if (step == 3) {
+
+setTimeout(function() {
+
+$('.step3-img1').addClass('fadeIn').css('display','block');
+
+}, 500);
+
+setTimeout(function() {
+
+$('.step3-img2').addClass('slideUp').css('display','block');
+
+}, 2000);
+
+$('.step4-img1').removeClass('slideLeft').css('display','none');
+
+$('.step4-img2').removeClass('fadeIn').css('display','none');
+
+$('.step4-img3').removeClass('slideRight').css('display','none');
+
+$('.step4-img4').removeClass('slideUp').css('display','none');
+
+}
+
+if (step == 4) {
+
+setTimeout(function() {
+
+$('.step4-img1').addClass('slideLeft').css('display','block');
+
+$('.step4-img2').addClass('fadeIn').css('display','block');
+
+$('.step4-img3').addClass('slideRight').css('display','block');
+
+}, 500);
+
+setTimeout(function() {
+
+$('.step4-img4').addClass('slideUp').css('display','block');
+
+}, 2000);
+
+$('.step1-img1').removeClass('slideRight').css('display','none');
+
+$('.step1-img2').removeClass('slideLeft').css('display','none');
+
+}
+
+$('.cube').addClass('step'+step).removeClass('step'+(step-1));
+
+step++;
+
+}, 4000);
+
+});
+
+</script>
+<script>
+function myFunction() {
+document.getElementById("box").style.display = "none";
+}
+</script>
+<style>
+/** global **/
+
+
+.cube {
+position: relative;
+margin: 0 auto;
+-webkit-transform-style: preserve-3d;
+-moz-transform-style: preserve-3d;
+-o-transform-style: preserve-3d;
+-ms-transform-style: preserve-3d;
+transform-style: preserve-3d;
+transition: transform 1s;
+-webkit-transition: -webkit-transform 1s;
+-moz-transition: -moz-transform 1s;
+-o-transition: -o-transform 1s;
+-ms-transition: -ms-transform 1s;
+}
+
+.cube div {
+position: absolute;
+text-align: center;
+overflow: hidden;
+}
+
+.cube img {
+display: none;
+margin-left: auto;
+margin-right: auto;
+}
+
+.cube a {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+}
+
+
+
+/** example 3 **/
+.week .cube {
+height: 150px;
+width: 150px;
+}
+
+.week .cube.step1 {
+transform: rotateY(0deg);
+-moz-transform: rotateY(0deg);
+-webkit-transform: rotateY(0deg);
+-ms-transform: rotateY(0deg);
+-o-transform: rotateY(0deg);
+}
+
+.week .cube.step2 {
+transform: rotateX(90deg);
+-moz-transform: rotateX(90deg);
+-webkit-transform: rotateX(90deg);
+-ms-transform: rotateX(90deg);
+-o-transform: rotateX(90deg);
+}
+
+.week .cube.step3 {
+transform: rotateY(90deg);
+-moz-transform: rotateY(90deg);
+-webkit-transform: rotateY(90deg);
+-ms-transform: rotateY(90deg);
+-o-transform: rotateY(90deg);
+}
+
+.week .cube.step4 {
+transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+-webkit-transform: rotateY(180deg);
+-ms-transform: rotateY(180deg);
+-o-transform: rotateY(180deg);
+}
+
+.week .cube div {
+height: 150px;
+width: 150px;
+}
+
+.week .cube-front {
+transform: rotateY(0deg) translateZ(75px);
+-moz-transform: rotateY(0deg) translateZ(75px);
+-webkit-transform: rotateY(0deg) translateZ(75px);
+-o-transform: rotateY(0deg) translateZ(75px);
+-ms-transform: rotateY(0deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+
+.week .cube-back {
+transform: rotateY(180deg) translateZ(75px);
+-moz-transform: rotateY(180deg) translateZ(75px);
+-webkit-transform: rotateY(180deg) translateZ(75px);
+-o-transform: rotateY(180deg) translateZ(75px);
+-ms-transform: rotateY(180deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+
+.week .cube-right {
+transform: rotateY(90deg) translateZ(75px);
+-moz-transform: rotateY(90deg) translateZ(75px);
+-webkit-transform: rotateY(90deg) translateZ(75px);
+-o-transform: rotateY(90deg) translateZ(75px);
+-ms-transform: rotateY(90deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+
+.week .cube-left {
+transform: rotateY(-90deg) translateZ(75px);
+-moz-transform: rotateY(-90deg) translateZ(75px);
+-webkit-transform: rotateY(-90deg) translateZ(75px);
+-o-transform: rotateY(-90deg) translateZ(75px);
+-ms-transform: rotateY(-90deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+
+.week .cube-top {
+transform: rotateX(90deg) translateZ(75px);
+-moz-transform: rotateX(90deg) translateZ(75px);
+-webkit-transform: rotateX(90deg) translateZ(75px);
+-o-transform: rotateX(90deg) translateZ(75px);
+-ms-transform: rotateX(90deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+
+.week .cube-bottom {
+transform: rotateX(-90deg) translateZ(75px);
+-moz-transform: rotateX(-90deg) translateZ(75px);
+-webkit-transform: rotateX(-90deg) translateZ(75px);
+-o-transform: rotateX(-90deg) translateZ(75px);
+-ms-transform: rotateX(-90deg) translateZ(75px);
+background-image: linear-gradient(#9e0206, #d30e15);
+}
+.close-btn-box{background-color: #9e0206;border: none;color: #fff;padding: 5px 7px;font-size: 14px;margin: 0 0 5px 0;cursor: pointer;width: 24px;height: 24px;border-radius: 14px; }
+.main-head-covid{font-size: 14px; text-decoration:none; color: #9e0206; text-transform: uppercase; margin: 2% ; padding: 2%; background: #fff; width:96%;}
+.sub-head-covid{font-size: 12px; text-decoration:none; color: #fff; margin: 10px 0 0 0; padding: 0; text-transform: uppercase;}
+.covid-world{font-size: 24px; text-decoration:none; color: #fff; text-transform: uppercase; margin: 15px 0 0 0; padding: 0; }
+.covid-india{font-size: 28px; text-decoration:none; color: #fff; text-transform: uppercase; margin: 5px 0 0 0; padding: 0; line-height: 52px;}
+
+.covid-link{font-size: 12px; text-decoration:none; color: #fcd80a; text-transform: uppercase; margin: 5px 0 0 0; padding: 0;}
+</style>
+	
+
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;" id="box">
+<div class="close-btn-box" onclick="myFunction()"><i class="fa fa-close"></i></div>
+<!-- Example 3 starts here -->
+
+<div class="cube-wrap week">
+
+<div id="cube" class="cube step4">
+
+<div class="cube-front">
+
+
+	
+<a href="https://www.theweek.in/tag.theweek~Novel-coronavirus.html" style="text-decoration: none;" target="_blank">
+<h1 class="main-head-covid">Covid-19</h1>
+<h3 class="covid-world">180,368,337</h3>
+<h2 class="sub-head-covid">Total infections: World</h2>
+</a>
+
+</div>
+
+<div class="cube-back">
+
+<a href="https://www.theweek.in/tag.theweek~Novel-coronavirus.html" style="text-decoration: none;" target="_blank">
+<h1 class="main-head-covid">Covid-19</h1>
+<h3 class="covid-india">3,91,981</h3>
+<h2 class="sub-head-covid">Death toll: India</h2>
+</a>
+
+</div>
+
+<div class="cube-top"> </div>
+
+<div class="cube-bottom">
+
+<a href="https://www.theweek.in/tag.theweek~Novel-coronavirus.html" style="text-decoration: none;" target="_blank">
+
+
+<h1 class="main-head-covid">Covid-19</h1>
+<h3 class="covid-india">3,907,556</h3>
+<h2 class="sub-head-covid">Death toll: World</h2>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="cube-top"> </div>
+
+
+<div class="cube-left">
+
+<a href="https://www.theweek.in/tag.theweek~Novel-coronavirus.html" style="text-decoration: none;" target="_blank">
+
+<h1 class="main-head-covid">Covid-19</h1>
+<h3 class="covid-india">3,00,82,778</h3>
+<h2 class="sub-head-covid">Total infections: india </h2>
+<h4 class="covid-link">VIEW UPDATES</h4>
+</a>
+
+
+
+</div>
+
+
+</div>
+
+</div>
+</div>
+
+
+
+
+
+<!-- Example 3 ends here -->
+		             
+		        </div>
+	   
+ </div>
+<div class="specialpromo section">
+   
+    
+      
+	    
+	            <div class="video-iframe-new">
+	                
+		                          <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": "The Week",
+  "url": "http://www.theweek.in",
+  "logo": "https://www.theweek.in/content/dam/week/logo/The-Week-Logo-Big.png",
+  "alternateName": "The WeeK Magazine",
+  "sameAs": [
+    "https://www.facebook.com/TheWeekMag",
+    "https://twitter.com/TheWeekLive",
+    "https://www.youtube.com/channel/UCPE9uEcDKRaGq7G9yJVg91w"
+  ]
+}
+</script>
+		             
+		        </div>
+	   
+ </div>
+
+</div>
+								</div>
+							</div>
+							<div class="right-area">
+								<div class="theweek-component">
+									<div><div class="latest section">
+
+
+	<div class="right-side-content-area">
+		<div class="section-heading">
+			 <a href="http://subscribe.manoramaonline.com/subscription/subscriptions/manorama-product-details-magazines.subscription.TW.html" target="_blank" title="LATEST"><h3>LATEST</h3></a>
+			
+		</div>
+	
+		<div class="right-side-post-content">
+			<div class="small-content-post">
+				<div class="small-content-post-img">
+					<a href="https://subscribe.manoramaonline.com/content/subscription/subscriptionorderdetails.subscription.TW.html">
+					<img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="/content/dam/week/Ad/Highlight-ads/cover-home-june27.jpg.image.130.183.jpg" data-src-mobile="/content/dam/week/Ad/Highlight-ads/cover-home-june27.jpg.image.130.183.jpg" class="b-lazy img-responsive img-width-100" src="https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg" alt="The Week">
+					</a>
+				</div>
+				<div class="small-post-content">
+					<h5>RISE OF THE MACHINES</h5>
+					
+					<p>Issue dated June 27, 2021</p>
+					
+					<a href="https://subscribe.manoramaonline.com/content/subscription/subscriptionorderdetails.subscription.TW.html" class="subscribe-btn" target="_blank">SUBSCRIBE</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    
+                  
+
+ 
+<script>
+    weekapp.controller('latestarchieve', ["$scope", "$location", "$element", "$window", "$document", "$http", "$httpParamSerializer", "$compile", function ($scope, $location, $element, $window, $document, $http, $httpParamSerializer, $compile) {
+		//var $ = this;
+        this.ajaxPath = '';
+
+        var replaceUrl = function (year, month, url) {
+            var url = url.replace("json", year + '.' + month + '.day.json');
+            return url;
+        }
+
+        this.init = function (ajaxPath) {
+            //$.landingPage = landingPagePathMagazineArchivels;
+            $.ajaxPath = ajaxPath;
+        }
+        
+	    this.getlatestArchieve = function () {           
+            var selectedYear = document.getElementById('year-id').value;
+            var selectedMonth = document.getElementById('hidden-field').value;
+            var monthVal = parseInt(monthNames.indexOf(selectedMonth));
+            var url = replaceUrl(selectedYear, monthVal, $.ajaxPath);
+            if((selectedMonth=="Select")||(selectedMonth=="")){
+				$('.error_msg_disp').css('display','block').text('Please select month');
+	        }else if((selectedYear=="Year")||(selectedYear=="")){
+					$('.error_msg_disp').css('display','block').text('Please select year');
+	        }else{
+	            $http({ 
+	                method: 'GET',
+	                url: url
+	            }).then(function (response) {
+	                try {
+	                    var content = '';
+	                    if (response.data.imageList) {
+	                    	var JSONImageList = JSON.parse(response.data.imageList);
+	                    	console.log(JSONImageList[0].imageAvailability);
+							if(JSONImageList[0].imageAvailability === '-1'){
+								content += '<div class="item"> <a><img src="' + JSONImageList[0].imageReference +'" class="img-responsive" alt="' + JSONImageList[0].imageTitle + '"> </a> </div>';
+								document.getElementById('archives-slid').innerHTML = content
+							}else{
+		                        $('#archives-slid').trigger('destroy.owl.carousel').removeClass('owl-loaded owl-drag');
+		                        $('#archives-slid').find('.owl-stage-outer').children().unwrap();
+		
+		                        angular.forEach(JSONImageList, function (item, index) {
+		                            content += '<div class="item">';
+		                            if (item.imageReference) {
+		                                content += '<a href="' + item.magazineType + '"><img data-ng-image data-original="/etc/designs/theweek/clientlibs/images/week-default.jpg" data-src-web="' + item.imageReference + '.image.102.144.jpg" data-src-mobile= "' + item.imageReference +'.image.102.144.jpg" src="/etc/designs/theweek/clientlibs/images/week-default.jpg" class="img-responsive img-width-100" alt="' + item.imageTitle + '"><div class="archive-magazine-date">' + item.issueDate + '</div></a>';
+		                            }
+		                            content += '</div>';
+		                        });
+		                        if(document.getElementById('archives-slid').innerHTML = content){
+		                        	$compile(document.getElementById('archives-slid'))($scope);
+		                            var prop = {
+		                              loop:false,
+		                              margin:0,
+		                              lazyLoad:true,
+		                              nav:true,
+		                              responsive:{
+		                                0:{
+		                                  items:2,
+		                                  margin:0
+		                                },
+		                                660:{
+		                                  items:3,
+		                                  margin:0
+		                                },
+		                                830:{
+		                                  items:4
+		                                },
+		                                1100:{
+		                                  items:5
+		                                }
+		                              }
+		                            }
+		                            $('#archives-slid.owl-carousel').owlCarousel(prop);
+		                        }
+	                    	}
+	                    }
+	                } catch (err) {
+	                    console.log('archive listing  response not getting')
+	
+	                }
+	    
+	            });
+	        }
+	    }
+
+	}]);
+</script>
+</div>
+<div class="advertisement section">
+
+
+<div id="advst">
+	
+	
+		
+		
+			
+				<!-- GPT AdSlot 7 for Ad unit 'the_week_section_rectangle_top_300x250' ### Size: [[1,1],[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[6]]) -->
+<div id='div-gpt-ad-1224744-7'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1224744-7'); });
+  </script>
+</div>
+<!-- End AdSlot 7 -->
+			
+			
+		
+	
+</div>
+
+</div>
+
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+	
+			<section class="full-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="divide-two-section common-top-spacing">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+							<div class="forecast-right-area common-top-spacing">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+	
+			<div class="theweek-component">
+				<div>
+</div>
+			</div>
+			<section class="full-wrapper common-top-spacing">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="left-area">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+							<div class="right-area">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<section class="full-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="divide-two-section common-top-spacing">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+							<div class="forecast-right-area common-top-spacing">
+								<div class="theweek-component">
+									<div>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		
+
+
+	<footer id="footerElement" class="week-footer">
+<div class="container">
+	<div class="row">
+		<div class="col-lg-5 col-lg-push-7 col-md-6 col-md-push-6 col-sm-6 col-sm-push-6">
+			<div class="right-area">
+				<div class="app-subscrip-area">
+					<div class="app-download-links">
+						<div class="download-content">
+							
+							
+						</div>
+						<div class="app-link">
+							<ul>
+								
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-7 col-lg-pull-5 col-md-6 col-md-pull-6 col-sm-6 col-sm-pull-6">
+            <div class="left-area">
+				<div class="social-share">
+					<ul>
+						<li>
+							<a href="https://www.facebook.com/TheWeekMag" target="_self" title="Facebook">
+								<div class="share-icon facebook"></div>
+							</a>
+						</li>
+					
+						<li>
+							<a href="https://twitter.com/TheWeekLive" target="_self" title="Twitter">
+								<div class="share-icon twitter"></div>
+							</a>
+						</li>
+					
+						<li>
+							<a href="https://www.youtube.com/channel/_UCPE9uEcDKRaGq7G9yJVg91whttps_//www.facebook.com/TheWeekMag" target="_self" title="Youtube">
+								<div class="share-icon youtube"></div>
+							</a>
+						</li>
+					
+						<li>
+							<a href="https://www.theweek.in/rss.html" target="_self" title="RSS">
+								<div class="share-icon rss"></div>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="rules">
+                	<ul>
+                		<li>
+                			<a href="https://www.theweek.in/terms-and-conditions.html" title="Terms &amp; Conditions" target="_blank">Terms &amp; Conditions</a>
+                		</li>
+                		<li>
+                			<a href="https://www.theweek.in/privacy-an-settlement.html" title="Privacy &amp; Statement" target="_blank">Privacy &amp; Statement</a>
+                		</li>
+                	</ul>
+                </div>
+                <div class="copyright-text">
+                	<p>Copyright © 2021 All rights reserved</p>
+                </div>
+                <div class="digital-certified"></div>
+            </div>
+        </div>
+	</div>
+</div></footer>
+
+
+	</div>
+</body>
+
+ 
+</html>

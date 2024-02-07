@@ -1,0 +1,4915 @@
+
+<!DOCTYPE html>
+
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US">
+
+<head>
+
+  <title>Dossier Político.com</title>
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Favicon -->
+
+    <link rel='stylesheet' id='google-fonts-2-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web&amp;ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='style-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/stylecd70.css?ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='main-stylesheet-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/main-stylesheetcd70.css' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='shortcodes-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/shortcodecd70.css?ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='lightbox-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/lightboxcd70.css?ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='style-responsive-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/responsive/desktopcd70.css?ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='demo-settings-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/demo-settingscd70.css?ver=3.8.3' type='text/css' media='all' />
+
+    <!--[if lt IE 9]>
+
+    <link rel='stylesheet' id='ie-only-styles-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/ie-transparecy.css?ver=3.8.3' type='text/css' media='all' />
+
+    <![endif]-->
+
+    <link rel='stylesheet' id='fonts-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/fontscd702.css?ver=3.8.3' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dynamic-css-css'  href='https://dossierpolitico.com/wp-content/themes/legatus-theme/css/dynamic-csscd70.css?ver=3.8.3' type='text/css' media='all' />
+
+	<link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
+
+
+
+	<script type='text/javascript' src='https://dossierpolitico.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+
+	<script type='text/javascript' src='https://dossierpolitico.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+
+	<script type='text/javascript' src='https://dossierpolitico.com/wp-includes/js/comment-reply.min.js?ver=3.8.3'></script>
+
+    <script>
+
+    function NewWindow1(mypage1, myname1, w, h, scroll) {
+
+      var winl = (screen.width - w) / 2;
+
+      var wint = (screen.height - h) / 2;
+
+      winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll
+
+      win = window.open(mypage1, myname1, winprops)
+
+      if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+
+    }
+
+  </script>
+
+  <script data-ad-client="ca-pub-9962759688843877" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  	<style type="text/css">
+
+
+
+	#dropElem {
+
+
+
+		display: none;
+
+
+
+		position: absolute;
+
+
+
+		z-index: 99999;
+
+
+
+		top: 0;
+
+
+
+		border-radius: 10px 10px 10px 10px;
+
+
+
+		box-shadow: 0 0 25px 5px #999;
+
+
+
+		padding: 20px;
+
+
+
+		background: #fff;
+
+
+
+	}
+
+
+
+	#shadowElem {
+
+
+
+		position: absolute;
+
+
+
+		top: 0;
+
+
+
+		left: 0;
+
+
+
+		width: 50%;
+
+
+
+		height: 50%;
+
+
+
+	}
+
+
+
+	#dropContent {
+
+
+
+		position: relative;
+
+
+
+	}
+
+
+
+	#dropContent iframe {
+
+
+
+		width: 800px;
+
+
+
+		height: 600px;
+
+
+
+	}
+
+
+
+	#dropClose {
+
+
+
+		position: absolute;
+
+
+
+		z-index: 99999;
+
+
+
+		cursor: pointer;
+
+
+
+		top: -32px;
+
+
+
+		right: -30px;
+
+
+
+		padding: 10px;
+
+
+
+		background-color: #00b7cd;
+
+
+
+		border-radius: 6px 6px 6px 6px;
+
+
+
+		color: #fff;
+
+
+
+	}
+
+
+
+	@media only screen 
+
+
+
+	and (min-device-width: 868px) 
+
+
+
+	and (max-device-height: 1024px) {
+
+
+
+		#dropContent iframe {
+
+
+
+			width: 550px;
+
+
+
+			height: 300px;
+
+
+
+		}
+
+
+
+	}
+
+
+
+	@media only screen 
+
+
+
+	and (min-device-width : 820px) 
+
+
+
+	and (max-device-width : 768px) {
+
+
+
+		#dropContent iframe {
+
+
+
+			width: 200px;
+
+
+
+			height: 150px;
+
+
+
+		}
+
+
+
+	}
+
+
+
+	</style>
+
+
+
+	<script>
+
+
+
+	var shadow = jQuery('<div id="shadowElem"></div>');
+
+
+
+    var speed = 500;
+
+
+
+    jQuery(document).ready(function() {
+
+
+
+        jQuery('body').prepend(shadow);
+
+
+
+    });
+
+
+
+    jQuery(window).load( function() {
+
+
+
+        screenHeight = jQuery(window).height();
+
+
+
+        screenWidth = jQuery(window).width();
+
+
+
+        elemWidth = jQuery('#dropElem').outerWidth(true);
+
+
+
+        elemHeight = jQuery('#dropElem').outerHeight(true)
+
+
+
+        leftPosition = (screenWidth / 2) - (elemWidth / 2);
+
+
+
+        topPosition = (screenHeight / 2) - (elemHeight / 2);
+
+
+
+        jQuery('#dropElem').css({
+
+
+
+            'left' : leftPosition + 'px',
+
+
+
+            'top' : -elemHeight + 'px'
+
+
+
+        });
+
+
+
+        jQuery('#dropElem').show().animate({
+
+
+
+            'top' : topPosition
+
+
+
+        }, speed);
+
+
+
+                     
+
+
+
+        shadow.animate({
+
+
+
+            'opacity' : 0.7
+
+
+
+        }, speed);
+
+
+
+        jQuery('#dropClose').click( function() {
+
+
+
+            shadow.animate({
+
+
+
+                'opacity' : 0
+
+
+
+            }, speed);
+
+
+
+            jQuery('#dropElem').animate({
+
+
+
+                'top' : -elemHeight + 'px'
+
+
+
+            }, speed, function() {
+
+
+
+                shadow.remove();
+
+
+
+                jQuery(this).remove();
+
+
+
+            });        
+
+
+
+        });
+
+
+
+    });
+
+
+
+	</script>
+
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DC23Y83V9C"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+
+  gtag('config', 'G-DC23Y83V9C');
+
+</script>
+
+</head>
+
+<body class="home page page-id-4 page-template page-template-template-homepage-php wpb-js-composer js-comp-ver-3.6.13 vc_responsive" style=" background-position: top center; background-repeat: repeat;" onLoad="goforit()">
+
+    
+
+		<div class="box-wrapper">
+
+    
+
+ 
+
+  <div class="boxed" style="background-color:#FFF;">
+
+      
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    <div class="header" style="background-color:#000; color:#FFF;" >
+
+        <a href="https://www.facebook.com/changanautohmo/" target="_blank"><img src="../../images/bannerenero1 (1).png" width="100%" border="0" alt="GEMSO PROFESIONAL"/></a>
+
+        
+
+      <div class="header-middle" style="padding-top:20px; padding-bottom:20px;">
+
+        <div class="wrapper" >
+
+          <div class="logo-image" style="width:100%;"> <a href="index.php"> <img src="dossiertop2.jpg" width="100%" /> </a> </div>
+
+          <div class="clear-float"></div>
+
+        </div>
+
+      </div>
+
+      <div class="header-menu thisisfixed">
+
+        <div class="wrapper">
+
+          <ul class="menu main-menu" >
+
+            <li id="menu-item-7" style="background:#a21d1d; color:#a21d1d; " class="menu-item menu-item-type-post_type menu-item-object-page"> <a href="index.php">Inicio</a> </li>
+
+            <li id="menu-item-15" style="background:#a21d1d; color:#a21d1d; " class="menu-item menu-item-type-taxonomy menu-item-object-category "> <a href="">Multimedia</a>
+
+              <ul class="sub-menu">
+
+                <li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"> <a href="galeria.php?nombre=Segundo Informe Senador Gandara Camou">Galería</a> </li>
+
+                <li id="menu-item-497" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"> <a href="">Videos</a> </li>
+
+                <li id="menu-item-501" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag"> <a href="radios.php">Radio</a> </li>
+
+              </ul>
+
+            </li>
+
+            <li id="menu-item-19" style="background:#a21d1d; color:#a21d1d; " class="menu-item menu-item-type-taxonomy menu-item-object-category"> <a href="directorio.php">Directorio</a> </li>
+
+            <li id="menu-item-16" style="background:#a21d1d; color:#a21d1d; " class="menu-item menu-item-type-taxonomy menu-item-object-category"> <a href="cartas.php">Cartas al Director</a> </li>
+
+            <li id="menu-item-18" style="background:#a21d1d; color:#a21d1d; " class="menu-item menu-item-type-taxonomy menu-item-object-category"> <a href="contacto.php">Contacto</a> </li>
+
+            <li id="menu-item-18 " class="menu-item menu-item-type-taxonomy menu-item-object-category">
+
+              <div style="margin-top: 6px; margin-left: 50px;">
+
+                <script Language="JavaScript">
+
+									function Valida(theForm){
+
+							  			if (theForm.criterio.value == ""){
+
+							    			alert("Por favor especifique la palabra a buscar.");
+
+							    			theForm.criterio.focus();
+
+							    			return (false);
+
+							  			}
+
+							  			return (true);
+
+									}
+
+								</script>
+
+                <form method="get" action="busqueda.php" name="searchform" id="Form1" OnSubmit="return Valida(this);">
+
+                  <input type="text" style="display: block; background: #fff;border: 1px solid #e2e2e2;box-shadow: inset 0px 2px 10px rgba(0,0,0,0.05); border-radius: 2px; position: relative; -moz-border-radius: 2px; padding: 5px; color: #232323;font-size: 12px;" value="" placeholder="Búsqueda.." name="criterio" id="criterio"/>
+
+                  <input type="submit" style="position: absolute; top: 0px; right: 180px; z-index: 2;width: 12px; height: 12px;padding-top: 34px; border: 0px; background-color: transparent; background-image: url(icon-search.png); background-repeat: no-repeat;background-position: center; background-size: 12px 12px;color: transparent;cursor: pointer;" class="search-button" value="&nbsp;" />
+
+                </form>
+
+              </div>
+
+            </li>
+
+          </ul>
+
+          <div class="right menu-search"> <img src="https://dossierpolitico.com/director.jpg" style="float:right"> </div>
+
+          <div class="clear-float"></div>
+
+        </div>
+
+      </div>
+
+      <div class="header-undermenu" style="background-color:#FFF; color:#000;">
+
+        <div class="wrapper">
+
+          <ul class="secondary-menu" >
+
+            <li id="menu-item-473" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-473"> <a href="https://dossierpolitico.com/seccion.php?categoria=1" style="color:#000;"><i>Sonora</i></a> </li>
+
+            <li id="menu-item-474" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-474"> <a href="https://dossierpolitico.com/seccion.php?categoria=2" style="color:#000;"><i>Nacional</i></a> </li>
+
+            <li id="menu-item-475" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-475"> <a href="https://dossierpolitico.com/seccion.php?categoria=3" style="color:#000;"><i>Internacional</i></a> </li>
+
+            <li id="menu-item-476" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-476"> <a href="https://dossierpolitico.com/seccion.php?categoria=4" style="color:#000;"><i>Seguridad</i></a> </li>
+
+            <li id="menu-item-477" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-477"> <a href="https://dossierpolitico.com/seccion.php?categoria=50" style="color:#000;"><i>Migración</i></a> </li>
+
+            <li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-478"> <a href="https://dossierpolitico.com/seccion.php?categoria=5" style="color:#000;"><i>Cultura</i></a> </li>
+
+            <li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-478"> <a href="https://dossierpolitico.com/seccion.php?categoria=301" style="color:#000;"><i>Economía</i></a> </li>
+
+          </ul>
+
+          <div class="right menu-search" style="margin-top:6px;">
+
+            <script>
+
+                                var dayarray=new Array("Domingo","Lunes","Martes","Miercoles","Jueves","Viernes","Sabado")
+
+                                var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+
+                                function getthedate(){
+
+                                    var mydate=new Date()
+
+                                    var year=mydate.getYear()
+
+                                    if (year < 1000)
+
+                                        year+=1900
+
+                                        var day=mydate.getDay()
+
+                                        var month=mydate.getMonth()
+
+                                        var daym=mydate.getDate()
+
+                                    if (daym<10)
+
+                                        daym="0"+daym
+
+                                        var hours=mydate.getHours()
+
+                                        var minutes=mydate.getMinutes()
+
+                                        var seconds=mydate.getSeconds()
+
+                                        var dn="AM"
+
+                                    if (hours>=12)
+
+                                        dn="PM"
+
+                                    if (hours>12){
+
+                                        hours=hours-12
+
+                                    }
+
+                                    if (hours==0)
+
+                                        hours=12
+
+                                    if (minutes<=9)
+
+                                        minutes="0"+minutes
+
+                                    if (seconds<=9)
+
+                                        seconds="0"+seconds
+
+                                        //change font size here
+
+                                        var cdate=" "+dayarray[day]+" "+daym+" de "+montharray[month]+" de "+year+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=fechas1>"+hours+":"+minutes+":"+seconds+" "+dn
+
+                    +"</span>"
+
+                                    if (document.all)
+
+                                        document.all.clock.innerHTML=cdate
+
+                                    else if (document.getElementById)
+
+                                        document.getElementById("clock").innerHTML=cdate
+
+                                    else
+
+                                        document.write(cdate)
+
+                                    }
+
+                                    if (!document.all&&!document.getElementById)
+
+                                        getthedate()
+
+                                        function goforit(){
+
+                                    if (document.all||document.getElementById)
+
+                                        setInterval("getthedate()",1000)
+
+                                }
+
+                            </script>
+
+            <span id="clock"></span> </div>
+
+          <div class="clear-float"></div>
+
+        </div>
+
+      </div>
+
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="content">
+
+      <div class="wrapper" style="background-color:#FFFFFF; padding:10px;">
+
+        <div class="main-content-left">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          <div class="slider-container">
+
+                    <style>
+
+              .captionOrange, .captionBlack{color: #fff;font-size: 20px;line-height: 30px;text-align: center;border-radius: 4px;}
+
+              .captionOrange{background: #EB5100;background-color: rgba(235, 81, 0, 0.6);}
+
+              .captionBlack{font-size:16px;background: #000;background-color: rgba(0, 0, 0, 0.4);}
+
+              a.captionOrange, A.captionOrange:active, A.captionOrange:visited{color: #ffffff;text-decoration: none;}
+
+              a.captionOrange:hover{color: #eb5100;text-decoration: underline;background-color: #eeeeee;background-color: rgba(238, 238, 238, 0.7);}
+
+              .bricon{}
+
+              </style>
+
+            <script type="text/javascript" src="js/jssor.js"></script>
+
+                      <script type="text/javascript" src="js/jssor.slider.js"></script>
+
+            <script>
+
+              jQuery(document).ready(function ($) {
+
+                //Reference https://www.jssor.com/development/slider-with-slideshow-jquery.html
+
+                //Reference https://www.jssor.com/development/tool-slideshow-transition-viewer.html
+
+                      var _SlideshowTransitions = [
+
+                  //Fade in R
+
+                  {$Duration: 2200, x: -0.3, $During: { $Left: [0.3, 0.7] }, $Easing: { $Left: $JssorEasing$.$EaseInCubic, $Opacity: $JssorEasing$.$EaseLinear }, $Opacity: 2 }
+
+                  //Fade out L
+
+                  , { $Duration: 2200, x: 0.3, $SlideOut: true, $Easing: { $Left: $JssorEasing$.$EaseInCubic, $Opacity: $JssorEasing$.$EaseLinear }, $Opacity: 2 }
+
+                ];
+
+                var options = {
+
+                  $AutoPlay: true,//[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+
+                  $AutoPlaySteps: 1,//[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
+
+                  $AutoPlayInterval: 6000,//[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+
+                  $PauseOnHover: 1,//[Optional] Whether to pause when mouse over if a slider is auto playing, 0 no pause, 1 pause for desktop, 2 pause for touch device, 3 pause for desktop and touch device, 4 freeze for desktop, 8 freeze for touch device, 12 freeze for desktop and touch device, default value is 1
+
+                  $ArrowKeyNavigation: true,//[Optional] Allows keyboard (arrow key) navigation or not, default value is false
+
+                  $SlideDuration: 800,//[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+
+                  $MinDragOffsetToSlide: 20,//[Optional] Minimum drag offset to trigger slide , default value is 20
+
+                  //$SlideWidth: 300,//[Optional] Width of every slide in pixels, default value is width of 'slides' container
+
+                  //$SlideHeight: 200,//[Optional] Height of every slide in pixels, default value is height of 'slides' container
+
+                  $SlideSpacing: 0,//[Optional] Space between each slide in pixels, default value is 0
+
+                  $DisplayPieces: 1,//[Optional] Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1
+
+                  $ParkingPosition: 0,//[Optional] The offset position to park slide (this options applys only when slideshow disabled), default value is 0.
+
+                  $UISearchMode: 1,//[Optional] The way (0 parellel, 1 recursive, default value is 1) to search UI components (slides container, loading screen, navigator container, arrow navigator container, thumbnail navigator container etc).
+
+                  $PlayOrientation: 1, //[Optional]Orientation to play slide (for auto play, navigation), 1 horizental, 2 vertical, 5 horizental reverse, 6 vertical reverse, default value is 1
+
+                  $DragOrientation: 3,//[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+
+                  $SlideshowOptions: {//[Optional] Options to specify and enable slideshow or not
+
+                    $Class: $JssorSlideshowRunner$,//[Required] Class to create instance of slideshow
+
+                    $Transitions: _SlideshowTransitions,//[Required] An array of slideshow transitions to play slideshow
+
+                    $TransitionsOrder: 1,//[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+
+                    $ShowLink: true//[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+
+                  },
+
+                  $BulletNavigatorOptions: {//[Optional] Options to specify and enable navigator or not
+
+                    $Class: $JssorBulletNavigator$,//[Required] Class to create navigator instance
+
+                    $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                    $Lanes: 1,//[Optional] Specify lanes to arrange items, default value is 1
+
+                    $SpacingX: 10,//[Optional] Horizontal space between each item in pixel, default value is 0
+
+                    $SpacingY: 10 //[Optional] Vertical space between each item in pixel, default value is 0
+
+                  },
+
+                  $ArrowNavigatorOptions: {
+
+                    $Class: $JssorArrowNavigator$,//[Requried] Class to create arrow navigator instance
+
+                    $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                    $AutoCenter: 2//[Optional] Auto center navigator in parent container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+
+                  },
+
+                  $ThumbnailNavigatorOptions: {
+
+                    $Class: $JssorThumbnailNavigator$,//[Required] Class to create thumbnail navigator instance
+
+                    $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                    $ActionMode: 0,//[Optional] 0 None, 1 act by click, 2 act by mouse hover, 3 both, default value is 1
+
+                    $DisableDrag: true //[Optional] Disable drag or not, default value is false
+
+                  }
+
+                };
+
+                var jssor_sliderb = new $JssorSlider$("sliderb_container", options);
+
+                function ScaleSlider() {
+
+                  var parentWidth = jssor_sliderb.$Elmt.parentNode.clientWidth;
+
+                  if (parentWidth)
+
+                  jssor_sliderb.$ScaleWidth(Math.min(parentWidth, 680));
+
+                  else
+
+                    window.setTimeout(ScaleSlider, 30);
+
+                }
+
+                ScaleSlider();
+
+                $(window).bind("load", ScaleSlider);
+
+                $(window).bind("resize", ScaleSlider);
+
+                $(window).bind("orientationchange", ScaleSlider);
+
+                  });
+
+            </script>
+
+                      <div id="sliderb_container" style="position: relative; top: 0px; left: 0px; width: 680px;height: 600px; overflow: hidden;">
+
+                        <div u="slides" style="position: absolute; left: 0px; top: 0px; width: 680px; height: 600px; overflow: hidden;">
+
+                            
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/xochitl.EUA.jpg" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/xochitl.EUA.jpg&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293312&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Xóchitl Gálvez pide a EU "no dejar fuera" la democracia mexicana
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  
+                                                  <a href="vernoticias.php?artid=293312&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/amlo.enviada.biden.jpg" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/amlo.enviada.biden.jpg&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293295&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    AMLO se reunirá con enviada de la Casa Blanca a petición de Biden: &#039;no la iba a recibir&#039;
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  El Presidente acusa que la DEA ha filtrado información para dañarlo.
+                                                  <a href="vernoticias.php?artid=293295&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/e08dgny8.png" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/e08dgny8.png&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293291&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Entre cárteles y &#039;vigilantes&#039;; así cruzan los migrantes la frontera ente Sonora y Arizona
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  Ya hasta se tiene conocimientos de los horarios en los que cruzan los migrantes: los primeros grupos pasan a las 05:30 horas, después, a las 10:00 horas y de ahí en adelante, durante el transcurso de la tarde.
+                                                  <a href="vernoticias.php?artid=293291&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/vzxdy5kg.png" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/vzxdy5kg.png&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293280&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Detienen a presunto responsable del asesinato de Carlos López, cirujano estético encontrado sin vida en Sonora
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  La víctima fue privada de la vida por un disparo de arma de fuego
+                                                  <a href="vernoticias.php?artid=293280&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/r3yf02b6.png" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/r3yf02b6.png&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293277&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Grupo México prevé que Buenavista Zinc genere al menos 2,000 empleos
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  El proyecto para generar zinc y cobre en Sonora se retrasó debido en parte a la escasez de lluvia, dice la empresa; calcula que esté terminado a finales de 2024.
+                                                  <a href="vernoticias.php?artid=293277&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/respaldo.reformas.amlo.jpg" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/respaldo.reformas.amlo.jpg&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293263&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Gobernadores de la 4T respaldan reformas de AMLO vs órganos autónomos y el Poder Judicial
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  Los 22 gobernadores de Morena y aliados llamaron al Congreso de la Unión a aprobar las iniciativas de reforma de López Obrador.
+                                                  <a href="vernoticias.php?artid=293263&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/amlo.reformas.jpg" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/amlo.reformas.jpg&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293262&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    López Obrador envía un paquete de reformas constitucionales que son legado y programa electoral
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  El presidente reafirma las políticas que han marcado su mandato y traza la campaña de su sucesora
+                                                  <a href="vernoticias.php?artid=293262&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            <div>
+
+                                <div class="article-big-block">
+
+                    <!-- <img u=image src="img/tormenta.invernala.jpg" width="680" height="450" /> -->
+
+                     <img src="imagenessonora/imagenes.php?src=../img/tormenta.invernala.jpg&w=680&h=450&far=1&bg=000000" class="attachment-kopa-image-size-0 size-kopa-image-size-0"  />    
+
+                                      
+
+                                        <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293254&relacion=&tipo=Principal&categoria=12">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                                                    Sexta tormenta invernal a partir del martes 6 de febrero traería nevadas y lluvias a Sonora
+                                                  </span>
+
+                                              </a>
+
+                      </div>
+
+                                          <div class="article-content">
+
+                                              <p>
+
+                                                  
+                                                  <a href="vernoticias.php?artid=293254&relacion=&tipo=Principal&categoria=12">
+
+                                                      Leer más...
+
+                                                  </a>
+
+                                              </p>
+
+                                          </div>
+
+                                    </div>
+
+                              </div>
+
+                
+                            </div>
+
+            </div>
+
+          </div>
+          
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+
+			
+			
+
+			
+
+			<br>
+
+			<a href="https://www.sonora.gob.mx/" target="_blank"><img src="../../images/-_1200x412.jpg" width="100%" border="0" alt="Gobierno del Estado de Sonora"/></a>
+
+			
+
+			
+
+                    <hr>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    <div style="background-color:#000">
+
+                      <marquee width="100%" height="30px" align="left">
+
+                          <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="4">
+
+                        
+
+                                    <a href="vernoticias.php?artid=293183&relacion=&tipo=Sonora&categoria=1"><font color="#fff">Xóchitl Gálvez y PAN van con reforma a pensiones de AMLO</font></a>  ---  
+
+                                            
+
+                                    <a href="vernoticias.php?artid=293138&relacion=&tipo=Sonora&categoria=1"><font color="#fff">El Cártel de Sinaloa aportó millones de dólares a la campaña de AMLO en 2006, según Anabel Hernández</font></a>  ---  
+
+                                            
+
+                                    <a href="vernoticias.php?artid=293055&relacion=&tipo=Sonora&categoria=1"><font color="#fff">Ratifica Sheinbaum compromiso para proteger el medio ambiente</font></a>  ---  
+
+                                            
+
+                                    <a href="vernoticias.php?artid=293054&relacion=&tipo=Sonora&categoria=1"><font color="#fff">“Llegué al zapatismo cuando había pasado de moda”: Diego Enrique Osorno</font></a>  ---  
+
+                                            
+
+                                    <a href="vernoticias.php?artid=292940&relacion=&tipo=Sonora&categoria=1"><font color="#fff">Se adelantarán pagos de programas del Bienestar por veda electoral</font></a>  ---  
+
+                                    
+                          </font>
+
+                        </marquee>
+
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    <br>
+
+                    <div class="main-content-split">
+
+                      <div class="main-split-left" >
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+
+              
+              
+              <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">SONORA</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                      
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293310&relacion=&tipo=Sonora&categoria=1">
+
+                        <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px;">
+
+                          Autoridades Triquis de Miguel Alemán solicitan conserjes para dos escuelas indígenas
+                                                </span>
+
+                                            </a>
+
+                    </div>
+
+                    <div style="width:100%">
+
+                      
+                                              <img src="imagenessonora/imagenes.php?src=../img/3zfdswfa.png&w=430&h=250&zc=1" width="100%"  />
+
+                                            
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>
+
+                        Un llamado a las autoridades educativas para que destinen personal de limpieza a las dos escuelas primarias de la comunidad indígena Triqui asentada en el poblado Miguel Alemán de la costa de Hermos
+                                              <a href="vernoticias.php?artid=293310&relacion=&tipo=Sonora&categoria=1">
+
+                                                  Leer más...
+
+                                                </a>
+
+                                            </p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293309&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Estacionamientos gratuitos en establecimientos comerciales de Sonora, propone MC en el Congreso</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293306&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Temporada de caza en Sonora: estas son las especies permitidas en México</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293305&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Inicia licenciado en derecho recolección de firmas como aspirante independiente en Hermosillo</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293304&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">En cuatro meses pudieran dictar sentencia a Hilario ’N’, feminicida de Alma Lourdes</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293302&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Guardia Nacional decomisa armas, cargadores y miles de cartuchos en Sonora</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293301&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Viene con todo el frente frío 33 a Sonora, así como la Sexta Tormenta Invernal</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293299&relacion=&tipo=Sonora&categoria=1">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px;">Rescatan en Colima a tres jóvenes originarios de Sonora que iban a ser reclutados con engaños por el crimen organizado</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+
+            </div>
+
+            <div class="main-split-right">
+
+                          <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style=" padding:10px;">
+
+							  
+
+							  <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">SONORA</b>
+
+                </div>
+
+                                
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                               
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/tono.adicciones.jpg&w=250&h=200&zc=1" width="100%" />
+
+                                 
+
+                                
+
+                                
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293311&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Implementará municipio acciones para prevenir y atender consumo de droga en niños y jóvenes</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293279&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Relucen casos de violencia doméstica y familiar en Hermosillo este fin de semana</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293261&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Refrenda Toño Astiazarán trabajo unido con comerciantes</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293230&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Da bienvenida Toño Astiazarán a primera tripulación de mujeres de recolección basura</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293154&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Encabezará Toño Astiazarán Comité de combate a adicciones</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293103&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Transmitirán juegos de México en Serie del Caribe en la Plaza Zaragoza</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                  
+
+                              <h1 style="color:#000;  font-family:'Arial', Helvetica, sans-serif; font-size:18px; font-weight:bold;">
+
+                                  HERMOSILLO
+                                </h1>
+
+                <div class="article-header" >
+
+                                      <a href="vernoticias.php?artid=293051&relacion=&tipo=Municipios&categoria=578" >
+
+                                          <span style="color:#000;  font-family:Arial, Helvetica, sans-serif; font-size:16px;">Cuadruplicó Ayuntamiento de Hermosillo esterilizaciones a mascotas en 2023</span>
+
+                                        </a>
+
+                </div>
+
+                                
+
+                                
+                                
+
+              </div>
+
+            </div>
+
+            <div class="clear-float"></div>
+
+                        
+                <a href="www.sonora.gob.mx" target="_blank">
+
+                  <img src="../images/FORMATOS BANNERS_851X315 RICKETTSIA CASA LIMPIA.jpg" width="100%"  alt="Gobierno del Estado de Sonora"/>
+
+                </a>
+
+                
+          </div>
+
+                    <br>
+
+                    <div class="main-content-split">
+
+                      <div class="main-split-left" >
+
+              <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">NACIONAL</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                    
+
+                                          
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293315&relacion=&tipo=Nacional&categoria=2">
+
+                        <span style="color:#000;font-family:'Playfair Display',serif;font-size:30px;">
+
+                        Acción Nacional votará a favor de todo lo que sea bueno para México: PAN
+                                                </span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div style="width:100%">
+
+                      
+                                              <img src="imagenessonora/imagenes.php?src=../img/PAN.reformas.ok.jpg&w=430&h=250&zc=1" width="100%"  />
+
+                                            
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>
+
+                        Acción Nacional le dice con toda claridad al presidente que todo lo que sea bueno para México lo va a votar a favor, pero al mismo tiempo le advierte que no permitirá ninguna reforma que acabe con 
+                                              <a href="vernoticias.php?artid=293315&relacion=&tipo=Nacional&categoria=2">
+
+                                                  Leer más...
+
+                                                </a>
+
+                                            </p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293308&relacion=&tipo=Nacional&categoria=2">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Reclama AMLO que EU utilice a México como moneda de cambio, es electorero</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293266&relacion=&tipo=Nacional&categoria=2">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Oposición reacciona al paquete de reformas de AMLO: condicionan su aprobación</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293265&relacion=&tipo=Nacional&categoria=2">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Xóchitl Gálvez pide a EUA ‘vigilar’ elecciones y defender a México del ‘autoritarismo’</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293264&relacion=&tipo=Nacional&categoria=2">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">El paquete de Reformas del Presidente fortalece los derechos, libertades y la democracia: Claudia Sheinbaum</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+              <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">INTERNACIONAL</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                      
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293314&relacion=&tipo=Internacional&categoria=3">
+
+                        <span style="color:#000;font-family:'Playfair Display',serif; font-size:30px;"> 
+
+                          Sebastián Piñera, expresidente de Chile, muere a los 74 años en accidente aéreo
+                                                </span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div style="width:100%">
+
+                      
+                                              <img src="imagenessonora/imagenes.php?src=../img/pineira.chile.jpg&w=430&h=250&zc=1" width="100%"  />
+
+                                            
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>
+
+                        Sebastián Piñera, expresidente de Chile que enfrentó durante su Gobierno las protestas más grandes que vivió el país en décadas, murió este 6 de febrero en un accidente aéreo.La Tercera repor
+                                              <a href="vernoticias.php?artid=293314&relacion=&tipo=Internacional&categoria=3">  
+
+                                                  Leer más...
+
+                                                </a>
+
+                                            </p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293270&relacion=&tipo=Internacional&categoria=3">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">El rey Carlos padece cáncer pero seguirá al mando; ya está bajo tratamiento</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293210&relacion=&tipo=Internacional&categoria=3">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">AMLO arremete contra Tim Golden por reportaje que lo vincula con el Cártel de Sinaloa: &#039;Deberían darle el premio a la calumnia&#039;</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293199&relacion=&tipo=Internacional&categoria=3">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">No existen pruebas de que campaña de AMLO en 2006 recibió dinero del &#039;narco&#039;: Mike Vigil</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293192&relacion=&tipo=Internacional&categoria=3">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Cierre de investigación de EU sobre presunto financiamiento del narco a campaña de AMLO evidencia dificultad para indagar estos temas: Tim Golden</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+              <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">SEGURIDAD PÚBLICA</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                      
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                          <a href="vernoticias.php?artid=293294&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                        <span style="color:#000; font-family: 'Playfair Display',serif;font-size:30px;">
+
+                          Ataque armado contra trabajadores del campo en Caborca deja cuatro muertos y siete heridos
+                                                </span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>
+
+                        La Fiscalía de Sonora abrió este domingo una carpeta de investigación por los hechos en los que cuatro personas fueron asesinadas y siete más resultaron lesionadas en la brecha de terracería que 
+                                              <a href="vernoticias.php?artid=293294&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                                                  Leer más...
+
+                                                </a>
+
+                                            </p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293293&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Asesinan sicarios a dos mujeres y un niño en Maycoba</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293138&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">El Cártel de Sinaloa aportó millones de dólares a la campaña de AMLO en 2006, según Anabel Hernández</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293093&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">FGR Acusa Encubrimiento de García Luna en Asesinato de Colosio</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=292980&relacion=&tipo=Seguridad y Justicia&categoria=4">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Rinde protesta nuevo secretario de Seguridad Pública de Guerrero</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+                            <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">ECONOMÍA</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                      
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293300&relacion=&tipo=Economía&categoria=301">
+
+                        <span style="color:#000; font-family: 'Playfair Display', serif; font-size:30px;">Cobalto, cobre, litio y níquel potenciarían ‘nearshoring’ en México</span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>Entre las cosas que debe hacer México para aprovechar mejor el fenómeno de la relocalización de cadenas productivas, conocido como nearshoring, empresas y gobiernos deben acordar el acceso a cobalt
+                                            <a href="vernoticias.php?artid=293300&relacion=&tipo=Economía&categoria=301">Leer más...</a></p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293216&relacion=&tipo=Economía&categoria=301">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">AMLO enviará nueva reforma eléctrica tras decisión de SCJN</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293209&relacion=&tipo=Economía&categoria=301">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Mercado de Litio 2024: Desafíos y Estrategias para la Industria Minera</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293208&relacion=&tipo=Economía&categoria=301">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">BYD Explora Acuerdo con Sigma Lithium: Avance en Vehículos Eléctricos</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc;margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293183&relacion=&tipo=Economía&categoria=301">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Xóchitl Gálvez y PAN van con reforma a pensiones de AMLO</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+              <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">MIGRACIÓN</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                      
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293171&relacion=&tipo=Migración&categoria=50">
+
+                        <span style="color:#000; font-family: 'Playfair Display', serif; font-size:30px;">"El sueño americano no existe, es una pesadilla": la historia del niño salvadoreño que cruzó el desierto de Sonora para poder reunirse con sus padres</span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>Nos hemos acostumbrado a ver a cientos de migrantes llegando a nuestras costas. Personas que buscan una mejor vida en el soñado país vecino, películas que mitifican el sueño americano y que hacen 
+                                            <a href="vernoticias.php?artid=293171&relacion=&tipo=Migración&categoria=50">Leer más...</a></p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293114&relacion=&tipo=Migración&categoria=50">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Biden, sin fronteras: más encuentros durante su Administración que en los tres mandatos presidenciales anteriores juntos</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293023&relacion=&tipo=Migración&categoria=50">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Biden ofrece cerrar la frontera con México; &#039;hora de arreglar&#039; crisis migratoria, dice</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293021&relacion=&tipo=Migración&categoria=50">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">El drama de la migración desde los ojos de un niño</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293016&relacion=&tipo=Migración&categoria=50">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Canciller Bárcena advierte a EUA: si cierran frontera, no solo México sale afectado</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+                          <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">JUSTICIA</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                  
+                                    <ul>
+
+                                      
+                                    </ul>
+
+                </div>
+
+              </div>
+
+                            <div class="content-panel">
+
+                <div class="header">
+
+                  <b style="background:#a21d1d; padding:10px; color:#FFF;">SOCIEDAD</b>
+
+                </div>
+
+                                <br>
+
+                <div class="panel-content">
+
+                                    
+
+                  <div class="article-big-block">
+
+                                      <div class="article-header">
+
+                                            <a href="vernoticias.php?artid=293137&relacion=&tipo=Sociedad=466">
+
+                        <span style="color:#000; font-family: 'Playfair Display', serif; font-size:30px;">Seguro gratuito IMSS-Bienestar: así puedes registrarte en el programa de atención médica GRATIS en México</span>
+
+                                            </a>
+
+                    </div>
+
+                                        <div class="article-content">
+
+                      <p>El&nbsp;Gobierno de México&nbsp;abrió a la población de los&nbsp;23 estados afiliados&nbsp;al&nbsp;IMSS-Bienestar&nbsp;el registro en línea al sistema de credencialización, es decir, para que pue
+                                            <a href="vernoticias.php?artid=293137&relacion=&tipo=Sociedad=466">Leer más...</a></p>
+
+                    </div>
+
+                  </div>
+
+                                    
+                                    <ul>
+
+                                          
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=293027&relacion=&tipo=Sociedad=466">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Fallece madre de Caro Quintero en Guadalajara</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=292940&relacion=&tipo=Sociedad=466">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Se adelantarán pagos de programas del Bienestar por veda electoral</h3>
+
+                                            </a>
+
+                    </li>
+
+                                            
+
+                    <li style="border-bottom: 1px dotted #cccccc; margin-bottom: 15px;">
+
+                      <a href="vernoticias.php?artid=292920&relacion=&tipo=Sociedad=466">
+
+                                              <h3 style= "font-family:Arial, Helvetica, sans-serif; color:#000; font-size:14px; font-weight:lighter; line-height:15px">Por ley habrá clínicas veterinarias públicas en todo México</h3>
+
+                                            </a>
+
+                    </li>
+
+                                        
+                                    </ul>
+
+                </div>
+
+              </div>
+
+            </div>
+
+            <div class="main-split-right">
+
+              <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Ocio y Cultura</h1>
+
+                                <hr>
+
+                                  
+
+                <div class="article-header" style="padding-left:10px; padding-right:10px;">
+
+                                  <a href="vernoticias.php?artid=293289&relacion=&tipo=OcioyCultura&categoria=5" >
+
+                                    <span style="color:#000;  font-family:'Arial Narrow', Helvetica, sans-serif; font-size:24px; font-weight:600;">La jujeña que descubrió en Guaymas su hogar y progreso</span>
+
+                                  </a>
+
+                </div>
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/fcq1tufv.png&w=300&h=200&zc=1" width="100%" />
+
+                                                                  
+
+                                <br>
+
+                                <div class="article-content">
+
+                  <p>Para Camila Díaz el paraíso de México está -indudablemente- en Guaymas. Una tierra prometida que goza del mar en primera persona y de un clima ún
+                                    <a href="vernoticias.php?artid=293289&relacion=&tipo=OcioyCultura&categoria=5">Leer más...</a></p>
+
+                </div>
+
+                                
+                                <ul class="article-array content-category">
+
+                                    
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293272&relacion=&tipo=OcioyCultura&categoria=5">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Murió la actriz Helena Rojo a los 79 años tras luchar contra el cáncer</h3>
+
+                                      </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293166&relacion=&tipo=OcioyCultura&categoria=5">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Calabozos de Sonora abren sus puertas al público para llevarte a recorrer sus enigmas: FECHAS</h3>
+
+                                      </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293165&relacion=&tipo=OcioyCultura&categoria=5">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Petrograbados ancestrales en Caborca</h3>
+
+                                      </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293107&relacion=&tipo=OcioyCultura&categoria=5">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Dani Flow Sufre Aparatosa Caída Durante Concierto</h3>
+
+                                      </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                    
+                              </ul>
+
+              </div>
+
+                            <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Deportes</h1>
+
+                                <hr>
+
+                                  
+
+                <div class="article-header" style="padding-left:10px; padding-right:10px;">
+
+                                      <a href="vernoticias.php?artid=293212&relacion=&tipo=Deportes&categoria=457" >
+
+                                          <span style="color:#000;  font-family:'Arial Narrow', Helvetica, sans-serif; font-size:24px; font-weight:600;">Liga de Expansión MX: Tlaxcala se impone en su visita a los Cimarrones de Sonora</span>
+
+                                        </a>
+
+                </div>
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/9b60zegh.png&w=300&h=200&zc=1" width="100%" />
+
+                                                                
+
+                                
+
+                                
+
+                                
+
+                                <br>
+
+                                <div class="article-content">
+
+                  <p>El Héroe de Nacozari fue testigo de la derrota de los Cimarrones por dos goles a unos antes los Coyotes, duelo correspondiente a la Jornada 4 del Cla
+                                    <a href="vernoticias.php?artid=293212&relacion=&tipo=Deportes&categoria=457">Leer más...</a></p>
+
+                </div>
+
+                                
+                                <ul class="article-array content-category">
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293070&relacion=&tipo=Deportes&categoria=457">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Claudia Sheinbaum se pone la gorra de los Naranjeros de México</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293056&relacion=&tipo=Deportes&categoria=457">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">San Francisco remonta a Detroit y enfrentará a Kansas City en Supertazón</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=292938&relacion=&tipo=Deportes&categoria=457">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Naranjeros es campeón de la LMP; representará a México en la Serie del Caribe</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                    
+                              </ul>
+
+              </div>
+
+                            
+
+                            
+
+                            <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Transparencia</h1>
+
+                                <hr>
+
+                                  
+
+                <div class="article-header" style="padding-left:10px; padding-right:10px;">
+
+                                      <a href="vernoticias.php?artid=293268&relacion=&tipo=Transparencia&categoria=574" >
+
+                                          <span style="color:#000;  font-family:'Arial Narrow', Helvetica, sans-serif; font-size:24px; font-weight:600;">&#039;Las funciones autónomas del INAI no pueden ser absorbidas por ningún poder&#039;, advierte el órgano</span>
+
+                                        </a>
+
+                </div>
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/inai.reformas.4.jpg&w=300&h=200&zc=1" width="100%" />
+
+                                                                
+
+                                
+
+                                
+
+                                
+
+                                <br>
+
+                                <div class="article-content">
+
+                  <p>El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI) aseguró que&nbsp;analizará la reforma cons
+                                    <a href="vernoticias.php?artid=293268&relacion=&tipo=Transparencia&categoria=574">Leer más...</a></p>
+
+                </div>
+
+                                
+                                <ul class="article-array content-category">
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293130&relacion=&tipo=Transparencia&categoria=574">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Rinde Presidenta del ISTAI informe de actividades 2023 ante el Poder Legislativo</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293104&relacion=&tipo=Transparencia&categoria=574">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">INAI inicia investigación por filtración de datos de periodistas que cubren mañaneras de AMLO</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293060&relacion=&tipo=Transparencia&categoria=574">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Viola CEDH Sonora la Ley de Transparencia</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                    
+                              </ul>
+
+              </div>
+
+                            
+
+                            <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Corrupción</h1>
+
+                                <hr>
+
+                                
+                                <ul class="article-array content-category">
+
+                                    
+                              </ul>
+
+                                
+
+              </div>
+
+                            
+
+                            
+
+                           
+
+              <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Medio ambiente</h1>
+
+                                <hr>
+
+                                  
+
+                <div class="article-header" style="padding-left:10px; padding-right:10px;">
+
+                                      <a href="vernoticias.php?artid=293313&relacion=&tipo=Medio_ambiente&categoria=573" >
+
+                                          <span style="color:#000;  font-family:'Arial Narrow', Helvetica, sans-serif; font-size:24px; font-weight:600;">Exigen Pueblos originarios revisar “megaproyectos” con alto consumo de agua</span>
+
+                                        </a>
+
+                </div>
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/protesta.agua2.jpg&w=300&h=200&zc=1" width="100%" />
+
+                                                                
+
+                                
+
+                                
+
+                                
+
+                                <br>
+
+                                <div class="article-content">
+
+                  <p>Ciudad de México. Vecinos de Coyoacán, Tlalpan y Xochimilco que integran el Frente por la Defensa de los Derechos de los Pueblos y Barrios Originari
+                                    <a href="vernoticias.php?artid=293313&relacion=&tipo=Medio_ambiente&categoria=573">Leer más...</a></p>
+
+                </div>
+
+                                
+                                <ul class="article-array content-category">
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293211&relacion=&tipo=Medio_ambiente&categoria=573">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Cinco especies de Latinoamérica se encuentran en peligro de extinción: ¿cuáles son?</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293146&relacion=&tipo=Medio_ambiente&categoria=573">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Más de 50 conflictos mineros requieren atención urgente: colectivo ambientalista</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293113&relacion=&tipo=Medio_ambiente&categoria=573">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">La directora de vida silvestre utiliza a la Semarnat para beneficiar a poderosas empresas</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=293055&relacion=&tipo=Medio_ambiente&categoria=573">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Ratifica Sheinbaum compromiso para proteger el medio ambiente</h3>
+
+                                        </a>
+
+                                        
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                    
+                              </ul>
+
+              </div>
+
+                            
+                            <div class="post-166 post type-post status-publish format-standard hentry category-gossips category-technology article-small-block" id="post-166" style="background:#CECEBF; padding:10px;">
+
+                              <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; font-size:26px;">Tecnología</h1>
+
+                                <hr>
+
+                                  
+
+                <div class="article-header" style="padding-left:10px; padding-right:10px;">
+
+                                      <a href="vernoticias.php?artid=292969&relacion=&tipo=Tecnologia&categoria=459" >
+
+                                          <span style="color:#000;  font-family:'Arial Narrow', Helvetica, sans-serif; font-size:24px; font-weight:600;">Alphabet, Amazon, Microsoft... investigadas por EU por IA y competencia</span>
+
+                                        </a>
+
+                </div>
+
+                
+                                  <img src="imagenessonora/imagenes.php?src=../img/sanciones.amazon.microsoft.jpg&w=300&h=200&zc=1" width="100%" />
+
+                                                                
+
+                                <br>
+
+                                <div class="article-content">
+
+                  <p>Estados Unidos, a través de la Comisión Federal de Comercio (FTC) anunció que investigará a 5 de las grandes tecnológicas sobre sus estrategias d
+                                    <a href="vernoticias.php?artid=292969&relacion=&tipo=Tecnologia&categoria=459">Leer más...</a></p>
+
+                </div>
+
+                                
+                                <ul class="article-array content-category">
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=292951&relacion=&tipo=Tecnologia&categoria=459">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Investigadores chinos desarrollan una pila de flujo de vanadio de alta densidad energética</h3>
+
+                                        </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                        
+
+                  <li>
+
+                    <a href="vernoticias.php?artid=292921&relacion=&tipo=Tecnologia&categoria=459">
+
+                                            <h3 style="color:#000; font-weight:normal; font-family:Arial, Helvetica, sans-serif; line-height:15px;">Crece en México un 95% el empleo relacionado con la inteligencia artificial en 2023</h3>
+
+                                        </a>
+
+                  </li>
+
+                                    <div style="clear:both;"></div>
+
+                                    
+                              </ul>
+
+                                
+
+              </div>
+
+              
+
+                            
+
+            </div>
+
+                            
+
+            <div class="clear-float"></div>
+
+            
+          </div>
+
+                    <br>
+
+                    <img src="aaa.jpg" width="100%" alt=""/><br>
+
+                    <div class="main-content-split">
+
+                      <div class="main-split-left1"  >
+
+                        <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; color:#F00; font-size:26px;">Columnas</h1>
+
+              
+
+              
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Ramón Alfonso Sallard
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293284&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    La reforma indígena y los Acuerdos de San Andrés Larráinzar
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Lic. Francisco Javier Aragón Salcido
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293282&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    El Síndrome de Alcibíades. Cuando los estrategas mudan de partido
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Feliciano J. Espriella
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293276&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Lorenia Valles, una política sin tacha
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    José F. Medina
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293275&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Una breve historia de truculencia partidista
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    César del Pardo Escalante
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293274&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Morena y Fuerza y Corazón por México ¿Y el candidato de izquierda?&nbsp;
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Roberto Dyke Rivera
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293273&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Manlio, visita social… y, Morena, ¿lucirá compacta?
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Leo Zuckerman
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293271&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Polarización y guerra civil
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Arturo Soto Munguía
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293253&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Fiesta de bienvenida para Benjamín González
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Ramón Alfonso Sallard
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293252&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Delitos contra la administración de justicia de tres ministros de la Corte
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; color:#F00; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                                    Feliciano J. Espriella
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293228&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    ¿Qué pasó con el FAOT 2024?
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+              
+
+              
+
+                            
+
+            </div>
+
+            <div class="main-split-right1">
+
+                          <h1 style="font-family:'Impact', Arial, sans-serif; font-weight:200; color:#606; font-size:26px;">Opinión</h1>
+
+              
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Héctor Aguilar Camín
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293307&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Los testigos protegidos y la realidad
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Jorge Zepeda Patterson
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293296&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Las reformas, entre la astucia y la historia
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Rozones
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293290&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Sonora violento
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Luis NuÃ±ez
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293258&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Propuesta de reforma a la Ley de Minería presentada por el presidente de México:
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Héctor Aguilar Camín
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293234&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    &#039;Chapulines y chaqueteros&#039;
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Julieta del Rio Venegas
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293206&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Transparencia y reparación del daño: el caso del Río Sonora
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Jorge Zepeda Patterson
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293200&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Claudia Sheinbaum y el reparto
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Jorge G. Castañeda
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293198&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Las opciones de México frente a los reclamos migratorios de EU
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Dr. Carlos G. Palafox Moyers
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293158&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    Los pronósticos económicos tendenciosos y fallidos de la oposición (segunda parte)
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                                    
+
+                    <div style="width:100%;">
+
+                                            <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                                <span style="float:right; font-family: Arial, Helvetica, sans-serif; color:#606; font-size:16px; padding-top:40px;"> 
+
+                                                    Héctor Aguilar Camín
+                                                </span>
+
+                                            </div>
+
+                                            <a href="vercolumnas.php?artid=293156&relacion=dossierpolitico&categoria=292">
+
+                                                <h2 style="padding-top:20px; font-size:18px; color:#000; font-weight:100; height:70px; line-height:18px;">
+
+                                                    La &#039;matachina&#039;
+                                                </h2>
+
+                                            </a>
+
+                                        </div>
+
+                                    
+
+                
+
+                                
+                            
+
+                            <br>
+
+            </div>
+
+            <div class="clear-float"></div>
+
+                        <br><br>
+
+                        
+          </div>
+
+                    <br>
+
+                    
+
+                    
+
+                    
+
+                    
+
+                   
+
+          <div class="main-nosplit">
+
+            <div class="content-panel">
+
+              <h1>Reportaje</h1>
+
+                            <hr>
+
+                            <br>
+
+              <div class="panel-content">
+
+                <div class="video-blocks">
+
+                  <div class="video-left">
+
+                                      
+                    <div class="video-large">
+
+                      <div class="video-image">
+
+                        <a href="vernoticias.php?artid=293021&relacion=&tipo=Reportajes&categoria=455">
+
+
+<img src="imagenessonora/imagenes.php?src=../img/SOLITO3.jpg&w=330&h=242&zc=1" class="setborder" />
+
+ 
+
+                                                
+
+                                                  
+
+                        </a>
+
+                      </div>
+
+                      <h1 >
+
+                                              <a href="vernoticias.php?artid=293021&relacion=&tipo=Reportajes&categoria=455" >
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px; font-weight:100; line-height:30px;">El drama de la migración desde los ojos de un niño</span>
+
+                                              </a>
+
+                                            </h1>
+
+                    </div>
+
+                                        
+                  </div>
+
+                  <div class="video-right">
+
+                                      
+                                    </div>
+
+                  <div class="clear-float"></div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+                    
+
+                    
+
+                    <div class="main-nosplit">
+
+            <div class="content-panel">
+
+              <h1>Entrevistas</h1>
+
+                            <hr>
+
+                            <br>
+
+              <div class="panel-content">
+
+                <div class="video-blocks">
+
+                  <div class="video-left">
+
+                                      
+                    <div class="video-large">
+
+                      <div class="video-image">
+
+                        <a href="vernoticias.php?artid=293054&relacion=&tipo=Entrevistas&categoria=320">
+
+
+<img src="imagenessonora/imagenes.php?src=../img/diego.osorno3.jpg&w=330&h=242&zc=1" class="setborder" />
+
+ 
+
+                                                
+
+                                                  
+
+                        </a>
+
+                      </div>
+
+                      <h1 >
+
+                                              <a href="vernoticias.php?artid=293054&relacion=&tipo=Entrevistas&categoria=320">
+
+                                                  <span style="color:#000; font-family:'Playfair Display',serif;font-size:30px; font-weight:100; line-height:30px;">“Llegué al zapatismo cuando había pasado de moda”: Diego Enrique Osorno</span>
+
+                                              </a>
+
+                                            </h1>
+
+                    </div>
+
+                                        
+                  </div>
+
+                  <div class="video-right">
+
+                                      
+                    <div class="video-small">
+
+                      <div class="video-image">
+
+                        <a href="vernoticias.php?artid=293029&relacion=&tipo=Entrevistas&categoria=320">
+
+
+<img src="imagenessonora/imagenes.php?src=../img/ana.berlen.jpg&w=155&h=100&zc=1" class="setborder" />
+
+                                                 
+
+                                                  
+
+                        </a>
+
+                      </div>
+
+                      <h2>
+
+                                              <a href="vernoticias.php?artid=293029&relacion=&tipo=Entrevistas&categoria=320">
+
+                                                  Ana Belén: “Hacerse mayor es una putada porque, mentalmente, te sientes tan joven”
+                                                </a>
+
+                                            </h2>
+
+                    </div>
+
+                                        
+                                    </div>
+
+                  <div class="clear-float"></div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+                    
+
+                    
+
+          <div class="main-nosplit">
+
+            <div class="content-panel">
+
+              <h1>Videos</h1>
+
+                            <hr>
+
+                            <br>
+
+              <div class="panel-content">
+
+                <div class="video-blocks">
+
+                  <div class="video-left">
+
+                                      
+                    <div class="video-small">
+
+                      <div class="video-image">
+
+                                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/VK3fCgNSbPM?si=0i6FAskfYLzAkx3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+                      </div>
+
+                    </div>
+
+                                       
+                    <div class="video-small">
+
+                      <div class="video-image">
+
+                                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/qzM5AQLnOZs?si=VsCOABNsorsXBQmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+                      </div>
+
+                    </div>
+
+                                       
+                  </div>
+
+                  <div class="video-right">
+
+                                                        
+
+                                        <div class="video-small">
+
+                                          <div class="video-image">
+
+                                              <iframe width="100%" height="150" src="https://www.youtube.com/embed/frNnmJGw0cU?si=RVfYUQ2MmVP2OhY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+                                        </div>
+
+                    </div>
+
+                                                          
+
+                                        <div class="video-small">
+
+                                          <div class="video-image">
+
+                                              <iframe width="100%" height="150" src="https://www.youtube.com/embed/IOXxAhNqbkc?si=7XLk7jnSEMTjCPlB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+                                        </div>
+
+                    </div>
+
+                                        
+                                    </div>
+
+                  <div class="clear-float"></div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="main-content-right">
+
+          <div class="main-nosplit" style="margin-left: 10px;">
+
+                      <div class="widget-1 first panel">
+
+						  
+
+						  <a href="https://www.dossierpolitico.com" target="_blank"><img src="../../images/cartas.jpg" width="100%" border="0" alt="Cartas..."/></a>
+
+						  
+
+						  
+
+                        </div> 
+
+                        
+
+                      
+
+                        
+
+            <div class="widget-6 panel">
+
+                            <h3>Encuesta</h3>
+
+                            <div>
+
+                
+<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="#CCCED2">
+<tr align="center">
+<td>
+<style type="text/css">
+<!--
+ .input { font-family: Arial, Arial, sans-serif; font-size: 10pt}
+ .links { font-family: Arial, Arial, sans-serif; font-size: 10pt; color: #000000}
+-->
+</style></td>
+</tr>
+<tr align="center">
+ <td><table width="100%" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="#CCCED2">
+ <tr valign="middle">
+   <td height="40"><font face="Arial, Arial, sans-serif" color="#000000" size="3"><b>Marcelo Ebrard debe irse de Morena y probar suerte en otro partido</b></font></td>
+ </tr>
+ <tr align="right" valign="bottom">
+   <td>
+     <table border="0" cellspacing="0" cellpadding="1" width="100%" align="center">
+       <tr valign="top">
+        <td>
+         <table width="100%" border="0" cellspacing="0" cellpadding="1" align="center">
+<tr>
+    <td height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">si debe probar suerte en otro partido</font></td>
+    <td nowrap height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">62.2%</font></td>
+</tr>
+<tr>
+    <td height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">no debe probar suerte en otro partido</font></td>
+    <td nowrap height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">20.0%</font></td>
+</tr>
+<tr>
+    <td height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">No tengo opinion</font></td>
+    <td nowrap height="22"><font face="Arial, Arial, sans-serif" color="#000000" size="3">17.8%</font></td>
+</tr>
+       </table>
+       </td></tr>
+      <tr><td height="2">&nbsp;</td></tr>
+     </table>
+    </td>
+   </tr>
+ </table>
+</td>
+</tr>
+</table>
+
+                            </div>
+
+                        </div><div class="widget-6 panel">
+
+                        <h3>Recomendamos</h3>
+
+                            <style>
+
+                .captionOrange, .captionBlack{color: #fff;font-size: 20px;line-height: 30px;text-align: center;border-radius: 4px;}
+
+                .captionOrange{background: #EB5100;background-color: rgba(235, 81, 0, 0.6);}
+
+                .captionBlack{font-size:16px;background: #000;background-color: rgba(0, 0, 0, 0.4);}
+
+                a.captionOrange, A.captionOrange:active, A.captionOrange:visited{color: #ffffff;text-decoration: none;}
+
+                a.captionOrange:hover{color: #eb5100;text-decoration: underline;background-color: #eeeeee;background-color: rgba(238, 238, 238, 0.7);}
+
+                .bricon{}
+
+                </style>
+
+              <script type="text/javascript" src="js/jssor.js"></script>
+
+                        <script type="text/javascript" src="js/jssor.slider.js"></script>
+
+              <script>
+
+                jQuery(document).ready(function ($) {
+
+                  //Reference https://www.jssor.com/development/slider-with-slideshow-jquery.html
+
+                  //Reference https://www.jssor.com/development/tool-slideshow-transition-viewer.html
+
+                        var _SlideshowTransitions = [
+
+                    //Fade in R
+
+                    {$Duration: 1200, x: -0.3, $During: { $Left: [0.3, 0.7] }, $Easing: { $Left: $JssorEasing$.$EaseInCubic, $Opacity: $JssorEasing$.$EaseLinear }, $Opacity: 2 }
+
+                    //Fade out L
+
+                    , { $Duration: 1200, x: 0.3, $SlideOut: true, $Easing: { $Left: $JssorEasing$.$EaseInCubic, $Opacity: $JssorEasing$.$EaseLinear }, $Opacity: 2 }
+
+                  ];
+
+                  var options = {
+
+                    $AutoPlay: true,//[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+
+                    $AutoPlaySteps: 1,//[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1
+
+                    $AutoPlayInterval: 4000,//[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+
+                    $PauseOnHover: 1,//[Optional] Whether to pause when mouse over if a slider is auto playing, 0 no pause, 1 pause for desktop, 2 pause for touch device, 3 pause for desktop and touch device, 4 freeze for desktop, 8 freeze for touch device, 12 freeze for desktop and touch device, default value is 1
+
+                    $ArrowKeyNavigation: true,//[Optional] Allows keyboard (arrow key) navigation or not, default value is false
+
+                    $SlideDuration: 800,//[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+
+                    $MinDragOffsetToSlide: 20,//[Optional] Minimum drag offset to trigger slide , default value is 20
+
+                    //$SlideWidth: 300,//[Optional] Width of every slide in pixels, default value is width of 'slides' container
+
+                    //$SlideHeight: 200,//[Optional] Height of every slide in pixels, default value is height of 'slides' container
+
+                    $SlideSpacing: 0,//[Optional] Space between each slide in pixels, default value is 0
+
+                    $DisplayPieces: 1,//[Optional] Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1
+
+                    $ParkingPosition: 0,//[Optional] The offset position to park slide (this options applys only when slideshow disabled), default value is 0.
+
+                    $UISearchMode: 1,//[Optional] The way (0 parellel, 1 recursive, default value is 1) to search UI components (slides container, loading screen, navigator container, arrow navigator container, thumbnail navigator container etc).
+
+                    $PlayOrientation: 1, //[Optional]Orientation to play slide (for auto play, navigation), 1 horizental, 2 vertical, 5 horizental reverse, 6 vertical reverse, default value is 1
+
+                    $DragOrientation: 3,//[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+
+                    $SlideshowOptions: {//[Optional] Options to specify and enable slideshow or not
+
+                      $Class: $JssorSlideshowRunner$,//[Required] Class to create instance of slideshow
+
+                      $Transitions: _SlideshowTransitions,//[Required] An array of slideshow transitions to play slideshow
+
+                      $TransitionsOrder: 1,//[Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+
+                      $ShowLink: true//[Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+
+                    },
+
+                    $BulletNavigatorOptions: {//[Optional] Options to specify and enable navigator or not
+
+                      $Class: $JssorBulletNavigator$,//[Required] Class to create navigator instance
+
+                      $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                      $Lanes: 1,//[Optional] Specify lanes to arrange items, default value is 1
+
+                      $SpacingX: 10,//[Optional] Horizontal space between each item in pixel, default value is 0
+
+                      $SpacingY: 10 //[Optional] Vertical space between each item in pixel, default value is 0
+
+                    },
+
+                    $ArrowNavigatorOptions: {
+
+                      $Class: $JssorArrowNavigator$,//[Requried] Class to create arrow navigator instance
+
+                      $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                      $AutoCenter: 2//[Optional] Auto center navigator in parent container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+
+                    },
+
+                    $ThumbnailNavigatorOptions: {
+
+                      $Class: $JssorThumbnailNavigator$,//[Required] Class to create thumbnail navigator instance
+
+                      $ChanceToShow: 2,//[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                      $ActionMode: 0,//[Optional] 0 None, 1 act by click, 2 act by mouse hover, 3 both, default value is 1
+
+                      $DisableDrag: true //[Optional] Disable drag or not, default value is false
+
+                    }
+
+                  };
+
+                  var jssor_sliderb = new $JssorSlider$("sliderb_container1", options);
+
+                  function ScaleSlider() {
+
+                    var parentWidth = jssor_sliderb.$Elmt.parentNode.clientWidth;
+
+                    if (parentWidth)
+
+                    jssor_sliderb.$ScaleWidth(Math.min(parentWidth, 300));
+
+                    else
+
+                      window.setTimeout(ScaleSlider, 30);
+
+                  }
+
+                  ScaleSlider();
+
+                  $(window).bind("load", ScaleSlider);
+
+                  $(window).bind("resize", ScaleSlider);
+
+                  $(window).bind("orientationchange", ScaleSlider);
+
+                    });
+
+              </script>
+
+                            <div id="sliderb_container1" style="position: relative; top: 0px; left: 0px; width: 300px;height: 350px; overflow: hidden;">
+
+                                <div u="slides" style="position: absolute; left: 0px; top: 0px; width: 300px; height: 350px; overflow: hidden;">
+
+                                    
+                                    <div>
+
+                                        <div class="article-big-block">
+
+                                            <img u=image src="img/pfrmrx3i.png" width="300" height="300" />
+
+                                            <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293281&relacion=&tipo=Principal&categoria=576">
+
+                                                    <span style="color:#000; font-family:'Playfair Display',serif;font-size:20px;">
+
+                                                      Sonora busca ampliar subsidio de CFE a la tarifa eléctrica
+                                                  </span>
+
+                                              </a>
+
+                                            </div>
+
+                                                
+
+                                        </div>
+
+                                    </div>
+
+                                    
+                                    <div>
+
+                                        <div class="article-big-block">
+
+                                            <img u=image src="img/pysss75r.png" width="300" height="300" />
+
+                                            <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293278&relacion=&tipo=Principal&categoria=576">
+
+                                                    <span style="color:#000; font-family:'Playfair Display',serif;font-size:20px;">
+
+                                                      Ceci Flores, madre buscadora, celebra cumpleaños de su hijo buscándolo
+                                                  </span>
+
+                                              </a>
+
+                                            </div>
+
+                                                
+
+                                        </div>
+
+                                    </div>
+
+                                    
+                                    <div>
+
+                                        <div class="article-big-block">
+
+                                            <img u=image src="img/Dayan.reformas.jpg" width="300" height="300" />
+
+                                            <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293269&relacion=&tipo=Principal&categoria=576">
+
+                                                    <span style="color:#000; font-family:'Playfair Display',serif;font-size:20px;">
+
+                                                      Políticos y jueces no son iguales: Pérez Dayán
+                                                  </span>
+
+                                              </a>
+
+                                            </div>
+
+                                                
+
+                                        </div>
+
+                                    </div>
+
+                                    
+                                </div>
+
+                            </div>
+
+                            
+                                    <div>
+
+                                        <div class="article-big-block">
+
+                                            <img u=image src="img/inai.reformas.4.jpg" width="300" height="300" />
+
+                                            <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293268&relacion=&tipo=Principal&categoria=576">
+
+                                                    <span style="color:#000; font-family:'Playfair Display',serif;font-size:20px;">
+
+                                                      &#039;Las funciones autónomas del INAI no pueden ser absorbidas por ningún poder&#039;, advierte el órgano
+                                                  </span>
+
+                                              </a>
+
+                                            </div>
+
+                                                
+
+                                        </div>
+
+                                    </div>
+
+                                    
+                                    <div>
+
+                                        <div class="article-big-block">
+
+                                            <img u=image src="img/diputados.reforma.jpg" width="300" height="300" />
+
+                                            <div class="article-header">
+
+                                              <a href="vernoticias.php?artid=293267&relacion=&tipo=Principal&categoria=576">
+
+                                                    <span style="color:#000; font-family:'Playfair Display',serif;font-size:20px;">
+
+                                                      Diputados reciben reformas constitucionales de AMLO; definirán ruta el 7 de febrero
+                                                  </span>
+
+                                              </a>
+
+                                            </div>
+
+                                                
+
+                                        </div>
+
+                                    </div>
+
+                                    
+            </div>  
+
+            <div class="widget-1 first panel">
+
+                
+
+                
+			
+
+                            <div class="banner">
+
+                <div class="banner-block">
+
+                  
+                    <a href="#" onclick="window.open('https://www.dossierpolitico.com/dossier/ra05/', 'aio_radio_player', 'width=720, height=355'); return false;">
+
+                                          <img src="../images/tina.jpg" width="100%"  alt="Radiossier "/>
+
+                                      </a>
+
+                                  
+ 
+
+                </div>
+
+                            </div>
+
+            </div>
+
+                        <div class="widget-6 panel">
+
+                          
+
+                        </div>
+
+                        
+
+                          
+
+                        <div class="widget-2 panel">
+
+                          <div>
+
+                            <h3>Columnas destacadas</h3>
+
+                          </div>    
+
+                            <div>
+
+                            
+                <div style="width:100%;">
+
+                                <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                    <span style="float:right; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                        Ramón Alfonso Sallard
+                                      </span>
+
+                                  </div>
+
+                                  <a href="vercolumnas.php?artid=293284&relacion=dossierpolitico&categoria=577">
+
+                                    <h2 style="padding-top:20px; font-size:18px; font-weight:100; color:#000; height:50px;">
+
+                                          La reforma indígena y los Acuerdos de San Andrés Larráinzar
+                                      </h2>
+
+                                  </a>
+
+                              </div>
+
+                                
+                <div style="width:100%;">
+
+                                <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                    <span style="float:right; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                        Ramón Alfonso Sallard
+                                      </span>
+
+                                  </div>
+
+                                  <a href="vercolumnas.php?artid=293252&relacion=dossierpolitico&categoria=577">
+
+                                    <h2 style="padding-top:20px; font-size:18px; font-weight:100; color:#000; height:50px;">
+
+                                          Delitos contra la administración de justicia de tres ministros de la Corte
+                                      </h2>
+
+                                  </a>
+
+                              </div>
+
+                                
+                <div style="width:100%;">
+
+                                <div style="float:left; width:100%; border-bottom:#000 solid 1px; ">
+
+                                    <span style="float:right; font-family: Arial, Helvetica, sans-serif; font-size:16px; padding-top:40px;"> 
+
+                                        Ramón Alfonso Sallard
+                                      </span>
+
+                                  </div>
+
+                                  <a href="vercolumnas.php?artid=293227&relacion=dossierpolitico&categoria=577">
+
+                                    <h2 style="padding-top:20px; font-size:18px; font-weight:100; color:#000; height:50px;">
+
+                                          Los periodistas salinistas y la propaganda
+                                      </h2>
+
+                                  </a>
+
+                              </div>
+
+                                
+                            </div>
+
+            </div>
+
+                        <br><br>
+
+            <div class="widget-2 panel">    
+
+                            <div>
+
+                            
+                        </div>
+
+            </div>
+
+            <div class="widget-4 panel">
+
+                          <div>
+
+                            
+                  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/C1GgfFhvVg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+                              
+                        </div>
+
+                        </div>
+
+                        <br>
+
+                        <div class="widget-4 panel">    
+
+                          <h3>Lo más leído</h3>   
+
+                            <div>
+
+                <ul class="category-list">
+
+                                
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293266&relacion=&tipo=Noticias&categoria=292">
+
+                                                    Oposición reacciona al paquete de reformas de AMLO: condicionan su aprobación
+                                                </a><br>
+
+                                                Tomado de:
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293300&relacion=&tipo=Noticias&categoria=292">
+
+                                                    Cobalto, cobre, litio y níquel potenciarían ‘nearshoring’ en México
+                                                </a><br>
+
+                                                Tomado de:
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293273&relacion=&tipo=Noticias&categoria=292">
+
+                                                    Manlio, visita social… y, Morena, ¿lucirá compacta?
+                                                </a><br>
+
+                                                Roberto Dyke Rivera
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293265&relacion=&tipo=Noticias&categoria=292">
+
+                                                    Xóchitl Gálvez pide a EUA ‘vigilar’ elecciones y defender a México del ‘autoritarismo’
+                                                </a><br>
+
+                                                Tomado de:
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vernoticias.php?artid=293256&relacion=&tipo=Noticias&categoria=1">
+
+                                                    Tres organizaciones del crimen organizado se disputan plaza en la región noroeste de Sonora: FGR
+                                                </a><br>
+
+                                                2024-02-06
+                                            </li>
+
+                                      
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vernoticias.php?artid=293254&relacion=&tipo=Noticias&categoria=1">
+
+                                                    Sexta tormenta invernal a partir del martes 6 de febrero traería nevadas y lluvias a Sonora
+                                                </a><br>
+
+                                                2024-02-06
+                                            </li>
+
+                                      
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293252&relacion=&tipo=Noticias&categoria=292">
+
+                                                    Delitos contra la administración de justicia de tres ministros de la Corte
+                                                </a><br>
+
+                                                Ramón Alfonso Sallard
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vernoticias.php?artid=293255&relacion=&tipo=Noticias&categoria=1">
+
+                                                    Mujeres asesinadas en Yécora eran familiares de personas relacionadas con grupos criminales: FGJE
+                                                </a><br>
+
+                                                2024-02-06
+                                            </li>
+
+                                      
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vercolumnas.php?artid=293262&relacion=&tipo=Noticias&categoria=292">
+
+                                                    López Obrador envía un paquete de reformas constitucionales que son legado y programa electoral
+                                                </a><br>
+
+                                                Tomado de:
+                                            </li>
+
+                                       
+                                            <li>
+
+                                                <span class="category-bull" style="background:#a21d1d">&nbsp;</span>
+
+                                                <a href="vernoticias.php?artid=293259&relacion=&tipo=Noticias&categoria=1">
+
+                                                    Va FGJE tras agresores de jornaleros en Sonora
+                                                </a><br>
+
+                                                2024-02-06
+                                            </li>
+
+                                      
+                                </ul>
+
+              </div>
+
+                        </div> 
+
+            <div class="widget-4 panel">
+
+                        <div>   
+
+                                <br>
+
+                                
+                        </div>  
+
+                        </div> 
+
+            <div class="widget-6 panel">
+
+                          <div>
+
+                            <!-- Begin MailChimp Signup Form -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
+
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+</style>
+
+<div id="mc_embed_signup">
+
+<form action="//dossierpolitico.us16.list-manage.com/subscribe/post?u=eb0305b9c23fe526ae2605f14&amp;id=3470583643" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+    <div id="mc_embed_signup_scroll">
+
+  <h2>Suscribirse a Boletin Informativo</h2>
+
+<div class="indicates-required"><span class="asterisk">*</span> indican que se requiere</div>
+
+<div class="mc-field-group">
+
+  <label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+
+</label>
+
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+
+</div>
+
+<div class="mc-field-group">
+
+  <label for="mce-FNAME">Nombres</label>
+
+  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+
+</div>
+
+<div class="mc-field-group">
+
+  <label for="mce-LNAME">Apellidos </label>
+
+  <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+
+</div>
+
+<div class="mc-field-group size1of2">
+
+  <label for="mce-BIRTHDAY-month">Cumpleaños </label>
+
+  <div class="datefield">
+
+    <span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
+
+    <span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
+
+    <span class="small-meta nowrap">( mm / dd )</span>
+
+  </div>
+
+</div>  <div id="mce-responses" class="clear">
+
+    <div class="response" id="mce-error-response" style="display:none"></div>
+
+    <div class="response" id="mce-success-response" style="display:none"></div>
+
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eb0305b9c23fe526ae2605f14_3470583643" tabindex="-1" value=""></div>
+
+    <div class="clear"><input type="submit" value="Suscribir" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+    </div>
+
+</form>
+
+</div>
+
+
+
+<!--End mc_embed_signup--> 
+
+                        </div>
+
+                        </div>
+
+                        <div class="widget-6 panel">
+
+                            <h3>Síguenos en:</h3>
+
+                            <div>
+
+                                <center>
+
+                                    <a href="">
+
+                                        <img src="face.jpg" width="23">
+
+                                    </a>
+
+                                    <a href="">
+
+                                        <img src="twit.jpg" width="23">
+
+                                    </a>
+
+                                </center>
+
+                          </div>
+
+                        </div>
+
+                        <div class="widget-6 panel">
+
+                          <div style="width:49%; float:left">
+
+                
+              </div>
+
+                          <div style="width:49%; float:left">
+
+                            
+                        </div>
+
+            </div>
+
+                      <div style="clear:both;"></div>
+
+            <div class="widget-6 panel">
+
+                            <h3>Caricatura</h3>
+
+                            <div>
+
+                <a href="caricatura1.php?cid=1159" onclick="NewWindow(this.href,'name','630','450','yes');return false;"><img src="caricatura1/luy1.JPG" width="100%" alt="caricatura1/luy1.JPG" border="0"/></a>
+                        </div>
+
+                        </div>
+
+            <div class="widget-6 panel">
+
+                          <div>
+
+                
+                  <a href="https://www.dossierpolitico.com" target="_blank">
+
+                    <img src="../images/Captura web_10-6-2023_11594_.jpeg" width="100%"  alt="agenda politica"/>
+
+                  </a>
+
+                
+                          </div>
+
+                      </div>
+
+
+
+                        
+
+                        <br>
+
+            <div class="widget-6 panel">
+
+                          <div>
+
+                            
+                        </div>
+
+            </div>
+
+                      <br>
+
+            <div class="widget-6 panel">
+
+                          <div>
+
+                            
+                    <a href="https://www.tomatis.com/" target="_blank">
+
+                      <img src="../images/085da.jpeg" width="100%"  alt="tomatis"/>
+
+                    </a>
+
+                  
+                        </div>
+
+            </div>
+
+                      <br>
+
+                        <div class="widget-6 panel">
+
+                          <div>
+
+                            
+                    <a href="http://www.hermosillo.gob.mx" target="_blank">
+
+                      <img src="../images/587x587 banner desc promotora.jpg" width="100%"  alt="H. Ayuntamiento de Hermosillo"/>
+
+                    </a>
+
+                  
+                        </div>
+
+            </div>
+
+                      <br>
+
+                        <div class="widget-6 panel">
+
+                          <div>
+
+                            
+                        </div>
+
+            </div>
+
+                      <br>
+
+                        <div class="widget-6 panel">
+
+                          <div>
+
+                            
+                        </div>
+
+            </div>
+
+                      <br>
+
+                    </div>
+
+        </div>
+
+                
+        <div class="clear-float"></div>
+
+      </div>
+
+        </div>  
+
+    <div class="footer" style="background-color:#000; ">
+
+      <div class="wrapper" style="background-color:#000; padding:10px; ">
+
+        <div class="footer-content" >
+
+          <div class="footer-menu" >
+
+                        <div style="float:left; ">
+
+                          <ul class="ot-menu very-top-menu"  >
+
+                                <li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177">
+
+                                    <a href="tarifas.php">Tarifas</a>
+
+                                </li>
+
+                                <li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177">
+
+                                    <a href="pdf.php">Ediciones en PDF</a>
+
+                                </li>
+
+                                <li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177">
+
+                                    <a href="edicionesanteriores.php">Impreso</a>
+
+                                </li>
+
+              </ul>
+
+                            <br><br>
+
+              
+                                <center>
+
+                            <a href="edicionesanteriores.php" >
+
+                                <img src="imagenessonora/imagenes.php?src=../impreso/Portada18122019.jpg&w=200&h=300&zc=1" border="0"/>
+
+                            </a>
+
+                            </center>
+
+                            
+                        </div>
+
+                        <div style="float:left; padding-left:5px; padding-bottom:5px; padding-top:10px;">
+
+                            <span class="Estilo7">Medios Locales</span>:<br><br>
+
+
+
+                                <a href="https://www.radiolobo.mx" target="_blank" ><font color=#fff>RADIO LOBO</font><br></a>    <a href="https://www.elimparcial.com.mx" target="_blank" ><font color=#fff>El Imparcial</font><br></a>
+
+                                <a href="https://www.expreso.com.mx" target="_blank" ><font color=#fff>Expresso</font><br></a>
+
+                                <a href="https://www.marquesinapolitica.com" target="_blank" ><font color=#fff>Marquesina Política</font><br></a>
+
+                                <a href="https://www.kioscomayor.com" target="_blank" ><font color=#fff>Kiosco Mayor</font><br></a>
+
+                                <a href="https://www.encuentro29.com" target="_blank" ><font color=#fff>Encuentro29</font><br></a>
+
+                                <a href="https://www.vanguardiainformativa.com" target="_blank" ><font color=#fff>Vanguardia Informativa</font><br></a>
+
+                                <a href="https://www.elmineral.com.mx" target="_blank" ><font color=#fff>El Mineral</font><br></a>
+
+                                <a href="https://www.percepcion.com.mx/" target="_blank" ><font color=#fff>Percepcion</font><br></a>
+
+                                <a href="https://www.uniradionoticias.com/" target="_blank" ><font color=#fff>Uniradio Noticias</font><br></a>
+
+                                <a href="https://www.elchiltepin.com.mx" target="_blank" ><font color=#fff>El Chiltepin</font><br></a>
+
+
+
+                        </div>
+
+                        <div style="float:left; padding-left:5px; padding-bottom:5px; padding-top:10px;">
+
+                        	<span class="Estilo7">Medios Nacionales</span>:<br> <br>
+
+
+
+                                <a href="https://www.cronica.com.mx" target="_blank" ><font color=#fff>Crónica</font><br></a>
+
+                                <a href="https://www.elfinanciero.com.mx" target="_blank" ><font color=#fff>El Financiero</font><br></a>
+
+                                <a href="https://eleconomista.com.mx/" target="_blank" ><font color=#fff>El Economista</font><br></a>
+
+                                <a href="https://www.proceso.com.mx" target="_blank" ><font color=#fff>Proceso</font><br></a>
+
+                                <a href="https://www.eluniversal.com.mx" target="_blank" ><font color=#fff>El Universal</font><br></a>
+
+                                <a href="https://www.excelsior.com.mx" target="_blank"><font color=#fff>Excelsior</font><br></a>
+
+                                <a href="https://www.jornada.unam.mx" target="_blank" ><font color=#fff>La Jornada</font><br></a>
+
+                                <a href="https://www.oem.com.mx/elsoldemexico/" target="_blank" ><font color=#fff>Sol de México</font><br></a>
+
+                                <a href="https://www.milenio.com" target="_blank" ><font color=#fff>Milenio</font><br></a>
+
+                                <a href="https://www.etcetera.com.mx" target="_blank" ><font color=#fff>Etcetera</font><br></a>
+
+                                <a href="https://www.cnnexpansion.com" target="_blank" ><font color=#fff>CNN  Expansión</font><br></a>
+
+                                <a href="https://www.univision.com/content/channel.jhtml?chid=3" target="_blank" ><font color=#fff>Univisión</font><br></a>
+
+                                <a href="https://www.revistavertigo.com/" target="_blank" ><font color=#fff>Vertigo</font><br></a>
+
+
+
+                        </div>
+
+                        <div style="float:left; padding-top:10px;">
+
+                        	<span class="Estilo7">Otros sitios</span>:<br> <br>
+
+
+
+
+
+                                <a href="https://www.presidencia.gob.mx" target="_blank" ><font color=#fff>Presidencia de la República</font><br></a>
+
+                                <a href="https://www.senado.gob.mx" target="_blank" ><font color=#fff>Senado de la República</font><br></a>
+
+                                <a href="https://www.diputados.gob.mx" target="_blank" ><font color=#fff>Camara de Diputados</font><br></a>
+
+                                <a href="https://www.scjn.gob.mx" target="_blank" ><font color=#fff>Suprema Corte de Justicia de la Nación</font><br></a>
+
+                                <a href="https://www.trife.gob.mx" target="_blank" ><font color=#fff>TRIFE</font><br></a>
+
+                                <a href="https://www.ife.org.mx" target="_blank" ><font color=#fff>IFE</font><br></a>
+
+                                <a href="https://www.ifai.org.mx" target="_blank" ><font color=#fff>IFAI</font><br></a>
+
+                                <a href="https://www.inep.org" target="_blank" > <font color=#fff>Instituto Nacional de Estudios Políticos</font><br></a>
+
+                                <a href="https://www.sonora.gob.mx" target="_blank" ><font color=#fff>Gobierno del Estado de Sonora</font><br></a>
+
+                                <a href="https://www.congresoson.gob.mx" target="_blank" ><font color=#fff>Congreso del Estado de Sonora</font><br></a>
+
+                                <a href="https://www.stjsonora.gob.mx" target="_blank" ><font color=#fff>Supremo Tribunal de Justicia del Estado</font><br></a>
+
+                                <a href="https://www.ceesonora.org.mx" target="_blank" ><font color=#fff>CEESonora</font><br></a>
+
+                                <a href="https://www.transparenciasonora.org.mx" target="_blank" ><font color=#fff>ITIES</font><br></a>
+
+                        </div>
+
+                    </div>
+
+                    <div class="clear-float"></div>
+
+          <div class="left">Contáctanos  en Hermosillo, Sonora al (662) 217 35 46, Bavispe #15, entre Mina y Pino Suárez. Colonia Centro. Hermosillo, Sonora, México.
+
+              </div>
+
+          <div class="right"> 
+
+                      <a href="" target="_blank">
+
+                          Correo electrónico: <span class="__cf_email__" data-cfemail="91fee2f2f0e3d1f5fee2e2f8f4e3e1fefdf8e5f8f2febff2fefc">[email&#160;protected]</span>
+
+                        </a>
+
+                    </div>
+
+          <div class="clear-float"></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.3'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/admin/jquery.cookie5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/jquery.floating_popup.1.3.min5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/scripts5152.php?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/orange-themes-responsivead05.js?ver=1.4'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/masonry.pkgd5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/isotope/jquery.isotope.min0802.js?ver=3.6.13'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/lightbox5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/jquery.infinitescroll.mincd70.js?ver=3.8.3'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/jquery.event.movee7f0.js?ver=1.3.1'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/jquery.event.swipecd70.js?ver=3.8.3'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/ot_gallery5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/scripts5152.js?ver=1.0'></script>
+
+  <script type='text/javascript' src='wp-content/themes/legatus-theme/js/demo-settings5152.js?ver=1.0'></script>
+
+
+
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+
+  <script src="./slick/slick/slick.js" type="text/javascript" charset="utf-8"></script>
+
+  <script type="text/javascript">
+
+    $(document).on('ready', function() {
+
+      
+
+      $(".nombres").slick({
+
+        autoplay: true,
+
+        arrows: false,
+
+        infinite: true,
+
+        slidesToShow: 1,
+
+        slidesToScroll: 1
+
+      }); 
+
+    });
+
+  </script>
+
+  <!-- END body -->
+
+</body>
+
+<!-- END html -->
+
+</html>
+
