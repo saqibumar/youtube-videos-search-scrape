@@ -29,7 +29,7 @@ import json
 from .extract import json_extract
 import shutil
 import time
-# scrapy crawl youtube -a city="cdmx" -a country="mexico" -a countryCode="MX" -a lang="es" -a skeyword="cdmx"
+# scrapy crawl youtube -a city="mexico-city" -a country="mexico" -a countryCode="MX" -a lang="es" -a skeyword="cdmx"
 class YoutubeSpider(scrapy.Spider):
     name = "youtube"
     rule = (Rule(LinkExtractor(canonicalize=True, unique=True), callback="parse", follow=True))
